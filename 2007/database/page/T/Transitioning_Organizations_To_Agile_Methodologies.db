@@ -1,0 +1,127 @@
+version³13³1ts³11175128107³1cache_oldmajor³139³1cache_oldauthor³139³1cache_diff_default_author³11³1revision³140³1tscreate³11170283726³1text_default³1version³21³2ts³21175128107³2ip³276.2.0.90³2name³2text_default³2data³2summary³3Spam Removal³3text³3Two issues:
+ - How to make the transition functionally
+ - How to convince people of value/to change
+
+Required/Must have to transition:
+ - Pick a methodology
+ - have mgmt support
+ - have team support
+
+Support = Understand amount of change and impact to the org and be prepared/ready to support disruption
+
+Other things to think about when preparing:
+ - Overcome preconceived ideas ("Agile", cool yeah, I want to be quick and fast
+ - Common workspace (harder, take more time than you think)
+ - Allocate team to one project
+ - Business support/customer/product mgr "onsite" -readily available
+ - Team authority over work
+   - version control, database, etc
+ - Compensation & review practices aligned w/approach
+   - rewards for team participation
+   - execution against methodology
+ - Agile will require new ways of reporting progress
+   - showing software vs docs
+ - Start-up cost - investment in future execution opportunities
+   - loss of productivity
+   - Chaos caused by change
+   - 4-9 mnths to make full the transition
+
+What other things make it easiest:
+ - Adopt all practices together
+ - Minimum of 4, no more than 7 developers to begin w/
+ - Good team work
+ - 1+ experienced, respected developer
+   - technical, shows leadership, repected
+ - Experience product mgr
+ - Language that is easy to refactor
+ - Brand new code base
+
+Who do you need to be to be a change agent in the org:
+ - Respected person
+ - come in from outside w/experience but not a big ego
+ - successfully influence org previously
+ - not necessarily technical
+ 
+If you do not have these things can you move forward w/Agile?
+  - difficult
+  - missing some things more difficult than others
+
+What to do if you have shared resources:
+ - get resources fully allocated for periods of time
+ - task switching costs 15% and up
+ - Quicker return on priority items
+ Example 3 projects, each estimated at 3 mnths
+  - if task switch, spending one mnth on each alternativel, will get projects at 7, 8 and 9 mnths
+  - if apply committed resources for full project, will get projects at 3, 6 and 9 mnts
+ - Use interations as a shield
+  - "product in two weeks if I have dedicated resources
+  - "interation started, need to finish commitment
+ - Not all features created equal
+  - focus on high value features and deliver quickly to show value of committed resources
+
+What if legacy code/incremental implementation method
+  (Hardest, most common approach)
+ Challenges:
+  - improving the code (mging "technical debt")
+  - changing customer expectations
+  - No clear business rules
+  - Mging & mtg internal expectations of outcome
+
+  Options:
+  - Start w/green field project 1st - hand legacy to another group
+  - 
+
+Techniques for selling
+ - Sell as a business process improvement - not a new development process
+   - involving customer earlier
+   - deliver correct value, sooner
+   - customer sees value
+ - Align you pitch w/management perspective and what they care about
+
+ Jim's perscription to implement in this type of environment:
+ - Tame the Chaos
+   - put interative structure in place
+   - start producing successful, short, interative value (releases, interim solutions)
+ - Reverse the Trend
+   - TDD + customer tests
+   - Slack, i.e., space in iteration to clean code slowly
+   - Refactoring
+ - Organize bug backlog/inventory
+   - in parallel w/work above
+ - Fix important bugs
+ - Move testers forward
+ - Emerge from the darkness
+   - confidence in product up
+   - emotionally up
+   - transparency thru entire product (dark does not imply opaque)
+ - As you head into this - The Big Decision
+   - Ride the horse into the ground (until not able to add code anymore...)
+   - Substantially* reduced velocity
+   - Take time off to refactor
+   - Toss and rewrite/purchase & customize
+* If output has been slow, you will initially see speed-up in velocity, but expect to see slow down again due to eventually running into technical debt.
+
+Note: amount of slack needed goes down as code gets cleaner
+
+Note:  Jim has chapter in book on this subject and can review on his site.
+
+Team discussion went to "refactoring management"
+ - Jim very adament about not allow product owner manage, but always be transparent
+ - team was concerned about needing to control/manage amount of refactoring
+ - talked about % of velocity assigned to refactoring
+ - Jim again, does not agree, has to be driven by team and need of iterations.
+
+Jim's definition of legacy:
+ "Code w/o test, i.e., Code you are not confident you can change successfully."
+
+Books/Articles:
+"Fearless Change", Rising & Manns
+"Software by Numbers"
+jamesshore.com/agile-book/
+
+Other potential topics:
+  - Technical Debt management
+  - Managing transparency
+
+
+³3minor³30³3newauthor³31³2host³276.2.0.90³2username³2³2revision³240³2id³21145³2tscreate³21170283726³2keepts³21175128107³1cache_diff_default_major³11³1cache_diff_default_minor³1

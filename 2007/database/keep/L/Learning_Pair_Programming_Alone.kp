@@ -1,0 +1,61 @@
+³1version³21³2ts³21170194170³2ip³267.132.134.6³2name³2text_default³2data³2summary³3Offer to post flip chart notes³3text³3
+: If you bring the flipchart notes to [[Brandon CS Sanders]] he'll take photos of them and post them on the wiki.
+³3newauthor³31³3minor³30³2host³267.132.134.6³2username³2Brandon CS Sanders³2revision³21³2id³21009³2tscreate³21170194170³2keepts³21170198702³1ip³267.132.134.6³2ts³21170198702³2version³21³2name³2text_default³2data³2summary³3*³3text³3 * Need to feel comfortable/safe; help your partner feel safe
+ * Help yourself feel safe!
+ * Start with new code, or code that doesn't "belong" to either member of pair
+ * Negotiate working rules, explicit statements about safe / encouraged ways to raise concerns, objections
+ * More senior people sometimes more defensive
+ * Don't attempt to overpower resistance by force; allow non-participation
+ * Reiterate common goal
+ * Reward team accomplishment
+ * Include pair-programming session in interview
+ * Casually verbalize what you're doing in the session (refine statement if any sign of misunderstanding)
+ * Trade partners
+ * Plan other activities between P-P sessions
+ * Assume joint responsibility for problems
+ * Routinely trade roles frequently in each session (driver/navigator, red/green/refactor)
+ * Move away from keyboard (i.e. to whiteboard) for pair design episodes within P-P session
+ * Discuss reasons behind disagreements
+ * Negotiate taking turns giving in when can't agree
+ * Name a problem out loud as soon as you recognize it
+ * Ask partner for help solving problems
+ * If a technique isn't working in this session, change it
+ * Discuss changes with your partner
+ * De-stress before session; get enough sleep, food 
+ 
+Recommended written sources:
+
+"XP Explained" 
+
+³3minor³30³3newauthor³31³2username³2³2host³267.132.134.6³2revision³22³2tscreate³21170194170³2id³2111³2keepts³21170199437³1version³21³2ts³21170199437³2ip³267.132.134.6³2name³2text_default³2data³2summary³3³3text³3How to learn pair programming without an experienced partner or mentor?
+ 
+* Remember need to feel comfortable/safe; help your partner feel safe 
+* Help yourself feel safe!
+* Start with new code, or code that doesn't "belong" to either member of pair
+* Negotiate working rules, explicit statements about safe / encouraged ways to raise concerns, objections
+* More senior people sometimes more defensive
+* Don't attempt to overpower resistance by force; allow non-participation
+* Reiterate common goal
+* Reward team accomplishment
+* Include pair-programming session in interview
+* Casually verbalize what you're doing in the session (refine statement if any sign of misunderstanding)
+* Trade partners
+* Plan other activities between P-P sessions
+* Assume joint responsibility for problems
+* Routinely trade roles frequently in each session (driver/navigator, red/green/refactor)
+* Move away from keyboard (i.e. to whiteboard) for pair design episodes within P-P session
+* Discuss reasons behind disagreements
+* Negotiate taking turns giving in when can't agree
+* Name a problem out loud as soon as you recognize it
+* Ask partner for help solving problems
+* If a technique isn't working in this session, change it
+* Discuss changes with your partner
+* De-stress before session; get enough sleep, food 
+ 
+Recommended written sources:
+
+"Agile Principles, Patterns, and Practices in C#" by Robert Martin and Micah Martin
+
+"eXtreme Programming Explained" by Kent Beck & Cynthia Andres 
+
+³3newauthor³30³3minor³30³2host³267.132.134.6³2username³2³2revision³23³2id³2111³2tscreate³21170194170³2keepts³21170271894

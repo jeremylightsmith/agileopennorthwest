@@ -1,0 +1,211 @@
+/* Reset */
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+/**
+ * Color, typography and basic layout
+ * Colors:
+ * - #cdfcc1 -> light green (page surround, text blocks)
+ * - #ebf5cf -> yellow (page background)
+ * - #94d6a5 -> darker green (page and text block border)
+ */
+body {
+	background-color: #ebf5cf;
+	padding:0px;
+	text-align:center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	color: #000000;
+}
+a:link, a:visited, a:active {
+	color:#339900;
+	text-decoration: none;
+}
+a:hover {
+	color:#33CC00;
+	text-decoration: underline;
+}
+img {
+    border: 0;
+    max-width: 100%;
+}
+
+/* Common Page Structure */
+#page {
+	background-color:#ebf5cf;
+	width:100%;
+	height: auto;
+	text-align:left;
+}
+#logo {
+  display: none;
+}
+#header {
+  margin: 2.5% 2.5% 0 2.5%;
+	background-color:#ebf5cf;
+	height: auto;
+	float: right;
+	max-width: 95%;
+}
+#navbar {
+  display: none;
+}
+#right-hand-side {
+  float:right;
+  width:40%;
+  max-width: 240px;
+  padding:10px 1%;
+  margin-left: 20px;
+}
+#content {
+  margin: 0 20px 20px 20px;
+  padding: 20px 0 20px 25%;
+	background-color:#ebf5cf;
+	min-height:35em;
+	height: auto;
+	vertical-align:top;
+	clear: right;
+}
+#footer {
+  position: relative;
+  bottom: 2px;
+  right: 20px;
+  text-align: right;
+  font-size: .8em;
+  color: #99CC00;
+}
+
+/* Navigation menu */
+#nav {
+  display: block;
+  clear: both;
+  float: left;
+  width: 20%;
+  background-color: #ebf5cf;
+  margin-top: 2em;
+  margin-left: 20px;
+}
+#year-menu {
+  margin-top: 2em;
+}
+#nav li {
+  margin-bottom: 8px;
+}
+#nav ul
+{
+  list-style: none;
+  margin: 0 0 0 1em;
+  padding: 0;
+}
+#nav ul a
+{
+  font-size: .9em;
+  font-weight: 600;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #338800;
+}
+#nav ul a:hover
+{
+  color: #80A080;
+}
+
+/* Common classes */
+
+p.title {
+	font-size:1em;
+	font-weight:bold;
+}
+p.subtitle {
+	font-size:.9em;
+	font-weight:bold;
+	font-style:oblique;
+}
+div.side-panel {
+  float:top;
+  padding:0 .5em;
+  text-align:center;
+  background-color:#cdfcc1;
+  border:1px solid #006600;
+  text-align:center;
+  vertical-align:middle;
+}
+div.boxed-text {
+	margin: 1em auto;
+	max-width: 400px;
+	padding:10px;
+	text-align:left;
+	background-color:#cdfcc1;
+	border:1px solid #006600;
+	vertical-align:middle;
+}
+
+/**
+ * Layout applying to individual pages
+ **/
+ 
+/* Home Page */
+#twitter-panel {
+    float:bottom;
+    text-align:center;
+    background-color:#ebf5cf;
+    border:1px solid #ebf5cf;
+    horizontal-align:center;
+    vertical-align:middle;
+}
+div.sponsor
+{
+  margin: 0; 
+  float: left;
+  width: 28%;
+  padding: 0 2%;
+  height: 200px;
+  text-align: center;
+}
+
+/* Location Page */
+#map {
+  width: 425px;
+  max-width: 100%;
+  height: 350px;
+  border: none;
+  overflow: hidden;
+  margin: 0;
+}
+
+/* Participants Page */
+table.participants, table.schedule
+{
+    background: #cdfcc1;
+}
+
+table.participants th a
+{
+ font-style: italic;
+ text-decoration: none;
+}
+
+/* Schedule Page */
+table.schedule {
+  background: cdfcc1;
+}
+
+/* Sponsors, Groups and Hosts Pages */
+table.sponsors, table.groups, table.hosts {
+  table-layout: fixed;
+  width: 100%;
+}
+td.sponsor-logo, td.group-logo, td.host-photo
+{ 
+  text-align: center;
+  vertical-align: top;
+  padding: 2em 0;
+  width: 30%;
+}
+td.sponsor-text, td.group-text, td.host-text
+{
+  padding: 2em 0 2em 2em;
+}
+

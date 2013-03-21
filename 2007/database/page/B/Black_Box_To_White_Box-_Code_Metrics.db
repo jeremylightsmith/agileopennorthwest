@@ -1,0 +1,67 @@
+version³13³1ts³11170202994³1cache_oldmajor³16³1cache_oldauthor³14³1revision³18³1cache_diff_default_author³1³1tscreate³11170196900³1text_default³1version³21³2ts³21170202994³2ip³267.132.134.6³2name³2text_default³2data³2summary³3*³3text³3== Notes ==
+
+Black Box To White Box: The place and importance of Code Metrics in Agile Project Management 
+
+* Metrics provide additional leverage to affect product quality
+* Need to produce metrics regularly to use them effectively
+* Gain credibility=ility with business by tracking quality metrics
+** quantify technical debt
+* Make technical debt "cards" to externalize debt introduced by the team to meet a goal
+
+* Metrics:
+** number of unit tests
+** Test code coverage 
+** Cyclomatic complexity
+** Duplication
+** Dependencies on other programs
+** method size
+** coding standard
+* Tools:
+** EMMA : Coding coverage
+** PMD
+** CHECKSTYLE
+** Agitar
+** FxCop
+** Simian
+** ISM 300 Difft Metrics
+** NCover
+** Clover
+** NDefend
+
+
+http://2007.recentchangescamp.org/images/f/f1/BlackBoxToWhiteBox-notes1.jpg
+
+http://2007.recentchangescamp.org/images/7/73/BlackBoxToWhiteBox-notes2.jpg
+
+== Participants ==
+
+* [[Richard Watt]] convener
+* [[Andrew Rosenfeld]]
+* [[Wendy Singer]]
+* [[Eileen Andreasen]]
+* [[Brandon CS Sanders]]
+* [[Adam Monago]]
+* [[Ian Goodrich]]
+* [[Adam Feuer]]
+* [[Troy Frever]]
+* [[Devon Carew]]
+* [[Matt Deniston]]
+* [[Wayne Allen]]
+* [[Thomas Foy]]
+* [[William Andrew Rux III]]
+* [[Debra Lee]]
+* [[Irina Miziolek]]
+* [[Miroslav Novak]]
+* [[Dave Churchville]]
+* [[Mahlon Smith]]
+* [[Michael Granger]]
+* [[Rick Campo]]
+* [[Ian Savage]]
+* [[Michael Lynch]]
+
+== Candids ==
+
+http://2007.recentchangescamp.org/images/6/66/BlackBoxToWhiteBox-candids3.jpg
+
+http://2007.recentchangescamp.org/images/e/e5/BlackBoxToWhiteBox-candids4.jpg
+³3minor³31³3newauthor³30³2host³267.132.134.6³2username³2³2revision³28³2id³2111³2tscreate³21170196900³2keepts³21170202994³1cache_diff_default_major³1³1cache_diff_default_minor³1

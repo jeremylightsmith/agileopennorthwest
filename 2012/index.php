@@ -1,0 +1,141 @@
+<?php
+  include ( "header.php" );
+?>
+
+<div id="right-hand-side">
+
+<?php
+  include ("reg_panels.php");
+
+  if($wiki_status == 'offline') { ?>
+
+<div class="side-panel">
+
+  <p id="title">Wiki Unavailable</p>
+
+  <p>The wiki is temporarily offline while we perform maintenance.</p>
+
+</div>
+
+<?php }
+
+  include("twitter_panel.php");
+?>
+
+</div>
+
+<style>
+p.quote { font-family: Times New Roman,serif; font-style: italic; font-size: 16px }
+p.tight { margin-bottom: 0 }
+div.questions { margin: 0 2em; font-family: Times New Roman,serif;font-style: italic; font-size: 16px }
+</style>
+
+<p class="quote">"After I leave this conference, it feels like I'm starting a new life [with] ideas that make me say 'Wow, that's something I never thought of or considered but I'm excited to carry it with me.'"
+
+<p class="quote">"[I liked] running out of business cards."
+
+<p class="quote">"I was able to reconnect with the Agile / Local community in a way that gives me so much positive energy!"
+
+<h2>AGILE FOR REAL – Agile Open Northwest 2012</h2>
+
+<p>Agile Open Northwest, a non-profit alliance of agile practitioners in the US Pacific Northwest region, presents our sixth annual conference: 
+
+<ul>
+<li><b>What:</b> An <a href="openspace.php">Open Space</a> conference about Agile practices and techniques.
+<li><b>Where:</b> <a href="location.php">Seattle Center</a>, in several of the Northwest Rooms
+<li><b>When:</b> February 7 and 8, 2012 (Mark your calendar!)
+<li><b>Who:</b> YOU and other experienced, collaborative, committed agile practitioners. Registration is limited to 125 participants.
+<li><b>Cost:</b> $150 for the two day event, including continental breakfast and box lunch each day. 
+</ul>
+
+<p>Agile Open Northwest 2012 offers an opportunity to strengthen our community of practice and co-create the future for Agile development in our region. For two full days, we build on conversation after conversation as we engage important questions like:
+
+<div class="questions">
+What is Agile really?<br>
+What are the most important practices in making Agile approaches really successful on my team?<br>
+Who practices Agile philosophies, methods, principles or practices in the Northwest, and what's the impact?<br>
+What is the difference between Lean, Scrum, XP, and other Agile approaches?<br>
+What new technical challenges face Agile?<br>
+What are the latest cutting edge developments in the Agile software development world?<br>
+How do Agile frameworks and methods co-exist with project management, process control and other governance structures?<br>
+How do we adapt Agile practices to our organizations without diluting them?<br>
+Can Agile methods work in big, risky projects? How?<br>
+When distributed teams use Agile approaches, what changes?<br>
+If we adopt an Agile mindset, what might the transition look like in my organization?
+</div>
+
+<p>This two-day conference contains <i>over 60 sessions</i> bringing novices, journeymen, and experts together for face-to-face conversations exploring the most important topics in Agile software development today.
+
+<p><b>How does it work?</b> Your hosts designed this event to allow practitioners like you to meet in self-organizing groups where we can share our latest ideas, challenges, hopes, experiences and experiments. We follow an Open Space format to foster collaboration and allow the conference to take its direction from the participants themselves. Your commitment to arriving at the beginning and staying until the end both days will ensure that session after session will integrate, enhance, and deepen every participant’s understanding of achieving <b>“Agile for Real.”</b> 
+
+<?php if ($show_sponsors) { ?>
+
+<hr style="margin: 30px 0">
+
+<div id="prime-sponsors">
+	
+	<!-- $1500 Sponsors -->
+	<div class="sponsor">
+   		<a href="sponsors.php"><img style="margin-top: 60px" src="images/logo-adp-cobalt.png"></a>
+	</div>
+
+	<div class="sponsor">
+   		<a href="sponsors.php"><img src="images/ImprevLogo240w.JPG"></a>
+	</div>
+
+	<div class="sponsor">
+   		<a href="sponsors.php"><img style="margin-top: 30px" src="images/SIQLogoTagTM 240x80.jpg"></a>
+	</div>
+
+	<!-- $500 Sponsors -->
+	<div class="sponsor">
+   		<a href="sponsors.php"><img style="margin-top: 30px" src="images/AgileAdvantage.png"></a>
+	</div>
+
+	<div class="sponsor">
+   		<a href="sponsors.php"><img src="images/AgileAlliance.jpg"></a>
+	</div>
+
+	<div class="sponsor">
+   		<a href="sponsors.php"><img src="images/CheezNetBlueBG.png"></a>
+	</div>
+
+	<div class="sponsor">
+   		<a href="sponsors.php"><img style="margin-top: 30px" src="images/NetObjectives.jpg"></a>
+	</div>
+
+	<div class="sponsor">
+   		<a href="sponsors.php"><img src="images/PNSQC_logo_2012_mid-jan.jpg"></a>
+	</div>
+
+	<div class="sponsor">
+   		<a href="sponsors.php"><img style="margin-top: 10px" src="images/EPA_Rally_Logo.png"></a>
+	</div>
+
+	<div class="sponsor">
+   		<a href="sponsors.php"><img style="margin-top: 30px" src="images/SoTech_Logo_Final-Cropped.jpg"></a>
+	</div>
+
+	<div class="sponsor">
+   		<a href="sponsors.php"><img style="margin-top: 30px" src="images/V1_logo_Subheadline-COLOR-200width.jpg"></a>
+	</div>
+
+	<div class="sponsor">
+   		<a href="sponsors.php"><img style="margin-top: 30px" src="images/whitewater.png"></a>
+	</div>
+
+</div>
+
+<div style="margin: 1em 0; font-size: 0.8em; clear: left">
+	<a href="sponsors.php">About Our Sponsors...</a>
+</div>
+
+<div style="margin: 1em 0; font-size: 0.8em; color: #339900">
+	<a href="sponsorship.php">Become a Sponsor...</a>
+</div>
+
+<?php
+  }
+
+  include ( "footer.php" );
+?>

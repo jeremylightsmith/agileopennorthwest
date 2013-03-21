@@ -1,0 +1,188 @@
+³1version³21³2ts³21170370458³2ip³2131.252.213.243³2name³2text_default³2data³2summary³3*³3text³3Here I'll post some info about the refactoring survey.
+³3newauthor³31³3minor³30³2host³2131.252.213.243³2username³2³2revision³21³2id³2111³2tscreate³21170370458³2keepts³21170370956³1ip³2131.252.213.243³2ts³21170370956³2version³21³2name³2text_default³2data³2summary³3*³3text³3Most people did the refactoring survey, and some people wanted results.  Here's a quick summary.  Overall, there were 112 surveys filled out.
+
+--What languages do you regularly use?--
+C/C++	Java	.NET	Python	Ruby	Smalltalk
+18	44	34	11	22	5
+
+--What environments do you regularly use?--
+Eclipse	Emacs	IntelliJ Idea	Squeak	Visual Studio	VIM	VisualWorks
+40	10	15		4	39		14	3
+
+³3minor³30³3newauthor³30³2username³2³2host³2131.252.213.243³2revision³22³2tscreate³21170370458³2id³2111³2keepts³21170371095³1version³21³2ts³21170371095³2ip³2131.252.213.243³2name³2text_default³2data³2summary³3*³3text³3Most people did the refactoring survey, and some people wanted results.  Here's a quick summary.  Overall, there were 112 surveys filled out.
+
+*What languages do you regularly use?*
+{|
+|-
+C/C++	Java	.NET	Python	Ruby	Smalltalk
+|-
+18	44	34	11	22	5
+|}
+
+*What environments do you regularly use?*
+{|
+|-
+Eclipse	Emacs	IntelliJ Idea	Squeak	Visual Studio	VIM	VisualWorks
+|-
+40	10	15		4	39		14	3
+|}
+³3newauthor³30³3minor³30³2host³2131.252.213.243³2username³2³2revision³23³2id³2111³2tscreate³21170370458³2keepts³21170371315³1ip³2131.252.213.243³2ts³21170371315³2version³21³2name³2text_default³2data³2summary³3*³3text³3Most people did the refactoring survey, and some people wanted results.  Here's a quick summary.  Overall, there were 112 surveys filled out.
+
+*What languages do you regularly use?*
+
+Java - 44
+.NET - 34	
+Ruby - 22	
+C/C++ - 18	
+Python - 11	
+Smalltalk - 5
+
+*What environments do you regularly use?*
+
+Eclipse	- 40
+Visual Studio - 39
+IntelliJ Idea - 15	
+VIM - 14
+Emacs - 10	
+Squeak	- 4	
+VisualWorks - 3
+³3minor³30³3newauthor³30³2username³2³2host³2131.252.213.243³2revision³24³2tscreate³21170370458³2id³2111³2keepts³21170371405³1version³21³2ts³21170371405³2ip³2131.252.213.243³2name³2text_default³2data³2summary³3*³3text³3Most people did the refactoring survey, and some people wanted results.  Here's a quick summary.  Overall, there were 112 surveys filled out.
+
+==What languages do you regularly use?==
+
+Java - 44
+.NET - 34	
+Ruby - 22	
+C/C++ - 18	
+Python - 11	
+Smalltalk - 5
+
+==What environments do you regularly use?==
+
+Eclipse	- 40
+Visual Studio - 39
+IntelliJ Idea - 15	
+VIM - 14
+Emacs - 10	
+Squeak	- 4	
+VisualWorks - 3
+³3newauthor³30³3minor³30³2host³2131.252.213.243³2username³2³2revision³25³2id³2111³2tscreate³21170370458³2keepts³21170371449³1ip³2131.252.213.243³2ts³21170371449³2version³21³2name³2text_default³2data³2summary³3*³3text³3Most people did the refactoring survey, and some people wanted results.  Here's a quick summary.  Overall, there were 112 surveys filled out.
+
+===What languages do you regularly use?===
+
+Java - 44
+.NET - 34	
+Ruby - 22	
+C/C++ - 18	
+Python - 11	
+Smalltalk - 5
+
+===What environments do you regularly use?===
+
+Eclipse	- 40
+Visual Studio - 39
+IntelliJ Idea - 15	
+VIM - 14
+Emacs - 10	
+Squeak	- 4	
+VisualWorks - 3
+³3minor³30³3newauthor³30³2username³2³2host³2131.252.213.243³2revision³26³2tscreate³21170370458³2id³2111³2keepts³21170371551³1version³21³2ts³21170371551³2ip³2131.252.213.243³2name³2text_default³2data³2summary³3*³3text³3Most people did the refactoring survey, and some people wanted results.  Here's a quick summary.  Overall, there were 112 surveys filled out.
+
+'''What languages do you regularly use?'''
+
+-Java - 44
+-.NET - 34	
+-Ruby - 22	
+C/C++ - 18	
+Python - 11	
+Smalltalk - 5
+
+'''What environments do you regularly use?'''
+
+Eclipse	- 40
+Visual Studio - 39
+IntelliJ Idea - 15	
+VIM - 14
+Emacs - 10	
+Squeak	- 4	
+VisualWorks - 3
+³3newauthor³30³3minor³30³2host³2131.252.213.243³2username³2³2revision³27³2id³2111³2tscreate³21170370458³2keepts³21170371609³1ip³2131.252.213.243³2ts³21170371609³2version³21³2name³2text_default³2data³2summary³3*³3text³3Most people did the refactoring survey, and some people wanted results.  Here's a quick summary.  Overall, there were 112 surveys filled out.
+
+'''What languages do you regularly use?'''
+
+*Java - 44
+*.NET - 34	
+*Ruby - 22	
+C/C++ - 18	
+Python - 11	
+Smalltalk - 5
+
+'''What environments do you regularly use?'''
+
+Eclipse	- 40
+Visual Studio - 39
+IntelliJ Idea - 15	
+VIM - 14
+Emacs - 10	
+Squeak	- 4	
+VisualWorks - 3
+³3minor³30³3newauthor³30³2username³2³2host³2131.252.213.243³2revision³28³2tscreate³21170370458³2id³2111³2keepts³21170371936³1version³21³2ts³21170371936³2ip³2131.252.213.243³2name³2text_default³2data³2summary³3*³3text³3Most people did the refactoring survey, and some people wanted results.  Here's a quick summary.  Overall, there were 112 surveys filled out.
+
+'''What languages do you regularly use?'''
+
+*Java - 44
+*.NET - 34	
+*Ruby - 22	
+*C/C++ - 18	
+*Python - 11	
+*Smalltalk - 5
+
+'''What environments do you regularly use?'''
+
+*Eclipse - 40
+*Visual Studio - 39
+*IntelliJ Idea - 15	
+*VIM - 14
+*Emacs - 10	
+*Squeak	- 4	
+*VisualWorks - 3
+
+'''Why don't you use refactoring tools?'''
+*44 - The tool isn't flexible enough.  
+*26 - I don't know how to use the tool, or don't know what tool to use.
+*24 - I can do it faster by hand. 
+*13 - I don't trust the tool to be correct.
+*7 - The tool will probably mutilate my code.
+*2 - My code base is too large.
+³3newauthor³30³3minor³30³2host³2131.252.213.243³2username³2³2revision³29³2id³2111³2tscreate³21170370458³2keepts³21170373284³1ip³2131.252.213.243³2ts³21170373284³2version³21³2name³2text_default³2data³2summary³3*³3text³3Most people did the refactoring survey, and some people wanted results.  Here's a quick summary, with the total number of people responding positively to each prompt.  Overall, there were 112 surveys filled out.
+
+'''How many hours per week do you program?'''
+* 71 - One or more hours per week
+
+'''What languages do you regularly use?'''
+
+*44 - Java
+*24 - .NET
+*22 - Ruby
+*18 - C/C++
+*11 - Python
+*5 - Smalltalk
+
+'''What environments do you regularly use?'''
+
+*40 - Eclipse
+*39 - Visual Studio
+*15 - IntelliJ Idea
+*14 - VIM
+*10 - Emacs
+*4 - Squeak
+*3 - VisualWorks
+
+'''Why don't you use refactoring tools?'''
+*44 - The tool isn't flexible enough.  
+*26 - I don't know how to use the tool, or don't know what tool to use.
+*24 - I can do it faster by hand. 
+*13 - I don't trust the tool to be correct.
+*7 - The tool will probably mutilate my code.
+*2 - My code base is too large.
+³3minor³30³3newauthor³30³2username³2³2host³2131.252.213.243³2revision³210³2tscreate³21170370458³2id³2111³2keepts³21170432308

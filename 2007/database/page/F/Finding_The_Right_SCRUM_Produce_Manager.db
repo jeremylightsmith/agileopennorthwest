@@ -1,0 +1,35 @@
+version³13³1ts³11170265709³1cache_oldmajor³16³1cache_oldauthor³10³1cache_diff_default_author³1³1revision³18³1tscreate³11170200799³1text_default³1version³21³2ts³21170265709³2ip³267.132.134.6³2name³2text_default³2data³2summary³3*³3text³3=== Finding the Right SCRUM Product Manager ===
+
+==== What is the Product Manager ====
+* A member of the project's responsible party
+* Understanding the underlying business needs
+* Extensive Domain knowledge 
+* Liason between different interested parties
+* Person of authority
+** Ability to question requirements
+** Track down business value for functionality
+** NOTE: This should not be a person who the development team reports to
+* Usually a single person who drives the requirements gathering process
+** Could be multiple people, but should have a single voice
+
+
+==== Responsibilities of the Product Manager ====
+* Aggregator of multiple ideas/requirements
+* Manage the backlog
+** Provide business value to a requirement
+** Prioritize items on the backlog
+** Populate the backlog based on input from interested parties
+* Communicate with interested parties to drive the agile process
+** Marketing 
+** Development Team
+** Business Analysts
+** Upper Management
+* Assist with sprint planning
+** Provide development team with tasks via the backlog
+* Facilitates change from iteration to iteration
+* Re-prioritization of the backlog
+* Keeps hands off of the development team once the sprint starts
+* End of the sprint responsibilites
+** Re-prioritze the backlog based on completed tasks
+** Involved in the retrospective?
+³3minor³31³3newauthor³30³2host³267.132.134.6³2username³2³2revision³28³2id³2111³2tscreate³21170200799³2keepts³21170265709³1cache_diff_default_major³1³1cache_diff_default_minor³1

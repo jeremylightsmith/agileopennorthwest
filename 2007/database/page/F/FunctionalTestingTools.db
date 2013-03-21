@@ -1,0 +1,106 @@
+version³13³1ts³11175128216³1cache_oldmajor³111³1cache_oldauthor³111³1cache_diff_default_author³11³1revision³112³1tscreate³11170184964³1text_default³1version³21³2ts³21175128216³2ip³276.2.0.90³2name³2text_default³2data³2summary³3Spam Removal³3text³3Notes from the Functional Testing Tools session, 10:00AM Tuesday
+
+
+: If you bring the flipchart notes to [[Brandon CS Sanders]] he'll take photos of them and post them on the wiki.
+
+A list of requirements that came out of the session (initial list as captured by Elisabeth, feel free to update/modify/refactor, please):
+
+Ability to automatically translate between customer representation and technical representation.
+
+Changes in one representation automatically reflected in the others.
+
+Key combinations - pops up an entity so you can fill in parameters.
+
+Must be able to express tests in text, tables, and pictures.  (Perhaps as hooks into an existing editor?)
+
+Support collaboration with customer, meaning that it has to be fast enough so the customer does not become impatient.
+
+Hidden annotations in graphical representation like Brian's Graffl stuff.
+
+Must support both tests of the essential aspects of the system and interface (e.g. UI) behavior.
+
+Must be able to express both externally facing aspects of the system and internal bits (e.g. testing a phone: on hook, off hook...and also twiddling internal bits.)
+
+The test IDE should encourage the right kind of conversation to help translate the fuzzy human stuff into the precise technical stuff.  What kind of tool could encourage that conversation?
+
+The nice thing about Fitnesse is that the customer can type whatever they want.  (Hands on.)
+
+"Fitnesse has just enough technology."  That is, the customer *can't* just sit down and type -- they need a technical person there.
+
+A FIT-like tool would be cool if it supported intellisense (column headings get dropdowns with options), syntax checking (wrong data types flagged).
+
+Problem with FIT - you have to have at least one programmer on the team who really believes in it or the fixtures won't get written.  You also have to have a team that is already committed to the idea of FIT and defining a language to think about the code.  The problem is that this is the attitude FIT is supposed to provoke, but it turns out they already have to have it.
+
+Should it produce "true believers?"
+
+Customer has to be able to visualize what the test means - e.g. FIT failing because the Customer can't get their heads around the idea that the FIT table represents the application.
+
+Has to be fast to build fixtures.  "I need to spend a week writing fixtures" doesn't fly.
+
+Must support working on both the test conditions and the fixtures at the same time in a way that makes sense.  An IDE would integrate these pieces.  It helps you build the language.
+
+Provide debugging all the way through - step into tests/fixtures. (Debug in 
+place.)
+
+Are we really talking about writing better DSLs - and if we do that the testing becomes easier?
+
+Can you express formal methods style tests in FIT tables?  Sure.
+
+FIT is expensive - and that means support from PM/Prog/etc.
+
+First test running in 10 minutes.
+
+Interesting tools 
+- IntelliJ Language Workbench 
+- Intentional Software.
+
+Why do people hate writing fixtures so much - it's just code.  Because it's 
+mechanical.  Is it the "direct to the customer" thing - fixtures are "waste."
+
+NOTES FROM THE SESSION CAPTURED ON FLIP CHARTS BY RACHEL DAVIS
+* Jennitta's vision for moving testing tools forward
+*to express ideas in the appropriate way for the situation (graphical, workflow story board, text, the possibility for multiple modes)
+* tools that support the whold lifecycle
+* need an IDE
+* support for porting applications but keep the same tests
+* am I testing the essence?
+* do you really need to test incidentals (gui?)
+* do we need to worry about testing legacy code?
+using GRAFEL with annotations stored as XML which can drive FIT back end engine
+* can we find someone with an editing tool?
+* can we use tools that customers are familiar with (email, docs) work in their mileau
+* often customers work with technical analysts
+* must be readable by the customer
+* use tests to play back our understanding from conversations with customer
+* building a domain specific language
+* capture tests at the time (of discussion with customer), or not?
+* could you get a tool more intuitive than a whiteboard (for the customer)
+*should we look to formal methods?
+* a constrained declarative language works for technical domain experts, example,GSM, talk about phones like phones using a DSL mapper
+* It's difficult to translate from fuzzy human land to precice-land
+* our agile customers are already heavily overloaded, don't want to increase customer workload
+* an IDE that encourages the right kind of conversation
+* FIT is a good start
+* does having some technical difficulty encourage conversations
+* completion based on start text (intellisense for fitnesse)
+* refactoring tests
+* problems with FIT (it is for the true believers) 
+* need a FIT evangalist (no fun)
+* need team setup already, does not engender it
+* FIT disconnected between fixtures and tests on wiki
+* would like an IDE to integrate/edit in same place
+* debug in place
+* Jennitta is not imagining a 'codeless' situation
+* slowdown to get DSL in place in normally painful
+* the difference from a DSL is that tests are runnable
+* other people use WATIR which can be faster, show progress faster.
+* examples of tools coming out in the next year or so that support developing a DSL: MPS (from JetBrains/IntelliJ), Intentional Software
+* need analysts/testers to help conversations happen
+* does it matter about convincing the customer with flashy WATIR tests?
+* WATIR is limited to web apps
+* don't want to limit to low level tactical tests
+* are tests which don't ship to a customer waste in the lean sense?
+* psychological reasons programmers don't like writing tests
+* finding language that works over informal/formality boundary
+
+³3minor³30³3newauthor³31³2host³276.2.0.90³2username³2³2revision³212³2id³21145³2tscreate³21170184964³2keepts³21175128216³1cache_diff_default_major³11³1cache_diff_default_minor³1

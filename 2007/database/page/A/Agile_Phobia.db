@@ -1,0 +1,74 @@
+ts³11170225652³1version³13³1cache_oldmajor³10³1cache_oldauthor³10³1cache_diff_default_author³11³1revision³11³1tscreate³11170225652³1text_default³1ip³272.1.133.129³2ts³21170225652³2version³21³2name³2text_default³2data³2summary³3Mostly a transcription of my notes from the easel.³3text³3=== Agile Phobia ===
+
+==== Fears preventing adoption of agile practices ====
+
+* Fear of a process that has no endpoint
+* Having weaknesses exposed
+* Perceived lack of control
+* Levels the playing field
+** How do you gain status?
+* Agile is an overwhelmingly large change
+* Test-driven development
+* Where do I fit? (testers)
+* Emphasis on interaction (introverts)
+** You can't avoid confrontation as easily
+* Performance outliers have it hard (no more heroes?)
+* How do you give performance appraisals?
+* Stakeholders feel a loss of control ("We don't know if we'll ever get to that")
+* Having to do two jobs (customer)
+* Giving up quiet/personal space
+* Fear of committing investment to just one thing at a time
+* Fear of executive mandate without executive understanding
+
+==== Misconceptions about agile development ====
+
+* "Agile has no design"
+* "Agile has no documentation"
+** How do decisions get documented?
+*** Make it one of your tasks to document it
+* "Agile has no requirements"
+* "Agile isn't disciplined"
+** Agile is more disciplined than conventional development in some respects, less disciplined in others.  Some people fear the perceived lack of discipline.  Others fear the introduction of new kinds of discipline.
+
+==== Other obstacles to agile adoption ====
+
+* "We're already agile"
+* "We know it's really good but we don't have time to do X"
+* "How do we meet our regulatory requirements?"
+* It's hard to find data supporting agile.  Nobody is talking about their successes.
+
+==== Advice on how to deal with fears in general ====
+
+* View the resistance as a resource and honor it.  Resistance is a piece of new information about why something might be a bad idea.
+* Talk about "why" before "how".
+* Lead by example/enthusiasm.
+* Introduce agile development in small steps at first ("Let's just try this")
+* Be open to changing/retracting things that didn't work
+* If possible, start by doing agile with the subset of the team that is most interested in it.
+* Phrase it as an invitation rather than a demand.
+* Make it an experiment and time-box it.
+
+==== Advice on how to handle the transition into agile ====
+
+* Get away from the mindset that management is responsible for assigning tasks and solving problems.  The team is responsible.  (This is a reason why retrospectives often fail to produce change).
+* Expect productivity to drop initially while agile practices are being implemented
+** Don't just pay lip service to this.  If you expect productivity to drop during the first two months, don't just give up on agile after the first month.
+
+==== Fears that agile teams experience ====
+
+* Fear of taking the agile message beyond the development team and becoming a change agent
+* Feeling like a "cog"
+* Fear that something will come along that causes us to abandon agile
+* Fear of not being able to advance one's career path
+
+This last fear provoked a long side discussion, so it deserves its own section.
+
+==== Advice on dealing with career path issues ====
+
+Figure out what people want to get out of a conventional software career path that they're not getting out of agile, and find a way to give it to them.  For example:
+
+* New titles.
+* Getting invited to high-level strategic company planning meetings
+* Evidence of career advancement on a resume
+* Peer recognition
+³3newauthor³31³3minor³30³2username³2Paul Berry³2host³272.1.133.129³2revision³21³2tscreate³21170225652³2id³21011³1cache_diff_default_major³11³1cache_diff_default_minor³1

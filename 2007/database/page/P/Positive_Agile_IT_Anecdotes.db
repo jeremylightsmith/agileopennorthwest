@@ -1,0 +1,74 @@
+ts³11170225049³1version³13³1cache_oldmajor³14³1cache_oldauthor³14³1cache_diff_default_author³11³1revision³15³1tscreate³11170185233³1text_default³1ip³266.93.39.52³2ts³21170225049³2version³21³2name³2text_default³2data³2summary³3*³3text³3This discussion attempted to get anecdotes about some of the (positive) experiences of people who had to implement agile-based methodologies in conjuction with IT participation or in the face of IT resistance.
+
+Anecdote 1:
+
+The company is a 25 people code-workshop/bodyshop.working on 8 projects using agile methodologies.  Specific details:
+* one junior sysadmin on team, supporting all sysad functions
+* when doing systems specific work on the project, a matching funds model is used to force both sides (the systems customer and the developer) to contribute equal numbers of people to solve the problem.
+* Some folks who have had ops experience (CTO, CIO, IT Director, etc.,) from big companies periodically take on the role of "dean of ops" to be the offical advocate for operations things.  This role changes quarterly.
+* Developers own/operate all the environments, from dev to prod.
+* cfengine is used to help with that management (gives rigor, version control, and tracking to system configurations and allow migration from dev to prod)
+* concerns include finding security problems in their code because there's no advocate/owner/control
+
+Anecdote 2:
+
+The company is a very large organization; the speaker worked with in an agile group from a much larger organization
+* The parent company had 1000's of developers
+* A shared IT organization supports the group
+* the speaker is part of a small group within the larger organization
+* their agile team includes a system engineer to help focus on operational issues
+* greater IT organization doesn't understand agile fully
+* they've started being able to allow greater autonomy for the agile team to directly affect system configurations and production systems by ensuring that all agile team activity on relevant systems creates an audit trail of what goes into production and who authorizes it.
+
+Anecdote 3:
+
+This company is in the early stages of agile development
+* team lead developers in conflict with architect team members - lots of problem dealing with the tension between architect and developer
+* success story is including technical resources in requirements definition process
+
+Anecdote 4:
+
+This was a ~300 person small agile software company bought by a much larger financial company.l
+* Builds code that's deployed internally (enterprise ASP), and to external customers.
+* Initially, configurations were managed on indidivual systems.  As the rate of change, this couldn't be supported.
+* An internally written central configuration tool was used to centrally manage system change (Mercury products not effective)
+* Treat sysadmins/ops requirements as customer input/requirements to the scrums
+* Developers championed application monitoring using jmx, but operations personnel were having a hard time figuring out what to monitor, and what to alarm on.  This problem was addressed by putting together a cross-functional team (unified scrum team) to fix monitoring which included dedicated sysadmin and development resources.  Creates end-to-end monitoring as part of deployment process.
+* This proved the value of a scrum dedicated to IT - and included granting developers production access, because an elaborate change control process limited developers ability to get to production
+* Product Owner of the X-functional sysadmin.team is the Customer Support director
+* Architecture was NOT an ivory tower, but architects were included as a part of the team - if they didn't attend the scrum, they didn't get a say in how something was deployed.
+
+Anecdote 5:
+
+This was a small (~50 person) IT organization within a much larger (~1000) person IT organization, where they were the sole agile practitioners:
+* Sysadmins were integrated within scrum teams, but not solely focused on iterations tasks
+* Operational requirements were fed into iteration planning by operational owners (sysadmins, IT managers, customer support, operations persons)
+* cfengine was used to manage/migrate system-level configurations from dev/test to prod.
+* Many challenges experienced getting code deployed in a consistent format/method
+* Secondary IT functions not yet included in agile model (monitoring, log analysis)
+
+Common Problems identified along the way:
+* Getting security into the agile code process is challenging (a separate session will be held on this)
+* Manging Software upgrades/configurations seamlessly between dev, test, and prod is challenging
+* Make a typeical IT governance model mesh with rapid change is hard
+* Scalabilty and other operational issues not easily included in iteration requirements
+
+Positive ideas identified along the way:
+* Include sysadmins in scrums
+* Use cfengine or similar automated configuration management system to migrate system configs up from dev, to test, to prod 
+* Ensure a streamlined deployment of environment in addition to code
+* Ensure that monitoring is included the scrum/development output and reflects actual behavior of systems
+* Success of agile is often in retrospective (identifying what's impossible)
+* Culture of transparency neccessary for agile development simultaneously meeting governmance requirements
+* There was a common thread supporting the need for evelopers to see/touch production in some way, and even potentially manage some system configurations
+* Strict governance models (SOX, HIPAA, GLB) all can be made to support developer access/change to production systems assuming enough auditing/transperency is built in
+* Treating computing power as a commodity (i.e., change your developed code to function on grids) make IT planning/infrastructure support easier, but added work for the developers
+
+Additional sessions needed;
+* Security within agile framework
+* How to deal with long lead times for big IT purchases and other long term IT changes (i.e., external dependancies) in the 2-week iteration scope
+
+http://2007.recentchangescamp.org/images/4/4d/PositiveAgileITAnecdotes-notes-1.jpg
+
+http://2007.recentchangescamp.org/images/b/b8/PositiveAgileITAnecdotes-notes-2.jpg
+³3newauthor³31³3minor³30³2username³2MarkBaenziger³2host³266.93.39.52³2revision³25³2tscreate³21170185233³2id³21015³2keepts³21170225049³1cache_diff_default_major³11³1cache_diff_default_minor³1

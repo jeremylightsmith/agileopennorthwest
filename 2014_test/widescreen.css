@@ -1,0 +1,35 @@
+body {
+  margin: 30px 15px 20px 25px;
+	background-color: #cdfcc1;
+}
+#logo {
+  display: block;
+	position:absolute;
+	margin-top:-20px;
+	margin-left:-20px;
+	max-width: 25%;
+}
+#page {
+	margin:auto auto auto auto;
+	max-width: 1200px;
+	border: 1px solid #94d6a5;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	behavior: url(border-radius.htc);
+}
+#header {
+  max-width: 73%;
+}
+#nav {
+  margin-top: 11em;
+}
+#content {
+  min-height: 45em;
+  padding-right: 40px;
+}
+#right-hand-side {
+{
+  padding: 10px, 5%;
+}

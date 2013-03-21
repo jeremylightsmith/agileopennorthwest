@@ -1,0 +1,296 @@
+³1version³21³2ts³21170439412³2ip³2206.149.140.95³2name³2text_default³2data³2summary³3*³3text³3Title:
+Developers Touching Testy GUI's
+
+Topic:
+Share experiences with developer and TDD testing of graphical user interfaces for web and desktop applications.
+
+³3newauthor³31³3minor³30³2host³2206.149.140.95³2username³2³2revision³21³2id³2111³2tscreate³21170439412³2keepts³21170441773³1ip³2206.149.140.95³2ts³21170441773³2version³21³2name³2text_default³2data³2summary³3³3text³3== Developers Touching Testy GUI's ==
+
+=== Topic ===
+Share experiences with developer and TDD testing of graphical user interfaces for web and desktop applications.
+
+=== Web Solutions ===
+<b>NUnitAsp</b>
+
+Technology: Microsoft ASP.NET Web Applications
+
+Method: Simulate client calls through HTTP to ASP.NET application. Client parses responses and validates the results. Tests primarily driven through NUnit.
+
+Pros
+* Mirrors ASP.NET control API with testers for each control type
+* Drives tests through ASP.NET eventing model
+* Helps developers write GUI's test first.
+
+Cons
+* Mocking business or data layers difficult
+* Slow, since http request/response and HTML parsing involved
+* Client browser is not a real browser (no JavaScript, CSS, etc.)
+* Doesn't help with AJAX testing 
+
+<b>Selenium</b>
+
+Technology: Generic web applications
+
+Method: Drives browser via JavaScript
+
+Pros
+* Tests can be written in many languages and are translated into a common language for execution
+* Drives real browsers and is JavaScript aware.
+* Has community momentum behind it currently
+
+Cons
+* IE challenged
+* AJAX issues
+* Security issues
+
+³3minor³30³3newauthor³30³2username³2³2host³2206.149.140.95³2revision³22³2tscreate³21170439412³2id³2111³2keepts³21170441888³1version³21³2ts³21170441888³2ip³2206.149.140.95³2name³2text_default³2data³2summary³3*³3text³3== Developers Touching Testy GUI's ==
+
+=== Topic ===
+Share experiences with developer and TDD testing of graphical user interfaces for web and desktop applications.
+
+=== Web Solutions ===
+<b>NUnitAsp</b>
+
+Technology: Microsoft ASP.NET Web Applications
+
+Method: Simulate client calls through HTTP to ASP.NET application. Client parses responses and validates the results. Tests primarily driven through NUnit.
+
+Pros
+* Mirrors ASP.NET control API with testers for each control type
+* Drives tests through ASP.NET eventing model
+* Helps developers write GUI's test first.
+
+Cons
+* Mocking business or data layers difficult
+* Slow, since http request/response and HTML parsing involved
+* Client browser is not a real browser (no JavaScript, CSS, etc.)
+* Doesn't help with AJAX testing 
+
+<b>Selenium</b>
+
+Technology: Generic web applications
+
+Method: Drives browser via JavaScript
+
+Pros
+* Tests can be written in many languages and are translated into a common language for execution
+* Drives real browsers and is JavaScript aware.
+* Has community momentum behind it currently
+
+Cons
+* IE challenged
+* AJAX issues
+* Security issues
+
+Selenium has matured significantly in the past few months, so the above pros and cons are in flux and up for debate depending upon the version in use.
+³3newauthor³30³3minor³31³2host³2206.149.140.95³2username³2³2revision³23³2id³2111³2tscreate³21170439412³2keepts³21170442392³1ip³2206.149.140.95³2ts³21170442392³2version³21³2name³2text_default³2data³2summary³3*³3text³3== Developers Touching Testy GUI's ==
+
+=== Topic ===
+Share experiences with developer and TDD testing of graphical user interfaces for web and desktop applications.
+
+=== Web Solutions ===
+<b>NUnitAsp</b>
+
+Technology: Microsoft ASP.NET Web Applications
+
+Method: Simulate client calls through HTTP to ASP.NET application. Client parses responses and validates the results. Tests primarily driven through NUnit.
+
+Pros
+* Mirrors ASP.NET control API with testers for each control type
+* Drives tests through ASP.NET eventing model
+* Helps developers write GUI's test first.
+
+Cons
+* Mocking business or data layers difficult
+* Slow, since http request/response and HTML parsing involved
+* Client browser is not a real browser (no JavaScript, CSS, etc.)
+* Doesn't help with AJAX testing 
+
+<b>Selenium</b>
+
+Technology: Generic web applications
+
+Method: Drives browser via JavaScript
+
+Pros
+* Tests can be written in many languages and are translated into a common language for execution
+* Drives real browsers and is JavaScript aware.
+* Has community momentum behind it currently
+
+Cons
+* IE challenged
+* AJAX issues
+* Security issues
+
+Selenium has matured significantly in the past few months, so the above pros and cons are in flux and up for debate depending upon the version in use.
+
+<b>Story Test IQ (STIQ)</b>
+
+Technology: Generic web applications
+
+Method: Mixes Selenium and FIT to drive browsers via JavaScript and report results  for customer acceptance tests.
+³3minor³30³3newauthor³30³2username³2³2host³2206.149.140.95³2revision³24³2tscreate³21170439412³2id³2111³2keepts³21170442892³1version³21³2ts³21170442892³2ip³2206.149.140.95³2name³2text_default³2data³2summary³3*³3text³3== Developers Touching Testy GUI's ==
+
+=== Topic ===
+Share experiences with developer and TDD testing of graphical user interfaces for web and desktop applications.
+
+=== Web Solutions ===
+<b>[http://nunitasp.sourceforge.net/ NUnitAsp]</b>
+
+Technology: Microsoft ASP.NET Web Applications
+
+Method: Simulate client calls through HTTP to ASP.NET application. Client parses responses and validates the results. Tests primarily driven through NUnit.
+
+Pros
+* Mirrors ASP.NET control API with testers for each control type
+* Drives tests through ASP.NET eventing model
+* Helps developers write GUI's test first.
+
+Cons
+* Mocking business or data layers difficult
+* Slow, since http request/response and HTML parsing involved
+* Client browser is not a real browser (no JavaScript, CSS, etc.)
+* Doesn't help with AJAX testing 
+
+<b>[http://www.openqa.org/selenium/ Selenium]</b>
+
+Technology: Generic web applications
+
+Method: Drives browser via JavaScript
+
+Pros
+* Tests can be written in many languages and are translated into a common language for execution
+* Drives real browsers and is JavaScript aware.
+* Has community momentum behind it currently
+
+Cons
+* IE challenged
+* AJAX issues
+* Security issues
+
+Selenium has matured significantly in the past few months, so the above pros and cons are in flux and up for debate depending upon the version in use.
+
+<b>[http://storytestiq.sourceforge.net/contrib.html StoryTestIQ (STIQ)]</b>
+
+Technology: Generic web applications
+
+Method: Mixes Selenium and FitNesse to drive browsers via JavaScript and report results for test first story acceptance tests.
+³3newauthor³30³3minor³30³2host³2206.149.140.95³2username³2³2revision³25³2id³2111³2tscreate³21170439412³2keepts³21170443413³1ip³2206.149.140.95³2ts³21170443413³2version³21³2name³2text_default³2data³2summary³3*³3text³3== Developers Touching Testy GUI's ==
+
+=== Topic ===
+Share experiences with developer and TDD testing of graphical user interfaces for web and desktop applications.
+
+=== Web Solutions ===
+<b>[http://nunitasp.sourceforge.net/ NUnitAsp]</b>
+
+Technology: Microsoft ASP.NET Web Applications
+
+Method: Simulate client calls through HTTP to ASP.NET application. Client parses responses and validates the results. Tests primarily driven through NUnit.
+
+Pros
+* Mirrors ASP.NET control API with testers for each control type
+* Drives tests through ASP.NET eventing model
+* Helps developers write GUI's test first.
+
+Cons
+* Mocking business or data layers difficult
+* Slow, since http request/response and HTML parsing involved
+* Client browser is not a real browser (no JavaScript, CSS, etc.)
+* Doesn't help with AJAX testing 
+
+<b>[http://www.openqa.org/selenium/ Selenium]</b>
+
+Technology: Generic web applications
+
+Method: Drives browser via JavaScript
+
+Pros
+* Tests can be written in many languages and are translated into a common language for execution
+* Drives real browsers and is JavaScript aware.
+* Has community momentum behind it currently
+
+Cons
+* IE challenged
+* AJAX issues
+* Security issues
+
+Selenium has matured significantly in the past few months, so the above pros and cons are in flux and up for debate depending upon the version in use.
+
+<b>[http://storytestiq.sourceforge.net/contrib.html StoryTestIQ (STIQ)]</b>
+
+Technology: Generic web applications
+
+Method: Mixes Selenium and FitNesse to drive browsers via JavaScript and report results for test first story acceptance tests.
+
+=== Others ===
+* Watir
+* FitNesse
+* VSTS
+* JSUnit
+* PyUnit
+³3minor³30³3newauthor³30³2username³2³2host³2206.149.140.95³2revision³26³2tscreate³21170439412³2id³2111³2keepts³21170444494³1version³21³2ts³21170444494³2ip³2206.149.140.95³2name³2text_default³2data³2summary³3*³3text³3== Developers Touching Testy GUI's ==
+
+=== Topic ===
+Share experiences with developer and TDD testing of graphical user interfaces for web and desktop applications.
+
+=== Web Solutions ===
+<b>[http://nunitasp.sourceforge.net/ NUnitAsp]</b>
+
+Technology: Microsoft ASP.NET Web Applications
+
+Method: Simulate client calls through HTTP to ASP.NET application. Client parses responses and validates the results. Tests primarily driven through NUnit.
+
+Pros
+* Mirrors ASP.NET control API with testers for each control type
+* Drives tests through ASP.NET eventing model
+* Helps developers write GUI's test first.
+
+Cons
+* Mocking business or data layers difficult
+* Slow, since http request/response and HTML parsing involved
+* Client browser is not a real browser (no JavaScript, CSS, etc.)
+* Doesn't help with AJAX testing 
+
+<b>[http://www.openqa.org/selenium/ Selenium]</b>
+
+Technology: Generic web applications
+
+Method: Drives browser via JavaScript
+
+Pros
+* Tests can be written in many languages and are translated into a common language for execution
+* Drives real browsers and is JavaScript aware.
+* Has community momentum behind it currently
+
+Cons
+* IE challenged
+* AJAX issues
+* Security issues
+
+Selenium has matured significantly in the past few months, so the above pros and cons are in flux and up for debate depending upon the version in use.
+
+<b>[http://storytestiq.sourceforge.net/contrib.html StoryTestIQ (STIQ)]</b>
+
+Technology: Generic web applications
+
+Method: Mixes Selenium and FitNesse to drive browsers via JavaScript and report results for test first story acceptance tests.
+
+=== Others ===
+* Watir
+* FitNesse
+* VSTS
+* JSUnit
+* PyUnit
+
+
+=== Rich-Client Solutions ===
+<b>[http://nunitforms.sourceforge.net/ NUnitForms]</b>
+
+<b>[http://www.martinfowler.com/eaaDev/ModelViewPresenter.html MVP Design Pattern]</b>
+Now retired by Fowler (boo-hiss) and split into two patterns.
+
+* [http://www.testing.com/cgi-bin/blog/2007/01/05/#wireframe2 Brian Marick Video]
+* [http://atomicobject.com/pages/Presenter+First Atomic Object Presenter First]
+
+<tt>More to come...</tt>
+³3newauthor³30³3minor³30³2host³2206.149.140.95³2username³2³2revision³27³2id³2111³2tscreate³21170439412³2keepts³21171217608

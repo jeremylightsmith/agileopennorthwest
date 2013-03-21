@@ -1,0 +1,65 @@
+<?php
+  /* Set the event year */
+  $event_year = 2013;
+  
+  /* Set the dates */
+  $event_dates = "February 6 to 8, 2013";
+  
+  /* The regonline event id for this event - no longer used*/
+  /* $event_id = "1035574"; */
+  
+  /* Set the maximum number of paying attendees */
+  $event_limit = 150;
+  
+  /* Set the cost to attend */
+  $event_cost = '$200';
+  
+  /* Set the status of the event here in order to control which
+     of the four registration panels is displayed. Options are
+	   coming = registration not yet open
+	   open   = you may now register
+	   full   = we are at capacity - registration closed
+	   past   = the event has already taken place 
+     If event is 'open', it will automatically set to 'full' 
+     when the event limit has been reached. */
+  $event_status = 'past';
+  
+  /* Set the date and time when registration will be opened
+    automatically. If not used, comment out. */
+  $event_open_time = mkTime(12,0,0,12,12,2012);
+  /* This is a HACK - we "know" the server is on the
+     east coast. Really should use UTC. */
+  $server_open_time = mkTime(15,0,0,12,12,2012);
+
+  /* Set this to TRUE once we have sponsors. When set to TRUE,
+     the home page displays as designed. When FALSE, the
+     'Sponsors' link goes to the info about sponsorship
+     and the sponsor logos and links at the bottom of
+     of the home page are eliminated. */
+  $show_sponsors = TRUE;
+
+  /* Set the status of the wiki Session Notes. Options are
+         coming = The wiki is not yet open
+         offline = The wiki is unavailble due to maintenance
+         online  = The wiki is available
+     Any other value is also treated as coming */
+  $wiki_status = 'online';
+
+/****************************************************/
+/* From this point on, values are set automatically */
+/****************************************************/
+
+  /* Wiki Session Notes Page */
+  $session_notes = "Agile_Open_Northwest_" . $event_year . "_Session_Notes";
+  
+  /* Only show the participants page if we have a list 
+     of participants */
+  $show_participants = file_exists("participants.txt");
+
+  /* Set registration open if open time has passed */
+  if ($event_status == 'coming' && isset($server_open_time) && time() >= $server_open_time)
+     $event_status = 'open';
+     
+?>
+
+

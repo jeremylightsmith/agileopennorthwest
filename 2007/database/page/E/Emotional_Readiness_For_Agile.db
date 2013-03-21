@@ -1,0 +1,114 @@
+version³13³1ts³11175127728³1cache_oldmajor³15³1cache_oldauthor³15³1cache_diff_default_author³11³1revision³16³1tscreate³11170205072³1text_default³1version³21³2ts³21175127728³2ip³276.2.0.90³2name³2text_default³2data³2summary³3Spam Removal³3text³3The session started off shakily. I had intended a truly exploratory session, but I think I left it a little too exploratory at the start.
+
+(Rather than present our out as collected chronologically, I will refactor a bit.)
+
+Things started to kick-in when we brain stormed, "What would be the emotional characteristics of a team that would be capable of successfully adopting Agile?"
+
+Characteristics of an Agile Team
+	- [ ] Assertiveness
+	- [ ] Attitude of Servitude
+	- [ ] Communalism
+	- [ ] Competence
+	- [ ] Courage
+	- [ ] Egolessness
+	- [ ] Empathy
+	- [ ] Flexibility
+	- [ ] Forthcoming
+	- [ ] Honesty
+	- [ ] Humility
+	- [ ] Leadership
+	- [ ] Professional Trust
+	- [ ] Respect
+	- [ ] Sense of Self-Worth
+	- [ ] Social Responsibility
+	- [ ] Strong Enough Ego
+	- [ ] Willingness to Embarrass Self
+	- [ ] Willingness to Express Outrageous Ideas
+
+Clearly, however, these characteristics are what a team *would be* after adopting Agile successfully. Really successfully.
+
+----
+
+What sort of organization might foster these characteristics?
+
+Well one:
+
+	...that was predominantly *Open Minded*
+	...which had a relatively *Flat Hierarchy*
+	...that carried little to *No Baggage*
+	...which contained people experiencing *Empowerment*
+	...which was *Results Oriented*
+	...which values *Affiliation* and (Collaboration)
+	...which focused on *Innovation* and experienced *No Fear of Failure*
+	
+Conversely, NOT one:
+
+ 	...for which the Currency is Power
+	...for which the drive is compliance with procedure
+
+----
+
+How might we determine if an organization has these negative characteristics? Well, we might ask:
+
+	* How are people rewarded?
+	* How are leaders selected?
+
+----
+
+What we are really concerned with when introducing Agile to an organization is *Changing their Mental Models*.
+
+What techniques might we use to help us?
+
+We could explain how Agile might change individual roles within the organization.
+
+We could indicate how people currently are (ineffectively) working together and how that might be improved via a *Value Stream Map*.
+
+We might also be able to rapidly determine organizational culture, and perhaps raise awareness of it via some games, structured as *Simulations of Agile Projects* (ones which simulated the involvement of several layers of management.)
+
+----
+
+Finally, we realized that this large topic needed some more thinking, and perhaps the inclusion of some other good thinking. Resources might include:
+
+	* Kurt Lewin's Forcefield analysis model
+		* http://en.wikipedia.org/wiki/Kurt_Lewin's
+		* http://www.valuebasedmanagement.net/methods_lewin_force_field_analysis.html
+
+	* Gerald Weinberg's Personal Leadership Style assessment
+		* http://en.wikipedia.org/wiki/Gerald_Weinberg
+
+	* Esther Derby's course
+		* (Esther, link?)
+
+...there may also exist other knowledge, such as assessments of organizational culture that could be adapted.
+
+
+---- 
+
+Quotations
+
+(After I commented that experiencing any dishonesty from a client during the contract negotiation was not a good indicator or the success of an Agile project)
+
+		Esther: "As goes the contracting, so goes the contract."
+
+----
+
+Thanks to the wonderful attendees, who were:
+
+	Aaron Bridges
+	Alex Singh
+	Esther Derby
+	Jon Marshall
+	Lara Minor
+	Marty Nelson
+	Michael Ferrante
+	Scott W. Smith
+	Steve Gagnon
+	Tim Gallagher
+	Xibin Zeng
+
+
+
+
+
+
+³3minor³30³3newauthor³31³2host³276.2.0.90³2username³2³2revision³26³2id³21145³2tscreate³21170205072³2keepts³21175127728³1cache_diff_default_major³11³1cache_diff_default_minor³1

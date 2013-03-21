@@ -1,0 +1,28 @@
+³1version³21³2ts³21170271794³2ip³267.132.134.6³2name³2text_default³2data³2summary³3*³3text³3Session run by Mark Baenziger
+Other attendees: Ward Cunningham, Parker Thompson, Erik Azar, Rachel Davies
+
+
+* Usability, scalability could be substituted, perhaps (similar probs)
+* Security constraints on agile team ti deal with audit
+* bigger question is how to write secure code reliably
+* work for engineers (& lawyers) to work out reasonable approaches to regulatory constraints & create meta-requirements outside stories/backlog items
+* requirements traceability is an example of a security /business constraint that can be addressed with an engineering solution.
+* Example given of agile project that continued to use "requirements tracking" by one person who linked stories to regulatory requirements (added specific requirements to each story item)
+* to what extent should developers be security experts?
+** maybe tech talks
+** some participation in team
+** security resources maybe too rare to participate fully in teams
+* developers took over those testing role(s) that was improved by developers doing it
+* What security role(s) could be improved by being taken over by developers?
+** fuzz tests
+** abstracting security requirements to meet multiple needs
+** synthesizing contradictory requirements (security & function)
+** methodology assistance in calling direct code with random (or not data) to see what's affected
+** identify where file, net, other IO occures
+** talk re/commercial products
+* low-hangingin fruit
+** unit tests to confirm code functionality (ie, if the story requires db connectivity, confirm only one case causes it)
+** security intent intended in unit test
+* Need for community co-ordination of agile security practices
+Contact: Yo (Johan Peeters) - see blog http://www.artima.com/weblogs/viewpost.jsp?thread=159492
+³3newauthor³31³3minor³30³2host³267.132.134.6³2username³2³2revision³21³2id³2111³2tscreate³21170271794³2keepts³21170846632

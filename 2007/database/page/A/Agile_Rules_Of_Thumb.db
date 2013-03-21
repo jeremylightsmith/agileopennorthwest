@@ -1,0 +1,50 @@
+ts³11170279672³1version³13³1cache_oldmajor³14³1cache_oldauthor³10³1cache_diff_default_author³1³1revision³15³1tscreate³11170277121³1text_default³1ip³267.132.134.6³2ts³21170279672³2version³21³2name³2text_default³2data³2summary³3*³3text³3Rules of Thumb were broken down into the
+following categories
+
+Stories
+* Any stories more than 3 story points (days) should be broken up
+* State value who/what/why
+* Fits on index card(short description)
+* Use Bill Wake technique INVEST  described on http://xp123.com/
+* Don't add scope after Iteration Planning, create a new story instead
+
+Release Planning
+* Don't have any story larger than iteration/sprint
+
+TDD
+* Work from Outside-In
+
+Story Tests
+* Always ask for examples
+* Should have more than 1
+
+Coding
+* Floundering on code for more than 20 minutes developer or pair should ask for help
+* If a refactoring is not finished by end of day roll it back
+* Better yet make small refactoring changes
+* Function should only fit 1 screen
+* Other code smells as described in http://sis36.berkeley.edu/projects/streek/agile/bad-smells-in-code.html
+* Team should agree on under 10 "code smells" for project unity
+
+Continous Integration
+* If build is broken(red) fix it
+* If build is taking too long break it up by identifying long running tasks
+* Before check in run all unit tests or possibly fit tests(if they are quick)
+
+Daily Stand Up Meetings
+* Chairperson insures only what you worked on/roadblocks/today tasks are discussed(other issues are deferred)
+* Should only take 15 minutes
+* Have morning meetings (start of day)
+* Have visible plan
+
+FIT
+* Have on wiki
+* 1 story per test page (roughly)
+* 1 fit table per story (roughly)
+
+Contributors were
+* Rachel Davies
+* Jason Frink
+* Denis Langlais
+
+³3newauthor³30³3minor³30³2username³2³2host³267.132.134.6³2revision³25³2tscreate³21170277121³2id³2111³2keepts³21170279672³1cache_diff_default_major³11³1cache_diff_default_minor³1

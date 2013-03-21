@@ -1,0 +1,34 @@
+ts³11170432308³1version³13³1cache_oldmajor³110³1cache_oldauthor³10³1cache_diff_default_author³1³1revision³111³1tscreate³11170370458³1text_default³1ip³2131.252.213.243³2ts³21170432308³2version³21³2name³2text_default³2data³2summary³3*³3text³3Most people did the refactoring survey, and some people wanted results.  Here's a quick summary, with the total number of people responding positively to each prompt.  Overall, there were 112 surveys filled out.
+
+'''How many hours per week do you program?'''
+* 71 - One or more hours per week
+
+'''What languages do you regularly use?'''
+
+*44 - Java
+*24 - .NET
+*22 - Ruby
+*18 - C/C++
+*11 - Python
+*5 - Smalltalk
+
+'''What environments do you regularly use?'''
+
+*40 - Eclipse
+*39 - Visual Studio
+*15 - IntelliJ Idea
+*14 - VIM
+*10 - Emacs
+*4 - Squeak
+*3 - VisualWorks
+
+'''Why don't you use refactoring tools?'''
+*44 - The tool isn't flexible enough.  
+*26 - I don't know how to use the tool, or don't know what tool to use.
+*24 - I can do it faster by hand. 
+*13 - I don't trust the tool to be correct.
+*7 - The tool will probably mutilate my code.
+*2 - My code base is too large.
+
+My webpage can be found [http://cs.pdx.edu/~emerson here].
+³3newauthor³30³3minor³30³2username³2³2host³2131.252.213.243³2revision³211³2tscreate³21170370458³2id³2111³2keepts³21170432308³1cache_diff_default_major³11³1cache_diff_default_minor³1

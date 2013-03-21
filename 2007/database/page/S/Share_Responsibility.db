@@ -1,0 +1,108 @@
+ts³11170195745³1version³13³1cache_oldmajor³10³1cache_oldauthor³10³1cache_diff_default_author³11³1revision³11³1tscreate³11170195745³1text_default³1ip³267.132.134.6³2ts³21170195745³2version³21³2name³2text_default³2data³2summary³3Sharing Responsibility (for the hard stuff) with the Customer³3text³3Sharing Responsibility (for the hard stuff) with the Customer
+
+Why is it a problem that developers leave the “hard stuff” to the customer?
+
+Customer has general sense of business value, but may be unwilling or unable to implement a solution.
+
+Otherwise can develop an adversarial relationship.
+
+How does customer communication happen?  Arlo has seen this in a number of contexts.  Example:  customer’s primary interest is in finding new things, not interested in support, or understanding deep enough to do trade offs.
+
+Brian pointed out that programmer often have very strong opinions about everything.  Waiting to be asked how to engage the problem.
+
+Pat advocated to the contrary that individuals should be empowered to make change when necessary.
+
+Brian countered that Arlo is talking about programmers waiting to be told what to do as they are ready to implement something.
+
+James asked who was programmer vs business in the group.  About even mix.
+
+Matt talked about the help he was getting as a customer/po.  Developers challenge priorities, provide feedback, etc., and this was positive.  Others countered that this can be disruptive if taken too far.
+
+Arlo saw divisions of responsibility, and what happens when they are crossed?
+
+When to these divisions become crossed?  Sprint Plannings, conversations, all the time.
+
+What is the hard stuff?  What is the depth of the conversation?
+
+Hard stuff?  Fuzzy front-end, value estimations, urgency versus long-term importance.
+
+What to do with developer discontent with product backlog?
+
+Suggested that developers not be held responsibility for product owner’s choices.
+
+Conversation focused on environments where the division emerges between a technical side and a business side.  Hard stuff is going from “I need it to do this” to “how will it be technically possible to do this.”
+
+Estimation process may be the level to address this, very high estimate suggests that it is very expensive.
+
+Difference between not having the right information, versus having the wrong stories.
+
+Push back against ship with a bunch of bugs.  
+
+Customer underestimates the importance of developer red flags, developers underestimates value of customer’s request.  Need developers and customers to value each other’s perspective.
+
+Not technical or business people, but people whose job it is to provide value to the company.
+
+Suggested the planning meeting is one of the forums to provide trust.  But process difficulty is hard stuff, i.e. design of a new feature.  If developers raise issues after feature has been designed, it’s too late.
+
+Pointed out that team is to provide ROI, not just value.  Experts in value are business people, experts in costs are developers.
+
+How the people work together versus the people themselves.
+
+Get whole team involved versus specialization.
+
+How and when do technical and business sides come together, discuss, etc.  Some are not comfortable with bringing the whole team in, others pointed out that each side would just prep their side ahead of time.
+
+Value of involving developers in the process.
+
+Get the people with the right information in the room.  
+
+Don’t want to dim the passion of the people involved in the process.
+
+Developer lead participate in customer meetings.
+
+First planning meeting where everyone involved could throw out ideas, then design, then finalization.
+
+Myth of ROI:  business is final say on value, developer’s final say on costs.   Fuzzy picture of value and fuzzy estimates of costs.
+
+Team needs to trust someone to provide business value, but they do not need to be the only source.
+
+Developers do presence business value by raising their concerns to business people.
+
+Relative value is easier than absolute value.
+
+But value may not come in discrete chunks.  Particularly when chopping up a big thing into little pieces.  Critical mass of functionality.  Pillars of interdependencies required for products.
+
+Discussion of prioritization needs to include thresholds and interdependencies both in terms of cost and value.
+
+How to work with realizing a monolithic vision.
+
+Iterative development is a feedback to improve both cost and value.
+
+How many ways to run a planning meeting?
+
+How to collaborate to produce a good plan.
+
+Group of tester, programmer and product owner would come together once per iteration to hash out product backlog.
+
+Contract, commitment, vs. agreement.
+
+Developers commit to sprint work, customer agree to?  Be there.  Stick with the plan.
+
+Do customers review as the team goes?  Or at the end of the sprint?  What if the product owner revises the story as part of the review of the story?
+
+Negative connotation to change.  When changing the plan should be good.
+
+Embracing change is good, struggle with impact of change.
+
+Conversation emerged on when refactoring efforts need to be raised to the product owner as new stories, versus the engineering team moving forward with the refactoring.  
+
+Communication is key.  Developers can put estimate as total cost including refactoring, with no option for feature without refactoring.
+
+What are the benefits and costs of this refactoring.
+
+Technical debt doesn’t increase cost per se, but makes estimation indeterminate.
+
+
+
+
+³3newauthor³31³3minor³30³2username³2³2host³267.132.134.6³2revision³21³2tscreate³21170195745³2id³2111³1cache_diff_default_major³11³1cache_diff_default_minor³1

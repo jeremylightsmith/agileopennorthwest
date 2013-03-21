@@ -1,0 +1,63 @@
+version³13³1ts³11170395356³1cache_oldmajor³111³1cache_oldauthor³19³1cache_diff_default_author³1³1revision³112³1tscreate³11170358725³1text_default³1version³21³2ts³21170395356³2ip³269.30.72.232³2name³2text_default³2data³2summary³3*³3text³3This was a combined session to address two questions:
+
+* How are/can agile and non-agile projects handled in the same portfolio?
+* How are/can agile principles be applied in portfolio management?
+
+One process example - 
+
+Evaluating the portfolio pipeline involves looking at details in the Large that will be later evaluated in the Small throughout the life of the project (inception-close). Start with considering the investment toward selection:
+
+* How much work do we need to do to make the evaluation?
+* How much work do we need to do to be able to compare apples to apples?
+
+One tool we use to compare at a glance is "Sliders" - a graphic representation of the measure of a specific attribute considered critical for project success. Sliders should be consistent in name (for easy comparing of projects) and each Slider must be supported by 2-3 pages of detailed information called a Treatment.  Usually less than 10 Silders are used to compare projects; there is no total Slider score, they are specific assessments. Slider examples:
+
+* project budget
+* organization-specific attributes
+* project-specific attributes
+* risk/scare/queasy factors
+* capacity planning/resource factors
+* potential competitors
+* market variables
+* integration factors/ impact on company/ organizational "fit"
+* supportability
+* risks of success
+* sales cycles/getting sales force up to speed
+
+Agile principles in use with the process using Sliders include iterative/incremental and collaborative work. 
+
+Another process described uses "Bubble Maps" to graphically portray how potential projects compare with each other.  Bubble prioritization is then compared to company critical success factors.
+
+* vertical axis shows market value/priority
+* horizontial axis shows business objectives, e.g. "capture 65% market share in segment X
+* projects are plotted at appropriate intersections
+* data comes from developer, marketing, customer and possibly CEO estimates
+
+The Bubble Map process also uses principles of iterative/ incremental and collaborative work.
+
+<tt>
+[http://users.easystreet.com/deniston/portfolio/ProjectPortfolio-ProductRoadmap-BubbleChart.xls Bubble Map example, Excel w/ macros]
+</tt>
+
+Other Thoughts and Ideas:
+
+* collaboration enhances commitment
+* all projects, agile or not, need to be in the portfolio at the macro level
+* data attributes must be maintained as data moves through the organization, and their current accuracy must be understood
+* Stage Gate process model by Robert Cooper: covers need to reevaluate portfolio management assumptions, including business analysis, throughout the project, and the assumption that a project can be cancelled at any time.
+* after project evaluation with data, use "dot votes" for a quick picture of personal project preference (choice not necessarily based on data).  Note differences in perceived value when intuition, values, etc. are considered and discuss.
+* use the planning game for high-level estimates
+* use the Shopping or "Cafe" exercise:
+<tt>[http://users.easystreet.com/deniston/portfolio/PiscesCafe-Instr-Menu-Results.xls Cafe Menu & Results example, Excel]
+</tt>
+* in assessment, include portfolio managers from across organization verticals
+* different factors/ attributes will be important depending on the type of portfolio: internal IT/ infrastructure, product development, service providers for product development, etc.
+
+Questions Raised:
+
+* How to factor in sustaining engineering?
+* How to determine how to set aside how much money for new development when customers are paying for product support/services, and that is your whole revenue stream?
+
+
+
+³3minor³30³3newauthor³30³2host³269.30.72.232³2username³2Mattdeniston³2revision³212³2id³21026³2tscreate³21170358725³2keepts³21170395356³1cache_diff_default_major³11³1cache_diff_default_minor³1

@@ -1,0 +1,69 @@
+version³13³1ts³11170206035³1cache_oldmajor³17³1cache_oldauthor³10³1cache_diff_default_author³1³1revision³18³1tscreate³11170195704³1text_default³1version³21³2ts³21170206035³2ip³267.132.134.6³2name³2text_default³2data³2summary³3*³3text³3The purpose of this project was to write a script that would speak aloud the text of the comments made by signatories to the Agile Manifesto. There are about 4000 signatures, and Ward thought it would be amusing to write a program using the "say" capability of the computer to read the comments.
+
+http://www.agilemanifesto.org/sign/display.cgi
+
+The signatures are each contained in a separate file, broken out into a large number of separate folders. Each signature entry has a few fixed lines of text, name, email, web site, and so on, and the lines from seven on are free text that the signatory entered, and that we want to speak.
+
+The product is supposed to produce a file for download, and ultimately a program to go with it, to do the speaking. Ward's first thought was to zip up all the folders and process them on the client, but we decided to do a little pre-processing on the server. So Ward built, with the willing "help" of an entire room full of geeks, a command script to append all the files together into one big one, with each file separated from the next by the string ''BREAKBREAK''.
+
+Then we (I'll say we, but Ward did all the typing, with the rest of the room offering help) ... we wrote a little Perl script:
+
+  #!/bin/sh
+  echo "Content-type: text/plain"
+  echo
+  for i in */[0-9][0-9][0-9][0-9];
+    do perl -e
+      '<>;<>;<>;<>;<>;<>;
+      while (<>) {
+        print;
+      }
+      print "\nBREAKBREAK\n"
+      ' <$i;
+    done
+
+The script was written in small steps, but not in TDD style. However, we noticed that the "test-infected" people in the room would become very nervous if Ward took too many steps at once, and they would start asking him to run the program to see whether it was working.
+
+In one of the early tests, the program made a point of trying to pronounce BREAKBREAK, but it gave up and spelled it instead.
+
+You can run the script here:
+
+http://www.agilemanifesto.org/sign/data/active/script.cgi
+
+
+
+There was then a digression where we listened to various Apple voices, trying to decide whether to use "Deranged" or Zarvox. Even hard-working programmers like us have to take a break once in a while.
+
+We then focused our attention on a player script that could read the downloaded text through the say command. 
+
+  #!/usr/bin/perl
+  @voices = qw( 
+    Agnes Bruce Kathy Zarvox
+    Fred Princess Junior Vicki
+    Ralph Victoria Deranged
+  );
+
+  $voice = 0;
+  $name = "Agnes";
+  print "Agnes\n";
+
+  while (<>) {
+    next if /^\s*$/;
+    if (/BREAKBREAK/) {
+      $voice = ($voice+1) % scalar(@voices);
+      $name = $voices[$voice];
+      print "$name\n";
+    } else {
+      print "$_\n";
+      system "say", "-v", $name, $_;
+    }
+  }
+
+
+Overall, it was a good example of doing a spike, but not a good example of test first. Even now, Ward doesn't think he would try to do this one test-first, though I imagine a real application would be done with more tests.
+
+Most striking was that the programming went so much faster because whenever Ward was stuck for a word or a bit of syntax, someone in the room knew the answer. As Ward just put it, "It was a great example of group programming".
+
+So far, there's the ability to bring down the files to another program, and to spin through them, changing voices on each quotation. The voices sound somewhat human, more or less, but the intonations are not very human. It's sort of like reading the thanks and passionate thoughts of real people, in the voices of some kind of bizarre cyber organisms.
+
+Just what we wanted. We'll see where this important application goes next.
+³3minor³30³3newauthor³30³2host³267.132.134.6³2username³2³2revision³28³2id³2111³2tscreate³21170195704³2keepts³21170206035³1cache_diff_default_major³11³1cache_diff_default_minor³1

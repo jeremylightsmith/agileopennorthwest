@@ -1,0 +1,37 @@
+ts³11205879072³1version³13³1cache_oldmajor³16³1cache_oldauthor³13³1cache_diff_default_author³1³1revision³17³1tscreate³11205733744³1text_default³1ip³265.89.220.23³2ts³21205879072³2version³21³2name³2text_default³2data³2summary³3*³3text³3=== Get Edit Permissions Fast ===
+If you don't care about having an account or saving preferences, just do this:
+# Click the "preferences" link on any page.
+# Type in a user name in wiki word format.
+# Blank out the "set password" field (or type in a password if you wish.)
+# Type the password "100%Agile" in the Administrator Password field.
+# Click the save button at the bottom of the page.
+
+You will get a result page that notes that you have edit permissions. An "edit this page" link will now appear at the bottom of any page you visit. You are good to go.
+
+For more information, read the rest of this page.
+
+=== Anonymous Access ===
+
+Anyone can view the contents of this wiki. If you never want to edit content or create a page for yourself, then you can continue to access it in readonly mode. Pages will appear without an "Edit this page" link when you view them.
+
+=== Identifying Yourself ===
+
+Users of this wiki are automatically assigned a numeric id. To identify yourself with this id, select the "Preferences" link at the top of any wiki page. Enter your user name. Customarily, this is a WikiWord comprising your first and last names, like JohnSmith.
+
+When you set up your preferences, you may also choose from a number of options that take effect whenever you are logged in. You may also enter the edit password (see below) on this page.
+
+It may be useful to make a note of the numeric id that is assigned to you - see below.
+
+=== Logging In ===
+
+Normally, your user id is saved in a cookie on your system and you do not need to do anything further to log in when you access the wiki. But if the system fails to identify you through a saved cookie, you will be treated as a new, anonymous user until you identify yourself.
+
+To explicitly log into the wiki, follow this link: http://agileopennorthwest.org/wiki?action=login. You will need to know your numeric user id and the saved password. If you forgot one or the other, you can set up a new id or contact an administrator to attempt to recover your old one.
+
+=== Editing Pages ===
+
+We require a password for editing pages in order to prevent automated spamming. Before you can edit any pages, you must enter the edit password on the preferences page. Enter "100%Agile" in the box labeled "Administrator Password." Note that you should not use this as your personal password - select something else.
+
+The password may be changed from time to time. You can always find the current password on this page.
+
+³3newauthor³30³3minor³30³2username³2TroyFrever³2host³265.89.220.23³2revision³27³2tscreate³21205733744³2id³21012³2keepts³21205879072³1cache_diff_default_major³11³1cache_diff_default_minor³1

@@ -1,0 +1,61 @@
+ts³11170199510³1version³13³1cache_oldmajor³10³1cache_oldauthor³10³1cache_diff_default_author³11³1revision³11³1tscreate³11170199510³1text_default³1ip³267.132.134.6³2ts³21170199510³2version³21³2name³2text_default³2data³2summary³3*³3text³3Distributed Tools for Communication
+ Why? What?
+	Follow the sun
+	Telecommuting with bad weather
+	Non-programming projects that need coordination
+	Mostly colocated, with a few outliers
+
+Things that work?
+	Skype, permanent condenser microphone, speakers
+	Every few weeks spend a few times together (retrospectives, other syncing)
+	IM/IM chat rooms
+		signal vs. noise
+	Skype + vnc, other screen sharing (Webex)
+		VNC: Code TV
+	Voice a problem if English is a problem. IRC can be easier
+
+Tools for distributed management
+	As close to dragging around cards
+	homebrew
+	ScrumWorks, RallyDev, XPlanner
+	IBM Jazz - built into Eclipse? Task sharing, Integrated chat, it's own versioning system, etc
+	Wikis
+		Lots of problems. One guy likes it
+			Data goes stale very easily
+			Switch to Google Spreadsheet, other dedicated tools
+	ScrumWorks
+		Track history, log, user roles
+
+	Most tools are too complicated
+	Trac
+		Simple, has wiki, tie to source control
+		Tickets as features, sub-tickets as tasks
+		States: To-do, in progress, done, accepted
+			Others added deployed, rejected (story was rejected by client)
+	
+	Simultaneous movement
+	Simultaneous edit
+		Writely
+		SubEthaEdit
+		MS tool?
+
+Problems would you like to solve w/tools
+	Tracking informal communication
+	Standup meetings that aren't lame
+		Condenser mic made it much better
+		But they are more likely (or not) to turn into status meetings
+			Need more face time so people will feel free to keep others on track
+
+Tool-resistant problems
+	Shared culture
+	Product owner is onsite with only part of the team
+		Locals get undue share of praise in good times, burden in bad times
+
+Tool failures
+	Archived email threads (see informal communication)
+
+Vs. Open Source
+Distributed version control
+	git, bzr, mercurial, svk
+	
+³3newauthor³31³3minor³30³2username³2³2host³267.132.134.6³2revision³21³2tscreate³21170199510³2id³2111³1cache_diff_default_major³11³1cache_diff_default_minor³1

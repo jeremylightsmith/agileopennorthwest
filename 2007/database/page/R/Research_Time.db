@@ -1,0 +1,27 @@
+version³13³1ts³11175127846³1cache_oldmajor³111³1cache_oldauthor³111³1cache_diff_default_author³11³1revision³112³1tscreate³11170284992³1text_default³1version³21³2ts³21175127846³2ip³276.2.0.90³2name³2text_default³2data³2summary³3Spam Removal³3text³3We analyzed the problem of finding time for research on an agile team. Every participant was part of a group that does research, but how they went about it differed:
+* be part of a dedicated research team for the company
+* pad the starts of sprints with several days of research time relevant to the problems to be attempted in the sprint
+* do small, costed research spikes (often to allow costing of a larger feature)
+* do research outside of work
+* "just do it" at work, since it's the right thing to do
+
+How to "sell" research time to stakeholders was discussed:
+* trading off production vs production capability 
+* lost opportunity cost
+* lack of research can be considered technical debt
+* if you truly *believe* in it, they should trust you
+* smaller items and one-offs will be easier to get approval for
+* tricky since there are unknown endpoints
+* value is hard to quantify (thus hard to trade off against stories/bugs/etc)
+* it's a lottery ticket - you've got to play to win!
+
+Other points: 
+* not everyone is a researcher/likes to research
+* self-initiated usually works better than mandated
+* it usually goes best solo (not paired), in a divide-and-conquer approach with frequent check-ins between different team members
+* you need a conducive work environment, not too noisy/chaotic
+* info can be disseminated via pair-swapping or brownbags, which can be seen as lobbying efforts for new technology or techniques
+* Slack by Tom Demarco was recommended http://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698
+* you can hire new people to gain new expertise 
+* cross-trained people (via pairing) are never quite at the same level as an expert developed through specialization
+³3minor³30³3newauthor³31³2host³276.2.0.90³2username³2³2revision³212³2id³21145³2tscreate³21170284992³2keepts³21175127846³1cache_diff_default_major³11³1cache_diff_default_minor³1

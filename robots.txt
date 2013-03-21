@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /all/
+Disallow: /common/
+Disallow: /test/
+Disallow: /wiki-old/
+

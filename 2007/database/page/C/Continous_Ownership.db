@@ -1,0 +1,76 @@
+version³13³1ts³11170370829³1cache_oldmajor³13³1cache_oldauthor³13³1cache_diff_default_author³11³1revision³14³1tscreate³11170284665³1text_default³1version³21³2ts³21170370829³2ip³2170.135.241.46³2name³2text_default³2data³2summary³3*³3text³3Continous Ownership - Exploring issues and location of ownership in agile development and beyond.
+
+The group brainstormed possibilities for different ownership models:
+
+   * expectation that this is for "mature agile" teams
+   * owners within teams continously
+   * all team members sharing ownership
+   * features/stories morphing based on team consensus
+   * ui designers going from detailed implementation to move freedom in design
+   * agile encourages/forces feature vs requirement vs detailed spec
+
+Communication between "owners" and "developers"
+
+   * you want developers who won't implement things that aren't right.
+   * being developers who get the "right code right" means values is higher.
+   * developers don't want backlog with fixed, detailed, requirements - rather features that they can figure out how to implement.
+   * maybe product owner (PO) continously available to team is answer?
+   * perceived split between the authority (PO) vs. the responsiblity (the team)
+   * PO is either a pig or chicken ...  do they contribute work or not.
+   * Fixed iteration goals forces PO to commit to goals, insulates developers from responsibility for bad business ideas.
+
+Quality improved by PO w/ tech and business skills.
+People with [technical + business] are ideal, but hard to find.
+
+Overlaying dimension of business vs technical is:
+   * Skills vs Personality
+   * Domain Knowledge vs Process Knowledge
+
+--
+
+Multiple interests are represented in ownership (PO + Dev + tester + UI + depolyment + sales & mkt + training /doc )
+
+In a team you want:  UNITY, not uniformity
+
+Idealy, ownership happens ALL AT ONCE.  Just as we now want tester involvement from the start, the more ownership interests the can be represented continously through team collaboration, them better.
+
+--
+
+brainstorming idea for possible new ownership model:
+
+team pulls stories from backlog in the order the team deems fit to reach larger goal (priority resides in team).
+
+--
+
+PO needs to act as part of team to form larger team
+
+Favor concensus, but PO must ultimately decide (single wringable neck?).
+
+--
+
+Group discussed ownership and overhead in large scrum projects (scrum of scrums in multiple layers)
+PO fuzziness, must converse to resolve.
+
+--
+
+What do we want ownership of?
+
+
+   * Ownership of those things we control or affect
+
+   * Ownership of those things for which we have the skills and compotence.
+
+Yet, the edge of these things are what is most exciting.  
+The boundaries of our control and skills brings the greatest interest
+
+--
+
+Ownership Orphans - unclaimed ownership.
+
+PO's lack of bandwidth to be the PO can be limit.
+
+Personal relationship with PO may elicit ownership when combined with:
+   ASKING for them to own it
+
+
+³3minor³30³3newauthor³31³2host³2170.135.241.46³2username³2³2revision³24³2id³2111³2tscreate³21170284665³2keepts³21170370829³1cache_diff_default_major³11³1cache_diff_default_minor³1

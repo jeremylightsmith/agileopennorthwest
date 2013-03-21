@@ -1,0 +1,37 @@
+version³13³1ts³11170292220³1cache_oldmajor³11³1cache_oldauthor³10³1cache_diff_default_author³1³1revision³12³1tscreate³11170290595³1text_default³1version³21³2ts³21170292220³2ip³267.132.134.6³2name³2text_default³2data³2summary³3*³3text³3Documentation and Other Scrum “Artifacts”
+
+Attendees:
+*  Angela
+*  Pat
+*  Sue
+*  Todd
+*  Sid
+
+List of potential artifacts, categorized as temporary or persistent:
+
+Temporary:
+
+* Meeting notes
+* Draft user help text
+* Burndown chart
+* ‘mini-specs’
+* Test plans (if not required by regulations)
+
+Persistent:
+
+* Significant decisions, with rationales for decisions
+* Legal or regulatory requirements
+* Tech notes for Tech Support
+* Spike results
+* Test cases
+* Installation instructions
+* Guides/manuals that ship with the product
+* Architecture documents
+
+Bottom line:
+
+If the organization/customer requires it, it should be considered a deliverable and have a place on the backlog.
+
+If not, then the team decides if it is worth creating and/or keeping.
+
+³3minor³30³3newauthor³30³2host³267.132.134.6³2username³2³2revision³22³2id³2111³2tscreate³21170290595³2keepts³21170292220³1cache_diff_default_major³11³1cache_diff_default_minor³1

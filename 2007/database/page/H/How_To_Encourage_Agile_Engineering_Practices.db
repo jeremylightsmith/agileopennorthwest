@@ -1,0 +1,20 @@
+version³13³1ts³11170264001³1cache_oldmajor³11³1cache_oldauthor³10³1cache_diff_default_author³1³1revision³12³1tscreate³11170262970³1text_default³1version³21³2ts³21170264001³2ip³267.132.134.6³2name³2text_default³2data³2summary³3*³3text³3This session was an informal conversation about encouraging agile engineering practices. The host began by describing the situation in his organization where scrum had been adopted successfully, however there was some resistance to adopting Test Driven Development (TDD). A number of participants also indicated that they were not practicing TDD either. One participant talked about how they initially started doing TDD, but soon determined that it was too difficult to do with their existing legacy system. He put forth the hypothesis that TDD is often nearly impossible to do with legacy code because adding tests often results in navigating a never-ending chain of dependencies that results in the effort taking so long that the cost outweighs the benefit.
+
+We then tried listing out some of the engineering practices that could be considered "agile," and we conducted and unscientific poll of the biased audience asking how many did each practice. The list included:
+* Test Driven Development (collaborative programming): ~5% do this
+* Refactoring: ~100% responded that they do this, but we also determined that if we talked about it more that we'd likely discover that "refactoring" has many meanings, and that if we're really talking about continuous refactoring, far fewer people actually do that.
+* Continuous Integration: 100%
+* Sustainable pace (no involuntary overtime): ~30%
+* Defined coding standards: 100%
+* Design spikes when necessary (we didn't poll this).
+* Automated Unit Testing: ~80%
+* Automated Functional Testing: ~10%
+* Automated Acceptance Testing (defined as customer facing tests): ~5%
+* Getting to "Done Done" each iteration (wasn't polled).
+
+This was not an exhaustive list, and we could have kept listing things that may be considered "agile" or things that support agility. It was noted that among the things we listed, TDD and Continuous Refactoring stood out as being different than the rest. Unlike, say, Continuous Integration, where once it's in place it does need a lot of ongoing thought, TDD and Continuous Refactoring are things that require a sustained effort by developers and represent a change in the way they think about the development process. This is perhaps factors into why these two practices have limited adoption. 
+
+We came to the conclusion that it's not really possible to derive a list of practices that are both necessary and sufficient for agility. Rather Agility should be described in terms of delivering business value to the customer, and one adopts engineering practices that support this goal. What is important in agile is keeping the principles in mind, and using those principles to adopt practices that support the goals.
+
+I neglected to get a list of participants in the conversation, so if you were there, please list your name below. Also, please correct, expand, or otherwise improve on what I have written above.
+³3minor³30³3newauthor³30³2host³267.132.134.6³2username³2³2revision³22³2id³2111³2tscreate³21170262970³2keepts³21170264001³1cache_diff_default_major³11³1cache_diff_default_minor³1

@@ -1,0 +1,18 @@
+version³13³1ts³11205882276³1cache_oldmajor³13³1cache_oldauthor³10³1cache_diff_default_author³1³1revision³14³1tscreate³11205878053³1text_default³1version³21³2ts³21205882276³2ip³265.89.220.23³2name³2text_default³2data³2summary³3*³3text³3To add photos to a page, you need to have edit permissions for the page, as described in WikiSecurity. Then you upload your photo to flickr (elsewhere if you wish, but we made a flickr account you can use), then reference a link to the photo in the wiki page. Here are the steps:
+
+* Go to www.flickr.com. Sign in (link in the upper right) with user name "agileopennw" and password "100%Agile".
+
+* Click on Upload Photos and follow the instructions.
+
+* After uploading and describing, click on the photo. 
+
+* Click on the tiny "all sizes" link above the photo.
+
+* Choose the size you want (medium is good.)
+
+* Copy the URL from "Step 2" beneath the photo.
+
+* Now just paste that url into the wiki page you are trying to edit, and the photo will appear!
+
+See the TestPhotoPage for an example.
+³3minor³30³3newauthor³30³2host³265.89.220.23³2username³2TroyFrever³2revision³24³2id³21012³2tscreate³21205878053³2keepts³21205882276³1cache_diff_default_major³11³1cache_diff_default_minor³1

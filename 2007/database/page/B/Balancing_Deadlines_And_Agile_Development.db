@@ -1,0 +1,41 @@
+ts³11170369895³1version³13³1cache_oldmajor³14³1cache_oldauthor³14³1cache_diff_default_author³11³1revision³15³1tscreate³11170277219³1text_default³1ip³2209.162.219.253³2ts³21170369895³2version³21³2name³2text_default³2data³2summary³3*³3text³3Session run by [mailto:rcampo@laika.com Rick Campo] of LAIKA entertainment.
+
+====== Summary ======
+Many organizations view the Agile Development Process (or any iterative approach) as an open-ended, " you get it when you get it" methodology.  Also, IS Managers, Application developers and Project Managers have to deal with setting and meeting deadlines.  This session deals with how to balance the two, often-times competing, dynamics.  Our approach was to first identify issues surrounding deploying and using Agile.  Next on the issue list was the best way to estimate application development time, followed by organizational impact and recommended solutions.  
+
+====== Issues ======
+
+* 1. Developers experience many drop-in issues for maintenance and support of applications outside of their current project.
+* 2. Management holds unrealistic expectations on setting and meeting dates.
+* 3. Often times there are limited or no feature lists.
+* 4. There is often a lack of management "vision" or direction.
+* 5. There is constant changing of priorities by management.
+* 6. When starting up and implementing the Agile development process, you have to prove out the process and establish credibility.
+* 7. There is a lack of understanding of how the Agile process works.
+
+====== Estimating and Scheduling Concerns ======
+
+* When the Agile development process is first used, there is a lack of historical data to pull from.
+* When using the iterative approach, there are often many changes in direction.
+* Identifying scope changes is often a gray area.
+* Some customers are not really sure what they want and their representation on the project team is sometimes not at the level of detail necessary to fully understand requirements and expected deliverables.
+
+====== Recommended Solutions ======
+
+* It is important to keep development teams together from project to project.  They know how each other work and team dynamics are already established.
+* Be sure and track history on how much time is spent on interruptions and support request on items not associated with the project currently at hand.  One approach is to dedicate a resource(s) to provide day-to-day support, thereby allowing other developers to maintain focus and momentum.
+* Try to mitigate risks up front in the development process by using prototypes.
+* Gauge and measure the team’s velocity.
+* Be sure that the customer is properly represented on the project team.  Sponsors, directors, etc should not be providing direction on functional requirements.  Utilize a business analyst or someone who will be using the application on a regular basis.  This person can build the “bridge” between the vision and the product.
+* Conduct regular demonstrations of the application at each interval, story or release.  Build, test and review as you go.
+* Utilize co-location techniques by having the users and developers seated in close proximity.  This promotes communications and understanding of requirements.
+* Utilize the prototyping approach during the discovery process.  This will help in estimating future development time on the project.
+* Exercise change control project management techniques.  Customers need to understand that a change in scope often times means a change in costs and schedule.
+* Prioritize the feature list.  Some features can be implemented post initial release
+
+====== Conclusion ======
+
+The Agile process builds a better product, eliminates un-needed features and sets realistic completion dates.  Deadlines should only be set when sufficient information is available to do so.
+
+The one theme that each member agreed on was the the need to “eliminate setting of false dates without enough information".  Another theme was that the Agile process does not take longer than the waterfall or RUP approach.
+³3newauthor³31³3minor³30³2username³2³2host³2209.162.219.253³2revision³25³2tscreate³21170277219³2id³2111³2keepts³21170369895³1cache_diff_default_major³11³1cache_diff_default_minor³1

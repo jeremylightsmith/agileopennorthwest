@@ -1,0 +1,79 @@
+³1version³21³2ts³21170222419³2ip³267.132.134.6³2name³2text_default³2data³2summary³3*³3text³3We list number of technical and non-technical skills that agile developer should have.
+
+* Decompose a problem and a solution
+* Small check-in
+* Write <b>Good</b> unit tests
+* write unit tests at all
+** using unit test tool
+* Estimation
+* Write system tests
+* Decoupling - While retaining cohesion : XP Explained
+* Using source code control
+* IDE - not just editor & compiler
+* Refactoring Tools* Debugger 
+* Understanding refactoring
+* Understanding user perspective
+* Unlearn Gold-plating
+* Simplest Thing & VAGNI
+* Verbal communication
+* Built tool - Helps, but not required
+** There are to paradigm. 1) Run automated unit test before check-in 2) using automated build tool
+* Usability design (external)
+* Design usable code (internal)
+* Attention to detail
+* NIH / IH Syndromes
+** don't try to use all third-party code
+** know how to balance it
+* Shared code ownership
+
+Soft Skills
+* Courage
+* Willing to learn from the past
+* Want to learn new things, strive for improvement
+* Pride: work, team, ...
+* Humility
+* Basics of Team dymanics
+** Tuckman Model
+** Conflict resolution
+** Persuasion
+** Leading from a position of no power
+³3newauthor³31³3minor³30³2host³267.132.134.6³2username³2³2revision³21³2id³2111³2tscreate³21170222419³2keepts³21170222438³1ip³267.132.134.6³2ts³21170222438³2version³21³2name³2text_default³2data³2summary³3*³3text³3We list number of technical and non-technical skills that agile developer should have.
+
+* Decompose a problem and a solution
+* Small check-in
+* Write <b>Good</b> unit tests
+* write unit tests at all
+** using unit test tool
+* Estimation
+* Write system tests
+* Decoupling - While retaining cohesion : XP Explained
+* Using source code control
+* IDE - not just editor & compiler
+* Refactoring Tools & Debugger 
+* Understanding refactoring
+* Understanding user perspective
+* Unlearn Gold-plating
+* Simplest Thing & VAGNI
+* Verbal communication
+* Built tool - Helps, but not required
+** There are to paradigm. 1) Run automated unit test before check-in 2) using automated build tool
+* Usability design (external)
+* Design usable code (internal)
+* Attention to detail
+* NIH / IH Syndromes
+** don't try to use all third-party code
+** know how to balance it
+* Shared code ownership
+
+Soft Skills
+* Courage
+* Willing to learn from the past
+* Want to learn new things, strive for improvement
+* Pride: work, team, ...
+* Humility
+* Basics of Team dymanics
+** Tuckman Model
+** Conflict resolution
+** Persuasion
+** Leading from a position of no power
+³3minor³30³3newauthor³30³2username³2³2host³267.132.134.6³2revision³22³2tscreate³21170222419³2id³2111³2keepts³21170222467
