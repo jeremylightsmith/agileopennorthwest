@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Agile Open Northwest</title>
 <link href="stylesheet.css" rel="stylesheet" type="text/css" />
+<script src="jquery-2.0.3.min.js"></script>
 
 </head>
 
