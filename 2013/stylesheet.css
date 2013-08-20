@@ -219,3 +219,12 @@ td.sponsor-text, td.group-text, td.host-text
 {
   padding: 2em 0 2em 2em;
 }
+.required {
+  color: red;
+}
+button.let-me-know {
+  font-size: 1.2em;
+}
+form.let-me-know input[type="text"] {
+  width: 100%;
+}
