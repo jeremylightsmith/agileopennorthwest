@@ -6,7 +6,7 @@
 		
         <table class="schedule" cellspacing=0 cellpadding=5 border=1>
           <tr>
-            <th colspan=2>Wednesday, 6 February</th>
+            <th colspan=2>Wednesday, 5 February</th>
           </tr>
           <tr>
             <td>8:00 am - 8:30 am</td>
@@ -54,7 +54,7 @@
           </tr>
 
           <tr>
-            <th colspan=2>Thursday, 7 February</th>
+            <th colspan=2>Thursday, 6 February</th>
           </tr>
           <tr>
             <td>8:00 am - 9:00 am</td>
@@ -104,7 +104,7 @@
           </tr>
          <tr>
          
-            <th colspan=2>Friday, 8 February</th>
+            <th colspan=2>Friday, 7 February</th>
           </tr>
           <tr>
             <td>8:00 am - 9:00 am</td>

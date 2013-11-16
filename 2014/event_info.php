@@ -3,7 +3,7 @@
   $event_year = 2014;
   
   /* Set the dates */
-  $event_dates = "February 6 to 8, 2014";
+  $event_dates = "February 5 to 7, 2014";
   
   /* Set the maximum number of paying attendees */
   $event_limit = 150;
@@ -41,7 +41,7 @@
          online  = The wiki is available
      Any other value is also treated as coming */
   $wiki_status = 'coming';
-  $show_session_graphics = false;
+  $show_session_graphics = FALSE;
   
   $session_notes_url = "http://aonw2014.posterous.com";
   $registration_url = "http://aonw2014.eventbrite.com";

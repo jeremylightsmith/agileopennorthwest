@@ -50,7 +50,7 @@ One Law of Open Space. If you have questions, volunteers and hosts will offer an
   </ul>
 
 <p class="title" align="center">The Law of Personal Mobility</p>
-  <p align="center">If you find yourself sitting where you can't learn or contribute, move yourself to a place where you can.</p>
+  <p align="center">If you find yourself where you can't learn or contribute, move yourself to a place where you can.</p>
 </div>
 
 <p class="title">Creating a Session</p>

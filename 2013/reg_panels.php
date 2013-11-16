@@ -50,7 +50,7 @@
     })
   })
   </script>
-  <button class="let-me-know">Let me know about 2014!</button>
+  <button class="let-me-know">Signup for 2014 news!</button>
 
   <form class="let-me-know" style="display:none; text-align: left;" method="post" action="http://app.icontact.com/icp/signup.php" name="icpsignup" id="icpsignup3663" accept-charset="UTF-8" onsubmit="return verifyRequired3663();">
     <input type="hidden" name="redirect" value="http://www.icontact.com/www/signup/thanks.html">

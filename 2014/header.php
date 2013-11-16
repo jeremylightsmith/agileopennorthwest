@@ -49,11 +49,11 @@
 <div id="page">
 
 <div id="logo">
-  <a href="index.php"><img src="images/agilenwlogo_2013.png" /></a>
+  <a href="index.php"><img src="images/logo.png" /></a>
 </div>
 
 <div id="header">
-  <img src="images/header_2013.gif"/>
+  <img src="images/header.png"/>
 </div>
 
 <div id="navbar">
@@ -62,6 +62,7 @@
 
 <div id="nav">
   <div id="page-menu">
+    <br/>
     <ul>
 <?php
       menu_item("Home", "index.php");
