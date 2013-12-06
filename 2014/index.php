@@ -28,7 +28,7 @@ div.questions { margin: 0 2em; font-family: Times New Roman,serif;font-style: it
 
 <p class="quote">"I was able to reconnect with the Agile / Local community in a way that gives me so much positive energy!"
 
-<h2><span style="text-transform:uppercase;"><?php echo $event_theme ?></span><br/>Agile Open Northwest <?php echo $event_year ?></h2>
+<h2><!-- <span style="text-transform:uppercase;"><?php echo $event_theme ?></span> --><br/>Agile Open Northwest <?php echo $event_year ?></h2>
 
 <p>Agile Open Northwest, a non-profit alliance of agile practitioners in the US Pacific Northwest region, presents our eighth annual conference! 
 
@@ -56,9 +56,9 @@ When distributed teams use Agile approaches, what changes?<br>
 If we adopt an Agile mindset, what might the transition look like in my organization?
 </div>
 
-<p>This conference contains <i>over 90 sessions</i> bringing novices, journeymen, and experts together for face-to-face conversations exploring the most important topics in Agile software development today.
+<p>This conference contains <i>over 120 sessions</i> bringing novices, journeymen, and experts together for face-to-face conversations exploring the most important topics in Agile software development today.
 
-<p><b>How does it work?</b> Your hosts designed this event to allow practitioners like you to meet in self-organizing groups where we can share our latest ideas, challenges, hopes, experiences and experiments. We follow an Open Space format to foster collaboration and allow the conference to take its direction from the participants themselves. Your commitment to arriving at the beginning and staying until the end both days will ensure that session after session will integrate, enhance, and deepen every participant’s understanding of achieving <b>“<?php echo $event_theme ?>.”</b> 
+<p><b>How does it work?</b> Your hosts designed this event to allow practitioners like you to meet in self-organizing groups where we can share our latest ideas, challenges, hopes, experiences and experiments. We follow an Open Space format to foster collaboration and allow the conference to take its direction from the participants themselves. Your commitment to arriving at the beginning and staying until the end both days will ensure that session after session will integrate, enhance, and deepen every participant’s understanding.”</b> 
 
 <?php if ($show_sponsors) { ?>
 

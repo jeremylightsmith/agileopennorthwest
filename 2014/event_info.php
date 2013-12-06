@@ -9,7 +9,7 @@
   $event_limit = 150;
   
   /* Set the cost to attend */
-  $event_cost = '$200';
+  $event_cost = 'TBD';
 
   $event_theme = "Agile for REAL";
   
