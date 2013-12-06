@@ -10,6 +10,8 @@
   
   /* Set the cost to attend */
   $event_cost = '$200';
+
+  $event_theme = "Agile for REAL";
   
   /* Set the status of the event here in order to control which
      of the four registration panels is displayed. Options are
@@ -21,12 +23,11 @@
      when the event limit has been reached. */
   $event_status = 'coming';
   
-  /* Set the date and time when registration will be opened
-    automatically. If not used, comment out. */
-  $event_open_time = mkTime(12,0,0,12,12,2013);
-  /* This is a HACK - we "know" the server is on the
-     east coast. Really should use UTC. */
-  $server_open_time = mkTime(15,0,0,12,12,2013);
+  /* when registration opens
+        "on December 11, 2013 at 12:00pm PST"
+        or
+        "soon" */
+  $event_registration_start_time = "on December 11, 2013 at 12:00pm PST";
 
   /* Set this to TRUE once we have sponsors. When set to TRUE,
      the home page displays as designed. When FALSE, the
@@ -57,10 +58,6 @@
      of participants */
   $show_participants = file_exists("participants.txt");
 
-  /* Set registration open if open time has passed */
-  if ($event_status == 'coming' && isset($server_open_time) && time() >= $server_open_time)
-     $event_status = 'open';
-     
 ?>
 
 

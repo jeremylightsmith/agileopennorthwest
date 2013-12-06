@@ -1,15 +1,9 @@
 <div class="side-panel">
 
-<?php if ( $event_status == 'coming' ) {
-
-  if ( isset($event_open_time)) {
-    $open_when = 'on ' . date('F j, Y', $event_open_time) . ' at ' . date('h:ia', $event_open_time) . ' PST';
-  } else {
-    $open_when = 'soon';
-  } ?>
+<?php if ( $event_status == 'coming' ) { ?>
   
   <p class="title">Watch This Page!</p>
-  <p>Registration for Agile Open Northwest <?php echo $event_year; ?> will open <?php echo $open_when; ?>.</p>
+  <p>Registration for Agile Open Northwest <?php echo $event_year; ?> will open <?php echo $event_registration_start_time ?>.</p>
   <p>Follow us on Twitter for updates.</p>
 
 <?php } elseif ( $event_status == 'open' ) { ?>

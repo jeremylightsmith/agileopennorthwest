@@ -1,39 +1,76 @@
-<?php
-  include ( "header.php" );
-?>
+<?php include ( "header.php" ); ?>
 
-<p class="title">Conference Location</p>
+    <p class="title">Conference Location</p>
 		
-<p>For Agile Open Northwest <?php echo $event_year; ?>, we’ll return to the Ambridge Event Center, a premier facility conveniently located in the heart of Portland's vibrant Lloyd District, the epicenter of The Rose City's special events. Grown in the tradition of hospitality for which the Northwest is famous, Ambridge Event Center takes its name and strength from a perfect, old-fashioned rose that thrives in Portland.
+    <p>Created for the 1962 Seattle World's Fair, 
+		<a href="http://www.seattlecenter.com/">Seattle Center</a> calls itself 
+		"the nation's best gathering place." It certainly has a lot to offer, 
+		including cultural venues, sports arenas, entertainment options, 
+		the Science Center, and a Food Court, in addition to beautiful grounds. 
+		It is easily accessible by car, bus or riding the monorail from downtown 
+		Seattle.</p>
+        
+		<p>We will be making use of several of the 
+    <a href="http://seattlecenter.com/locations/detail.aspx?id=55">Fisher Pavilion</a>, 
+		nestled between the international fountain + the armory (more or less in the middle of the center). 
+		In addition, there are numerous spots nearby for impromptu gatherings. 
+		For your dinner choices, a number of restaurants are within walking distance.</p>
+ 
+<!-- 	<p>For out-of-towners, we have made arrangements with the following hotels in near the center 
+           for a special rate. 
+		
+		<blockquote><a href="http://www.innatqueenanne.com">Inn At Queen Anne</a><br>
+		505 1st Ave N, Seattle, WA 98109<br>
+		(206) 282-7357<br>
+		Includes continental breakfast & internet connection, $15 parking/day<br>               
+		Standard King or Double: $69/night + tax <br>
+                If booking online, use promo code AGILE. By phone, ask for the Agile Open Northwest 2012 special rate.<br>
+		</blockquote>
 
-<p>The Ambridge Event Center is easily accessible by all of Portland’s metro area neighborhoods. Near the confluence of I-5 and I-84, it’s only blocks from the Oregon Convention Center and is served by the Max Red, Blue & Green lines, as well as Trimet Bus Route #6. We've reserved a number of rooms, all within close proximity of the agenda wall for easy reference. In addition to the meeting rooms, we'll have a dedicated space for registration, meals, breaks, and sponsor exhibits. In addition, there are numerous spots in the local area for impromptu gatherings. For your dinner choices, a number of restaurants are within walking distance.
+		<blockquote><a href="http://www.marqueen.com">Mar Queen Hotel</a><br>
+		600 Queen Anne Avenue North, Seattle, WA 98109<br>
+		(206) 282-7407<br>
+		Includes continental breakfast & internet connection, $25 valet parking/day<br>
+		Standard King or Double: $109/night + tax<br>
+                If booking online, use promo code AGILE. By phone, ask for the Agile Open Northwest 2012 special rate.<br>
+		</blockquote>
 
-<p>For out-of-towners, we have found a facility within walking distance of many hotels across the price range. Accommodations are available at several hotels close to the Ambridge Event Center, the nearby Convention Center, or in the Portland downtown area, a few short Max stops away in Fareless Square.
-   
-<p class="title">Hotel Information</p>
+ --><!--
+                <blockquote><a href="http://www.hamptoninnseattle.com/">Hampton Inn & Suites Seattle Center</a><br>
+		700 fifth avenue north, Seattle, WA, 98109<br>
+		(206) 282-7700<br>
+		Includes extended continental breakfast & internet connection, $13 parking/day<br>
+		Standard King: $119/night or Double: $129/night + tax<br>
+		You will need to ask for Agile Open Northwest to get this rate up until two weeks before the conference<br>
+		</blockquote>
 
-<p>For out-of-towners, the conference location is within walking distance of many hotels to satisfy every price range. Accommodations are available at several hotels close to the Ambridge Event Center, the nearby Convention Center, or in the Portland downtown area, a few short Max stops away in Fareless Square. 
 
-<p>We have negotiated discounts for conference attendees at these two fine hotels nearby:
+                <blockquote><a href="http://www.comfortsuites-seattle.com/">Comfort Suites Downtown/Seattle Center</a><br>
+		601 Roy St., Seattle, WA<br>
+		(206) 282-2600<br>
+		Includes extended continental breakfast & internet connection, free parking/day<br>
+		Standard King or Double: $72/night + tax<br>
+		You will need to ask for Agile Open NW group rate, no expiration for rate but based on availability<br>
+		</blockquote>
+-->	
 
-<p>Located across the street from the Ambridge Event Center, the <a href="http://www.marriott.com/hotels/travel/pdxcl-courtyard-portland-downtown-convention-center">Marriott Courtyard Portland Downtown/Convention Center</a> hotel has offered a discounted rate of $125 per night. For this discounted rate, call 503-234-3200 and ask for the "Agile Open NW"rate.
 
-<p>Located only a few blocks south of the Ambridge Event Center, the <a href="http://www.redlion.com/our-hotels/oregon/portland-convention-center">Red Lion Hotel Portland Convention Center</a> has offered a discounted rate of $89 per night, with parking available at $10 per day. Call 800-343-1822 and ask for the "Agile Open NW" rate.
+		
+        <p>Additional accomodations are available at several hotels close to the Center or in the Seattle downtown area. 
+Additional parking is also available in the area.</p>
 
-<!--<p>Located only a few blocks away from the Ambridge Event Center, the <a href="http://www.cpportland.com">Crowne Plaza Portland Convention Center</a> hotel has offered a discounted rate of $109 (plus tax) for a single or double room. For this discounted rate, call 503-233-2401 and mention the Agile Open Northwest 2011 room block.
--->
+	<p>There are numerous hotels available close to the Center and in the nearby Seattle downtown area. Watch this page for news of special rates for Agile Open Northwest attendees.
 
-<p class="title">Directions & Maps</p>
+        <p id="title">Directions & Maps</p>
+        <ul>
+      
+          <li><a href="http://www.seattlecenter.com/transportation/#directions">Directions to Seattle Center</a></li>
+          <li><a href="http://www.seattlecenter.com/downloads/sc_map_color_gates.pdf">Map of Seattle Center (PDF)</a></li>
+	  <li><a href="http://www.booking.com/landmark/us/seattle-center.en.html?aid=314920;label=seattle-center-wVj24QaWCoE0IFEvqdQ0xwS1922791798;ws=&gclid=CK3lnaaXmp4CFR4HagodRS_7mA">Hotels near Seattle Center</a></li>
+          <li><a href="http://www.urbanspoon.com/ps/1/5126/Seattle/Landmarks/Seattle-Center.html">Restaurants near Seattle Center</a></li>
+          <li><a href="http://www.seattle-downtown.com/westlake-center/#hotels">Downtown Hotels near Westlake Center (Monorail)</a></li>
 
-<p>The address is 1333 NE Martin Luther King Jr. Boulevard, Portland, OR, 97232. Enter through the front door. Parking is available on the streets and off-street at nearby lots. A map is below.
-
-<p>Max Line - Get off at Convention Center Stop on NE Holladay St. Walk east ~ 1 block to NE Martin Luther King Boulevard. Turn left (north) and go ~ 4 blocks (0.2 miles)
-
-<p>Driving from North or South - Take I-5 Exit 302A, Turn left at NE Weidler St., Turn right at NE Martin Luther King Boulevard, Event is ~ 0.1 mile on the right at 1333 NE MLK Blvd. For nearby parking, see http://www.ambridgeevents.com/services-parking.php
-
-<p/>
-<iframe id="map" src="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=1333+NE+Martin+Luther+King+Jr.+Boulevard,+Portland,+OR,+97232&amp;sll=37.0625,-95.677068&amp;sspn=50.37814,89.648437&amp;ie=UTF8&amp;z=14&amp;g=1333+NE+Martin+Luther+King+Jr.+Boulevard,+Portland,+OR,+97232&amp;ll=45.541525,-122.657461&amp;output=embed&amp;s=AARTsJqTS84RaZAmFJe7DtyuKGX2wDdAOw"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=1333+NE+Martin+Luther+King+Jr.+Boulevard,+Portland,+OR,+97232&amp;sll=37.0625,-95.677068&amp;sspn=50.37814,89.648437&amp;ie=UTF8&amp;z=14&amp;g=1333+NE+Martin+Luther+King+Jr.+Boulevard,+Portland,+OR,+97232&amp;ll=45.541525,-122.657461&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-
-<?php
+        </ul>
+        <?php
   include ( "footer.php" );
 ?>

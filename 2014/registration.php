@@ -1,18 +1,16 @@
-<?php
-  include ( "header.php" );
-?>
+<?php include ( "header.php" ); ?>
 
 <div id="right-hand-side">
 
-<?php
-  include ("reg_panels.php");
-?>
+<?php include ("reg_panels.php"); ?>
 
 </div>
 
 <p class="title">Registration</p>
 
-<p>Online registration for Agile Open Northwest <?php echo $event_year; ?> opens at noontime Pacific Time on 12 December 2012.</p>
+<p>
+  Online registration for Agile Open Northwest <?php echo $event_year; ?> 
+  opens <?php echo $event_registration_start_time ?>.</p>
 
 <p>Registration is limited to <strong><?php echo $event_limit; ?> participants</strong>, so <strong>register early!</strong> Last year all available spots were sold in a few days.</p>
 

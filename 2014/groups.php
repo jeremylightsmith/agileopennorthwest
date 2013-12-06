@@ -19,7 +19,7 @@ on a regular basis to share experiences and learn from each other.</p>
 
   <tr>
   	  <td class="group-logo">
-	  	  <a href="http://agilepdx.org"><img src="images/AgilePDX.png"></a>
+	  	  <a href="http://agilepdx.org"><img src="images/groups/AgilePDX.png"></a>
 	  </td>
 	  <td class="group-text">
 
@@ -41,7 +41,7 @@ on a regular basis to share experiences and learn from each other.</p>
 
   <tr>
   	  <td class="group-logo">
-	  	  <a href="http://beyondagile.org"><img src="images/BeyondAgileLogo.png"></a>
+	  	  <a href="http://beyondagile.org"><img src="images/groups/BeyondAgileLogo.png"></a>
 	  </td>
     <td class="group-text">
 	  	  <a href="http://beyondagile.org">BeyondAgile</a> is a Puget Sound-area 
@@ -54,7 +54,7 @@ on a regular basis to share experiences and learn from each other.</p>
 
   <tr>
   	  <td class="group-logo">
-	      <a href="http://www.seattlexp.org"><img src="images/SeattleXP.jpg"></a>
+	      <a href="http://www.seattlexp.org"><img src="images/groups/SeattleXP.jpg"></a>
 	  </td>
 	  <td class="group-text">
 	  	The <a href="http://www.seattlexp.org">Seattle XP Users Group</a>
@@ -69,7 +69,7 @@ on a regular basis to share experiences and learn from each other.</p>
  
   <tr>
   	  <td class="group-logo">
-	  	  <a href="http://www.agilevancouver.ca"><img src="images/AgileVancouver.gif"></a>
+	  	  <a href="http://www.agilevancouver.ca"><img src="images/groups/AgileVancouver.gif"></a>
 	  </td>
 	  <td class="group-text">
 	  	  Agile Vancouver is a local interest group in agile software development 
