@@ -1,6 +1,4 @@
-<?php
-  include ( "header.php" );
-?>
+<?php include ( "header.php" ); ?>
 
     <p class="title">About This Site</p>
 
@@ -16,8 +14,6 @@
     simple so that it can be maintained by volunteers using freely available 
     software.
        
-    <p>This site is currently maintained by Jeremy Lightsmith</p>
+    <p>This site is currently maintained by Jeremy Lightsmith.</p>
 		 
-<?php
-  include ( "footer.php" );
-?>
+<?php include ( "footer.php" ); ?>

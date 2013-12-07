@@ -12,7 +12,7 @@
         
 		<p>We will be making use of several of the 
     <a href="http://seattlecenter.com/locations/detail.aspx?id=55">Fisher Pavilion</a>, 
-		nestled between the international fountain + the armory (more or less in the middle of the center). 
+		nestled between the International Fountain + the Armory (more or less in the middle of the center). 
 		In addition, there are numerous spots nearby for impromptu gatherings. 
 		For your dinner choices, a number of restaurants are within walking distance.</p>
  
@@ -71,6 +71,5 @@ Additional parking is also available in the area.</p>
           <li><a href="http://www.seattle-downtown.com/westlake-center/#hotels">Downtown Hotels near Westlake Center (Monorail)</a></li>
 
         </ul>
-        <?php
-  include ( "footer.php" );
-?>
+        
+<?php include ( "footer.php" ); ?>

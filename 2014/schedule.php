@@ -1,6 +1,4 @@
-<?php
-  include ( "header.php" );
-?>
+<?php include ( "header.php" ); ?>
 
         <p class="title">Schedule</p>
 		
@@ -50,7 +48,7 @@
           </tr>
           <tr>
             <td>7:30 pm - 9:00 pm</td>
-            <td>Night Owl Session W-6 (Ambridge closes by 10 pm)</td>
+            <td>Night Owl Session W-6 (Pavilion closes by 10:00 pm)</td>
           </tr>
 
           <tr>
@@ -100,7 +98,7 @@
           </tr>
           <tr>
             <td>7:30 pm - 9:00 pm</td>
-            <td>Night Owl Session T-13 (Ambridge closes by 10 pm)</td>
+            <td>Night Owl Session T-13 (Pavilion closes by 10:00 pm)</td>
           </tr>
          <tr>
          
@@ -144,10 +142,8 @@
           </tr>
           <tr>
             <td>3:00 pm - 4:30 pm</td>
-            <td>AONW 2013 Retrospective for all interested</td>
+            <td>AONW Retrospective for all interested</td>
           </tr>
           
         </table>
-        <?php
-  include ( "footer.php" );
-?>
+<?php include ( "footer.php" ); ?>

@@ -37,7 +37,7 @@ div.questions { margin: 0 2em; font-family: Times New Roman,serif;font-style: it
 <li><b>Where:</b> <a href="http://seattlecenter.com/locations/detail.aspx?id=55">Seattle Center, Fisher Pavilion</a>, Seattle, WA
 <li><b>When:</b> <?php echo $event_dates ?> - Now three days long!
 <li><b>Who:</b> YOU and other experienced, collaborative, committed agile practitioners. Registration is limited to <?php echo $event_limit ?> participants.
-<li><b>Cost:</b> <?php echo $event_cost ?> for the three-day event, including continental breakfast and lunch each day, and dinner on the first night. 
+<li><b>Cost:</b> <?php echo $event_cost ?> for the three-day event, and includes <?php echo $whats_included ?>. 
 </ul>
 
 <p>Agile Open Northwest <?php echo $event_year?> offers an opportunity to strengthen our community of practice and co-create the future for Agile development in our region. For three days, we build on conversation after conversation as we engage important questions like:
@@ -56,9 +56,9 @@ When distributed teams use Agile approaches, what changes?<br>
 If we adopt an Agile mindset, what might the transition look like in my organization?
 </div>
 
-<p>This conference contains <i>over 120 sessions</i> bringing novices, journeymen, and experts together for face-to-face conversations exploring the most important topics in Agile software development today.
+<p>This conference contains <i>over 100 sessions</i> bringing novices, journeymen, and experts together for face-to-face conversations exploring the most important topics in Agile software development today.
 
-<p><b>How does it work?</b> Your hosts designed this event to allow practitioners like you to meet in self-organizing groups where we can share our latest ideas, challenges, hopes, experiences and experiments. We follow an Open Space format to foster collaboration and allow the conference to take its direction from the participants themselves. Your commitment to arriving at the beginning and staying until the end both days will ensure that session after session will integrate, enhance, and deepen every participant’s understanding.”</b> 
+<p><b>How does it work?</b> Your hosts designed this event to allow practitioners like you to meet in self-organizing groups where we can share our latest ideas, challenges, hopes, experiences and experiments. We follow an Open Space format to foster collaboration and allow the conference to take its direction from the participants themselves. Your commitment to arriving at the beginning and staying until the end both days will ensure that session after session will integrate, enhance, and deepen every participant’s understanding.</b> 
 
 <?php if ($show_sponsors) { ?>
 
@@ -112,8 +112,6 @@ If we adopt an Agile mindset, what might the transition look like in my organiza
 	<a href="sponsorship.php">Become a Sponsor...</a>
 </div>
 
-<?php
-  }
+<?php } ?>
 
-  include ( "footer.php" );
-?>
+<? include ( "footer.php" ); ?>

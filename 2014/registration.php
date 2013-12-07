@@ -8,18 +8,11 @@
 
 <p class="title">Registration</p>
 
-<p>
-  Online registration for Agile Open Northwest <?php echo $event_year; ?> 
-  opens <?php echo $event_registration_start_time ?>.</p>
-
 <p>Registration is limited to <strong><?php echo $event_limit; ?> participants</strong>, so <strong>register early!</strong> Last year all available spots were sold in a few days.</p>
 
-<p>Registration cost is <?php echo $event_cost; ?> and includes a continental breakfast and lunch each day.</p>
+<p>Registration cost is <?php echo $event_cost; ?> and includes <?php echo $whats_included ?>.</p>
 
-<p>A refund of your registration fee less a $50 cancellation fee will be made for 
-cancellation requests received before January 24, 2012. No refunds are issued 
-after January 28, 2013. Another option if you are unable to attend is to substitute 
-someone else in your place.</p>
+<p>A refund of your registration fee less a $50 cancellation fee will be provided for cancellation requests received before January 22, 2014. No refunds will be made after that date. If you are unable to attend, you may substitute someone else in your place.</p>
 
 <p>The <strong>Register Now!</strong> button takes you to our registration service.</p>
 
@@ -28,6 +21,4 @@ your user email and password in case you want to change your registration
 information or transfer your registration to someone else.</p>
 
 
-<?php
-  include ( "footer.php" );
-?>
+<?php include ( "footer.php" ); ?>

@@ -6,13 +6,14 @@
   $event_dates = "February 5 to 7, 2014";
   
   /* Set the maximum number of paying attendees */
-  $event_limit = 150;
+  $event_limit = 125;
   
   /* Set the cost to attend */
   $event_cost = 'TBD';
 
   $event_theme = "Agile for REAL";
   
+  $whats_included = "a continental breakfast, lunch each day, and dinner on the first night";
   /* Set the status of the event here in order to control which
      of the four registration panels is displayed. Options are
 	   coming = registration not yet open

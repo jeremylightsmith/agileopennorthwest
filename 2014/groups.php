@@ -1,6 +1,4 @@
-<?php
-	include ( "header.php" );
-?>
+<?php include ( "header.php" ); ?>
 
 <p class="title">Northwest Agile Groups</p>
 
@@ -52,7 +50,9 @@ on a regular basis to share experiences and learn from each other.</p>
 	  </td>
   </tr>
 
-  <tr>
+<!--
+  their link is broken, commented out till that is fixed - Jeremy
+   <tr>
   	  <td class="group-logo">
 	      <a href="http://www.seattlexp.org"><img src="images/groups/SeattleXP.jpg"></a>
 	  </td>
@@ -66,7 +66,7 @@ on a regular basis to share experiences and learn from each other.</p>
 		  on Yahoo.
 	  </td>
   </tr>
- 
+ --> 
   <tr>
   	  <td class="group-logo">
 	  	  <a href="http://www.agilevancouver.ca"><img src="images/groups/AgileVancouver.gif"></a>
@@ -81,6 +81,4 @@ on a regular basis to share experiences and learn from each other.</p>
   
 </table>
 
-<?php
-	include ( "footer.php" );
-?>
+<?php include ( "footer.php" ); ?>
