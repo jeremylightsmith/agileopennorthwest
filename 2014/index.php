@@ -12,7 +12,7 @@ if($wiki_status == 'offline') { ?>
 </div>
 <?php } ?>
 
-<? include("twitter_panel.php"); ?>
+<?php include("twitter_panel.php"); ?>
 
 </div>
 
@@ -114,4 +114,4 @@ If we adopt an Agile mindset, what might the transition look like in my organiza
 
 <?php } ?>
 
-<? include ( "footer.php" ); ?>
+<?php include ( "footer.php" ); ?>
