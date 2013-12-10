@@ -63,13 +63,11 @@
   <td class="host-photo"><img src="images/hosts/jeremy.jpg"/></td>
   <td class="host-text">
     <b>Jeremy Lightsmith</b>
-    <p>
-      Jeremy spends most of his time &amp; energy building highly performant software development teams.
+    <p>Jeremy spends most of his time &amp; energy building highly performant software development teams.
 
-      A seasoned agile coach, trainer &amp; facilitator, Jeremy excels at creating environments where teams can discover how they work best. He has a deep understanding of agile, and is constantly looking for better ways to share knowledge and collaborate. As a presenter, Jeremy favors interactive and group techniques and pulls from disciplines as diverse as Theatre Improv and Montessori.
+    <p>A seasoned agile coach, trainer &amp; facilitator, Jeremy excels at creating environments where teams can discover how they work best. He has a deep understanding of agile, and is constantly looking for better ways to share knowledge and collaborate. As a presenter, Jeremy favors interactive and group techniques and pulls from disciplines as diverse as Theatre Improv and Montessori.
 
-      Find Jeremy at <a href="http://jeremylightsmith.com">http://jeremylightsmith.com</a> or <a href="http://twitter.com/lightsmith">@lightsmith</a>.
-    </p>
+    <p>Find Jeremy at <a href="http://jeremylightsmith.com">http://jeremylightsmith.com</a> or <a href="http://twitter.com/lightsmith">@lightsmith</a>.
   </td>  
 </tr>
 
@@ -90,23 +88,12 @@
   <td class="host-photo"><img src="images/hosts/rebecca.jpg"/></td>
   <td class="host-text">
   
-  <b>Rebecca Wirfs-Brock</b>, president of <a href="http://www.wirfs-brock.com">Wirfs-Brock Associates</a>, 
-  specializes in the development of design and architecture expertise to organizations through training, 
-  mentoring, personal coaching, and consulting. A former Agile Alliance board member and IEEE Software 
-  design columnist, Rebecca is active in the agile and patterns community. Rebecca is co-chair of the 
-  2013 Agile conference Experience Reports Track. If you are interested in writing about your agile 
-  experiences and insights and sharing them at Agile 2013, contact Rebecca.
+  <p><b>Rebecca Wirfs-Brock</b>  specializes in the development of design and architecture expertise through training, mentoring, personal coaching, and consulting. A former Agile Alliance board member and IEEE Software design columnist, Rebecca is active in the agile and patterns community. Rebecca is program director of the new Agile Experience Reports Program of the Agile Alliance and co-chair of the 2014 Agile conference Experience Reports Track and. If you are interested in writing about your agile experiences and insights and sharing them, contact Rebecca.</p>
 
-  <p>Rebecca invented the set of design practices known as Responsibility-Driven Design and has 
-  authored two popular books on object design. She is an innovator practical design and analysis 
-  techniques, including commonality-variability analysis and hot spot cards to characterize design 
-  flexibility. She excels at helping teams develop solutions to complex problems. Rebecca works with 
-  teams to improve how they approach agile design, manage and reduce technical debt, refactor their code, 
-  and address architectural risks. In addition to coaching, Rebecca teaches Pragmatic TDD, agile design 
-  and age use case writing and conducts Agile Architecture workshops.
+  <p>Rebecca invented the set of design practices known as Responsibility-Driven Design and has authored two popular books on object design. She is an innovator practical design and analysis techniques, including commonality-variability analysis and hot spot cards to characterize design flexibility. She excels at helping teams develop solutions to complex problems. Rebecca works with teams to improve how they approach agile design, manage and reduce technical debt, refactor their code, and address architectural risks. In addition to coaching, Rebecca teaches Pragmatic TDD, agile design and conducts Agile Architecture workshops.</p>
   
   <p>She blogs at 
-  <a href="http://www.wirfs-brock.com/blog>www.wirfs-brock.com/blog">www.wirfs-brock.com/blog</a>
+  <a href="http://www.wirfs-brock.com/blog>www.wirfs-brock.com/blog">www.wirfs-brock.com/blog</a></p>
 
   </td>
 </tr>
@@ -116,9 +103,11 @@
   <td class="host-photo"><img src="images/hosts/tom.jpg"/></td>
   <td class="host-text">
     <b>Tom Perry</b> 
-    Tom has been working in software development for over 20 years. He has been fortunate enough to work on teams at startup companies as well as within large corporations in the Fortune 100 and the State and Federal Government. His background includes testing, development, project/program management, coaching /mentoring and training. As part of his involvement in the greater agile community, he led the Seattle chapter of the APLN.
-    Currently, Tom works at Visa as a Senior Director and Agile Coach. He is very actively engaged in the agile community, speaking at local and international conferences and sharing his passion for building insanely great teams.
-    Check out his blog for more information about his writing, presentations and current projects <a href="http://agiletools.wordpress.com">http://agiletools.wordpress.com</a> or follow him on twitter <a href="http://twitter.com/tlperry">@tlperry</a>.
+    <p>Tom has been working in software development for over 20 years. He has been fortunate enough to work on teams at startup companies as well as within large corporations in the Fortune 100 and the State and Federal Government. His background includes testing, development, project/program management, coaching /mentoring and training. As part of his involvement in the greater agile community, he led the Seattle chapter of the APLN.
+
+    <p>Currently, Tom works at Visa as a Senior Director and Agile Coach. He is very actively engaged in the agile community, speaking at local and international conferences and sharing his passion for building insanely great teams.
+    
+    <p>Check out his blog for more information about his writing, presentations and current projects <a href="http://agiletools.wordpress.com">http://agiletools.wordpress.com</a> or follow him on twitter <a href="http://twitter.com/tlperry">@tlperry</a>.
   </td>
 </tr>
 

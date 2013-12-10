@@ -2,9 +2,10 @@
   $event_year = 2014;
   $event_dates = "February 5 to 7, 2014";
   $event_limit = 125; /* Set the maximum number of paying attendees */
-  $event_cost = 'TBD'; /* "$125" or "TBD" */
+  $event_cost = '$225'; /* "$125" or "TBD" */
   $event_theme = "Agile for REAL";
   $whats_included = "a continental breakfast, lunch each day, and dinner on the first night";
+  // $whats_included = "a continental breakfast and lunch each day";
   
   /* Set the status of the event here in order to control which
      of the four registration panels is displayed. Options are

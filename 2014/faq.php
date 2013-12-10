@@ -34,6 +34,8 @@
 
         <p class="subtitle">Why did we add a third day?</p>
         <p>Previous AONW two-day conferences were packed with sessions and filled to the limit. Your hosts felt that adding a third day would be a chance to broaden the community. It turns out that when you have *two* nights to sleep on something, the magic really begins to happen the third day...and so we expect new sessions to be added that morning that grow out of what happened the first two days. Past attendees can tell you that some of the most interesting discoveries happen during dinner, and now there are two opportunities for that. And lastly, we've found having an retrospective on the conference afterwards provides us with the best ideas for next year...and now you can join us in contributing to that learning. </p>
-        
+
+        <p class="subtitle">Why did the cost of registration go up?</p>
+        <p>Our previous low-cost venue is no longer available, and we had to move to a higher price band to satisfy our requirements for location, size, and accommodations. We tried to keep the cost as low as we could to help attendees pay their own way if they had to.</p>
 
 <?php include ( "footer.php" ); ?>
