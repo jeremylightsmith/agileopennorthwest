@@ -39,7 +39,7 @@
   $show_session_graphics = FALSE;
   
   $session_notes_url = "http://aonw2014.posterous.com";
-  $registration_url = "http://aonw2014.eventbrite.com";
+  $registration_url = "https://www.eventbrite.com/e/agile-open-northwest-2014-tickets-9367507467";
 
 /****************************************************/
 /* From this point on, values are set automatically */
