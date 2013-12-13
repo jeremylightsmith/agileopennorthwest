@@ -16,23 +16,25 @@
 		In addition, there are numerous spots nearby for impromptu gatherings. 
 		For your dinner choices, a number of restaurants are within walking distance.</p>
  
-<!-- 	<p>For out-of-towners, we have made arrangements with the following hotels in near the center 
+ 	<p>For out-of-towners, we have made arrangements with the following hotels in near the center 
            for a special rate. 
-		
-		<blockquote><a href="http://www.innatqueenanne.com">Inn At Queen Anne</a><br>
-		505 1st Ave N, Seattle, WA 98109<br>
-		(206) 282-7357<br>
-		Includes continental breakfast & internet connection, $15 parking/day<br>               
-		Standard King or Double: $69/night + tax <br>
-                If booking online, use promo code AGILE. By phone, ask for the Agile Open Northwest 2012 special rate.<br>
-		</blockquote>
 
-		<blockquote><a href="http://www.marqueen.com">Mar Queen Hotel</a><br>
-		600 Queen Anne Avenue North, Seattle, WA 98109<br>
-		(206) 282-7407<br>
-		Includes continental breakfast & internet connection, $25 valet parking/day<br>
-		Standard King or Double: $109/night + tax<br>
-                If booking online, use promo code AGILE. By phone, ask for the Agile Open Northwest 2012 special rate.<br>
+ 
+    
+    <blockquote><a href="http://www.innatqueenanne.com">Inn At Queen Anne</a><br>
+    505 1st Ave N, Seattle, WA 98109<br>
+    (206) 282-7357<br>
+Includes internet connection; $20 parking/day is additional<br>
+Standard King or Double: $99/night + tax <br>
+If booking online, use promo code AGILE. By phone, ask for the Agile Open Northwest 2014 special rate.<br>
+    </blockquote>
+
+    <blockquote><a href="http://www.marqueen.com">Mar Queen Hotel</a><br>
+    600 Queen Anne Avenue North, Seattle, WA 98109<br>
+    (206) 282-7407<br>
+Includes internet connection; $25 valet parking/day is additional<br>
+Standard King or Double: $129/night + tax<br>
+If booking online, use promo code AGILE. By phone, ask for the Agile Open Northwest 2014 special rate.<br>
 		</blockquote>
 
  --><!--
@@ -52,7 +54,7 @@
 		Standard King or Double: $72/night + tax<br>
 		You will need to ask for Agile Open NW group rate, no expiration for rate but based on availability<br>
 		</blockquote>
--->	
+	
 
 
 		
