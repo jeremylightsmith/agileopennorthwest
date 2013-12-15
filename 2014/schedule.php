@@ -48,7 +48,7 @@
           </tr>
           <tr>
             <td>7:30 pm - 9:00 pm</td>
-            <td>Night Owl Session W-6 (Pavilion closes by 10:00 pm)</td>
+            <td>Night Owl Session W-6 (venue closes by 10:00 pm)</td>
           </tr>
 
           <tr>
@@ -98,7 +98,7 @@
           </tr>
           <tr>
             <td>7:30 pm - 9:00 pm</td>
-            <td>Night Owl Session T-13 (Pavilion closes by 10:00 pm)</td>
+            <td>Night Owl Session T-13 (venue closes by 10:00 pm)</td>
           </tr>
          <tr>
          
@@ -142,7 +142,7 @@
           </tr>
           <tr>
             <td>3:00 pm - 4:30 pm</td>
-            <td>AONW Retrospective for all interested</td>
+            <td>AONW 2014 Retrospective for all interested</td>
           </tr>
           
         </table>

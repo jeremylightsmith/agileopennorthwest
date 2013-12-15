@@ -10,11 +10,8 @@
 		It is easily accessible by car, bus or riding the monorail from downtown 
 		Seattle.</p>
         
-		<p>We will be making use of several of the 
-    <a href="http://seattlecenter.com/locations/detail.aspx?id=55">Fisher Pavilion</a>, 
-		nestled between the International Fountain + the Armory (more or less in the middle of the center). 
-		In addition, there are numerous spots nearby for impromptu gatherings. 
-		For your dinner choices, a number of restaurants are within walking distance.</p>
+    <p>This year we'll be in the 
+      <a href="http://seattlecenter.com/locations/detail.aspx?id=27">Seattle Center Exhibition Hall</a>, located at 299 Mercer Street and directly across from the convenient Seattle Center parking facility. There are numerous spots nearby for impromptu gatherings, including a McMenamin's pub for you Oregonians. For your dinner choices, a number of restaurants are within walking distance.</p>
  
  	<p>For out-of-towners, we have made arrangements with the following hotels in near the center 
            for a special rate. 

@@ -53,7 +53,7 @@
   <td class="host-photo"><img src="images/hosts/ian.png"/></td>
   <td class="host-text">
   
-<b>Ian Savage.</b> A quality evangelist, Ian is a veteran software developer, quality engineer, and manager with experience in manufacturing, financial services, construction project estimating, and software security. For more than 30 years, he has worked to improve productivity and software quality through rigorous development methods and processes and now through the pragmatic application of Agile methods.
+<b>Ian Savage.</b> A quality evangelist, Ian is a veteran software developer, quality engineer, and manager with experience in manufacturing, financial services, construction project estimating, and software security. For more than 30 years, he has worked to improve productivity and software quality through rigorous development methods and processes and now through the pragmatic application of agile methods.
 
 <p>He founded/co-founded various Pacific Northwest software and quality volunteer organizations.  By day he works with the Quality Initiatives Team at McAfee focusing on metrics, static analysis, and quality systems.  His present interests are software security, insourcing vs. outsourcing, and quality training.  Like many others, Ian looks forward to retirement or Career 2.0.
   </td>
@@ -77,7 +77,7 @@
   
 <b>Michael Tardiff</b> has been working with teams to deliver software and services for three decades, in large enterprises and small startups on both coasts of the United States and in Europe. He has experience in operating systems development, enterprise portals, Web-based B-to-B e-commerce, data communications networks, Web presence, and telecommunications products. 
 
-<p>Working with teams that want to learn how to use Agile methods or to use them better, nothing makes him happier than “hearing development happen” as teams collaborate, pair-program, and resolve issues…except helping the team celebrate finishing a sprint.
+<p>Working with teams that want to learn how to use agile methods or to use them better, nothing makes him happier than “hearing development happen” as teams collaborate, pair-program, and resolve issues…except helping the team celebrate finishing a sprint.
 
 <p>Michael talks wherever and whenever he’s welcome, blogs on agile topics (<a href="http://feelingagile.com">http://feelingagile.com</a>), is a co-host of The Agile Coach podcast (available on iTunes), and spends the rest his time sailing the Pacific Northwest’s inland waters.
 

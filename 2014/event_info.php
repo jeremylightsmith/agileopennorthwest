@@ -1,10 +1,12 @@
 <?php
   $event_year = 2014;
   $event_dates = "February 5 to 7, 2014";
-  $event_limit = 125; /* Set the maximum number of paying attendees */
-  $event_cost = '$225'; /* "$125" or "TBD" */
+  $event_limit = 175; /* Set the maximum number of paying attendees */
+  $event_cost = '$250'; /* "$125" or "TBD" */
   $event_theme = "Agile for REAL";
   $whats_included = "a continental breakfast, lunch each day, and dinner on the first night";
+  $conference_email_alias = "aonw2014@agileopennorthwest.org";
+
   // $whats_included = "a continental breakfast and lunch each day";
   
   /* Set the status of the event here in order to control which
@@ -15,7 +17,7 @@
 	   past   = the event has already taken place 
      If event is 'open', it will automatically set to 'full' 
      when the event limit has been reached. */
-  $event_status = 'full';
+  $event_status = 'open';
   
   /* when registration opens
         "on December 11, 2013 at 12:00pm PST"
