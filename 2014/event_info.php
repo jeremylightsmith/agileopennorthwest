@@ -15,7 +15,7 @@
 	   past   = the event has already taken place 
      If event is 'open', it will automatically set to 'full' 
      when the event limit has been reached. */
-  $event_status = 'open';
+  $event_status = 'full';
   
   /* when registration opens
         "on December 11, 2013 at 12:00pm PST"
@@ -28,7 +28,7 @@
      'Sponsors' link goes to the info about sponsorship
      and the sponsor logos and links at the bottom of
      of the home page are eliminated. */
-  $show_sponsors = FALSE;
+  $show_sponsors = true;
 
   /* Set the status of the wiki Session Notes. Options are
          coming = The wiki is not yet open

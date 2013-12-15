@@ -67,7 +67,7 @@ If we adopt an Agile mindset, what might the transition look like in my organiza
 <div id="prime-sponsors">
 	
 	<!-- $1500 Sponsors -->
-
+<!--
   <div class="sponsor">
       <a href="sponsors.php"><img src="images/intel.png" style="margin-top: 20px"></a>
   </div>
@@ -84,12 +84,20 @@ If we adopt an Agile mindset, what might the transition look like in my organiza
    		<a href="sponsors.php"><img src="images/PNSQC-2013-square-logo.jpg"></a>
 	</div>
 	
-	<div class="sponsor">
-   		<a href="sponsors.php"><img src="images/SolutionsIQ.jpg" style="margin-top: 30px"></a>
-	</div>
+-->
+  <!-- $1000 Sponsors -->
 
-	<!-- $1000 Sponsors -->
+  <div class="sponsor">
+      <a href="sponsors.php"><img src="images/sponsors/SolutionsIQ.jpg" style="margin-top: 30px"></a>
+  </div>
 
+  <!-- $500 Sponsors (remove from front page once we have more $1500 + $1000 sponsors -->
+
+  <div class="sponsor">
+      <a href="sponsors.php"><img src="images/sponsors/NetObjectives.jpg" style="margin-top: 30px"></a>
+  </div>
+
+<!-- 
 	<div class="sponsor">
    		<a href="sponsors.php"><img src="images/AgileAlliance.jpg" style="margin-top: 20px"></a>
 	</div>
@@ -101,7 +109,7 @@ If we adopt an Agile mindset, what might the transition look like in my organiza
 	<div class="sponsor">
 	    <a href="sponsors.php"><img src="images/VersionOne.jpg" style="margin-top: 40px"></a>
 	</div>
-
+ -->
 </div>
 
 <div style="margin: 1em 0; font-size: 0.8em; clear: left">

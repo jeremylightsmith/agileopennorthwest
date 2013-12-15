@@ -37,7 +37,7 @@ Standard King or Double: $129/night + tax<br>
 If booking online, use promo code AGILE. By phone, ask for the Agile Open Northwest 2014 special rate.<br>
 		</blockquote>
 
- --><!--
+ <!--
                 <blockquote><a href="http://www.hamptoninnseattle.com/">Hampton Inn & Suites Seattle Center</a><br>
 		700 fifth avenue north, Seattle, WA, 98109<br>
 		(206) 282-7700<br>
