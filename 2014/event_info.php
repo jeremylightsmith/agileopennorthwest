@@ -52,7 +52,7 @@
   
   /* Only show the participants page if we have a list 
      of participants */
-  $show_participants = file_exists("participants.txt");
+  $show_participants = file_exists("participants.csv");
 
 ?>
 
