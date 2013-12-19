@@ -31,6 +31,9 @@ img {
     border: 0;
     max-width: 100%;
 }
+p {
+  margin: 0 0 1em;
+}
 
 /* Common Page Structure */
 #page {
@@ -86,7 +89,10 @@ img {
   background-color: #ebf5cf;
   margin-top: 2em;
   margin-left: 20px;
-}
+
+/*  position: absolute;
+  top: 12em;
+*/}
 #year-menu {
   margin-top: 2em;
 }
@@ -209,3 +215,20 @@ td.sponsor-text, td.group-text, td.host-text
   padding: 2em 0 2em 2em;
 }
 
+.logo-and-content {
+  padding-top: 10px;
+  padding-left: 210px;
+  margin-bottom: 10px;
+  overflow: auto;
+  /*clear: left;*/
+}
+
+.logo-and-content .logo img {
+  width: 200px;
+  float: left;
+  margin-left: -210px;
+}
+
+.clear {
+  clear: both;
+}

@@ -54,6 +54,18 @@
      of participants */
   $show_participants = file_exists("participants.csv");
 
+  function prime_sponsor($name) {
+    echo "<div class='sponsor'>";
+    echo "<a href='sponsors.php'><img src='images/sponsors/$name.png'></a>";
+    echo "</div>";
+  }
+
+  function foo() {
+    echo "<tr>";
+    echo "";
+    echo "</tr>";
+  }
+
 ?>
 
 

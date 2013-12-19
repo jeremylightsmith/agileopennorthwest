@@ -65,50 +65,21 @@ If we adopt an agile mindset, what might the transition look like in my organiza
 <hr style="margin: 30px 0">
 
 <div id="prime-sponsors">
-	
-	<!-- $1500 Sponsors -->
-<!--
-  <div class="sponsor">
-      <a href="sponsors.php"><img src="images/intel.png" style="margin-top: 20px"></a>
-  </div>
-  
-  <div class="sponsor">
-      <a href="sponsors.php"><img src="images/LeanKitLogo.png" style="margin-top: 40px"></a>
-  </div>
-  
-  <div class="sponsor">
-      <a href="sponsors.php"><img src="images/NewRelic_image2.jpg" style="margin-top: 50px"></a>
-  </div>
-  
-	<div class="sponsor">
-   		<a href="sponsors.php"><img src="images/PNSQC-2013-square-logo.jpg"></a>
-	</div>
-	
--->
-  <!-- $1000 Sponsors -->
+  <?php
+  // dinner sponsor
+  prime_sponsor("scrum-alliance");
 
-  <div class="sponsor">
-    <a href="http://scrumalliance.org"><img src="images/sponsors/ScrumAlliance.png" style="margin-top: 30px;"></a>
-  </div>
-  
-  <div class="sponsor">
-    <a href="sponsors.php"><img src="images/sponsors/SolutionsIQ.jpg" style="margin-top: 30px"></a>
-  </div>
+  // $1500 sponsor
 
-<!-- 
-	<div class="sponsor">
-   		<a href="sponsors.php"><img src="images/AgileAlliance.jpg" style="margin-top: 20px"></a>
-	</div>
-	
-	<div class="sponsor">
-   		<a href="sponsors.php"><img src="images/ScrumAlliance.png" style="margin-top: 40px"></a>
-	</div>
-	
-	<div class="sponsor">
-	    <a href="sponsors.php"><img src="images/VersionOne.jpg" style="margin-top: 40px"></a>
-	</div>
- -->
-</div>
+  // $1000 sponsor
+
+  prime_sponsor("intel");
+  prime_sponsor("solutions-iq");
+  prime_sponsor("version-one");
+  prime_sponsor("rally");
+  prime_sponsor("pnsqc");
+
+  ?>
 
 <div style="margin: 1em 0; font-size: 0.8em; clear: left">
 	<a href="sponsors.php">About Our Sponsors...</a>
