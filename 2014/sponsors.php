@@ -21,16 +21,26 @@ at the conference.
   </tr>
   -->
 
-  <!-- Sponsors at $1500 -->
+  <!-- dinner sponsor -->
 
-<!--   <tr>
+  <tr>
     <td class="sponsor-logo">
-      <a href="http://intel.com"><img src="images/sponsors/intel.png"></a>
+      <a href="http://scrumalliance.org"><img src="images/sponsors/ScrumAlliance.png"></a>
     </td>
     <td class="sponsor-text">
-<a href="http://intel.com">Intel Corporation</a> is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the world’s computing devices.
-     </td>
+<a href="http://scrumalliance.org">Scrum Alliance</a> is a global professional association of over 150,000 Scrum practitioners, trainers, and coaches committed to Advocacy, Community, and Education.
+<ul>
+<li><b>Advocacy</b> Help people succeed using Scrum.</li>
+<li><b>Community</b> Learn from peers at Scrum Gatherings®, user groups, and online communities.</li>
+<li><b>Education</b> Pursue your Scrum certifications in one place.</li>
+</ul>
+<p>Join us!
+    </td>
   </tr>
+
+  <!-- Sponsors at $1500 -->
+
+<!--   
 
   <tr>
     <td class="sponsor-logo">
@@ -75,7 +85,17 @@ With global reach, a large and highly experienced consulting staff, and nearly a
     </td>
   </tr>
 
-<!--   <tr>
+  <tr>
+    <td class="sponsor-logo">
+      <a href="http://intel.com"><img src="images/sponsors/intel.png"></a>
+    </td>
+    <td class="sponsor-text">
+<a href="http://intel.com">Intel Corporation</a> is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the world’s computing devices.
+     </td>
+  </tr>
+
+<!--
+  <tr>
     <td class="sponsor-logo">
       <a href="http://www.agilealliance.org"><img src="images/sponsors/AgileAlliance.jpg"></a>
     </td>
@@ -86,21 +106,6 @@ With global reach, a large and highly experienced consulting staff, and nearly a
 	  Development, agile development delivers value faster and with higher 
 	  quality. For more information visit
 	  <a href="http://www.agilealliance.org">www.agilealliance.org</a>.
-    </td>
-  </tr>
-
-  <tr>
-    <td class="sponsor-logo">
-      <a href="http://scrumalliance.org"><img src="images/sponsors/ScrumAlliance.png"></a>
-    </td>
-    <td class="sponsor-text">
-<a href="http://scrumalliance.org">Scrum Alliance</a> is a global professional association of over 150,000 Scrum practitioners, trainers, and coaches committed to Advocacy, Community, and Education.
-<ul>
-<li><b>Advocacy</b> Help people succeed using Scrum.</li>
-<li><b>Community</b> Learn from peers at Scrum Gatherings®, user groups, and online communities.</li>
-<li><b>Education</b> Pursue your Scrum certifications in one place.</li>
-</ul>
-<p>Join us!
     </td>
   </tr>
 

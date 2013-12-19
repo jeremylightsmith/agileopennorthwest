@@ -88,13 +88,11 @@ If we adopt an agile mindset, what might the transition look like in my organiza
   <!-- $1000 Sponsors -->
 
   <div class="sponsor">
-      <a href="sponsors.php"><img src="images/sponsors/SolutionsIQ.jpg" style="margin-top: 30px"></a>
+    <a href="http://scrumalliance.org"><img src="images/sponsors/ScrumAlliance.png" style="margin-top: 30px;"></a>
   </div>
-
-  <!-- $500 Sponsors (remove from front page once we have more $1500 + $1000 sponsors -->
-
+  
   <div class="sponsor">
-      <a href="sponsors.php"><img src="images/sponsors/NetObjectives.jpg" style="margin-top: 30px"></a>
+    <a href="sponsors.php"><img src="images/sponsors/SolutionsIQ.jpg" style="margin-top: 30px"></a>
   </div>
 
 <!-- 
