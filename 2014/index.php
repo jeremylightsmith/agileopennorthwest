@@ -58,7 +58,7 @@ If we adopt an agile mindset, what might the transition look like in my organiza
 
 <p>This conference contains <i>over 100 sessions</i> bringing novices, journeymen, and experts together for face-to-face conversations exploring the most important topics in agile software development today.
 
-<p><b>How does it work?</b> Your hosts designed this event to allow practitioners like you to meet in self-organizing groups where we can share our latest ideas, challenges, hopes, experiences and experiments. We follow an Open Space format to foster collaboration and allow the conference to take its direction from the participants themselves. Your commitment to arriving at the beginning and staying until the end both days will ensure that session after session will integrate, enhance, and deepen every participant’s understanding.</b> 
+<p><b>How does it work?</b> Your hosts designed this event to allow practitioners like you to meet in self-organizing groups where we can share our latest ideas, challenges, hopes, experiences and experiments. We follow an Open Space format to foster collaboration and allow the conference to take its direction from the participants themselves. Your commitment to arriving at the beginning and staying until the end, all 3 days, will ensure that session after session will integrate, enhance, and deepen every participant’s understanding.</b> 
 
 <?php if ($show_sponsors) { ?>
 
