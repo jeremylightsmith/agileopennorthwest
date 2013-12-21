@@ -34,7 +34,7 @@ div.questions { margin: 0 2em; font-family: Times New Roman,serif;font-style: it
 
 <ul>
 <li><b>What:</b> An <a href="openspace.php">Open Space</a> conference about agile practices and techniques.
-<li><b>Where:</b> <a href="http://seattlecenter.com/locations/detail.aspx?id=27">Seattle Center, Exhibition Hall</a>, Seattle, WA
+<li><b>Where:</b> <a href="http://seattlecenter.com/locations/detail.aspx?id=27">Seattle Center Exhibition Hall</a>, Seattle, WA
 <li><b>When:</b> <?php echo $event_dates ?> - Now three days long!
 <li><b>Who:</b> YOU and other experienced, collaborative, committed agile practitioners. Registration is limited to <?php echo $event_limit ?> participants.
 <li><b>Cost:</b> <?php echo $event_cost ?> for the three-day event, and includes <?php echo $whats_included ?>. 

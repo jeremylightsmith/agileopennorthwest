@@ -12,7 +12,9 @@
         
     <p>This year we'll be in the 
       <a href="http://seattlecenter.com/locations/detail.aspx?id=27">Seattle Center Exhibition Hall</a>, located at 299 Mercer Street and directly across from the convenient Seattle Center parking facility. There are numerous spots nearby for impromptu gatherings, including a McMenamin's pub for you Oregonians. For your dinner choices, a number of restaurants are within walking distance.</p>
- 
+
+<p class="title">Hotel Information</p>
+
  	<p>For out-of-towners, we have made arrangements with the following hotels in near the center 
            for a special rate. 
 
