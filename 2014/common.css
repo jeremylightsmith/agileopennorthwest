@@ -154,21 +154,26 @@ div.boxed-text {
  
 /* Home Page */
 #twitter-panel {
-    float:bottom;
-    text-align:center;
-    background-color:#ebf5cf;
-    border:1px solid #ebf5cf;
-    horizontal-align:center;
-    vertical-align:middle;
+  float:bottom;
+  text-align:center;
+  background-color:#ebf5cf;
+  border:1px solid #ebf5cf;
+  horizontal-align:center;
+  vertical-align:middle;
 }
-div.sponsor
-{
+
+.prime-sponsors .sponsor {
   margin: 0; 
   float: left;
   width: 28%;
   padding: 0 2%;
-  height: 200px;
+  /*height: 200px;*/
   text-align: center;
+}
+
+.prime-sponsors .sponsor img {
+  width: 100%;
+  margin: 0 0 5px;
 }
 
 /* Location Page */

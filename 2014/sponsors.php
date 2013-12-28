@@ -11,21 +11,20 @@ at the conference.
 
 <div class="logo-and-content">
 <a class="logo" href="http://scrumalliance.org"><img src="images/sponsors/scrum-alliance.png"></a>
-
-<a href="http://scrumalliance.org">Scrum Alliance</a> is a global professional association of over 150,000 Scrum practitioners, trainers, and coaches committed to Advocacy, Community, and Education.
-<ul>
-<li><b>Advocacy</b> Help people succeed using Scrum.</li>
-<li><b>Community</b> Learn from peers at Scrum Gatherings®, user groups, and online communities.</li>
-<li><b>Education</b> Pursue your Scrum certifications in one place.</li>
-</ul>
-<p>Join us!
+<p>
+Become part of something bigger than you alone. <a href="http://scrumalliance.org">Scrum Alliance</a> brings you together with like-minded people who are passionate about Scrum and who dream, explore – and live – project management brilliance every day. A nonprofit professional organization, we provide advocacy, community, and education to support this movement, equip our members, and help them succeed with Scrum in software development and beyond. Come sprint with us!
 </div>
 <hr/>
 
 <!-- Sponsors at $1500 -->
 
-<!--   
+<div class="logo-and-content">
+<a class="logo" href="http://scrumalliance.org"><img src="images/sponsors/plaster-group.png"></a>
+<p>
+<a href="">Plaster Group</a> is a Seattle based business and technology company providing experienced consultants in business intelligence, information management, and packaged and custom software delivery.  We help our clients in the transition to Agile and have experience in agile coaching, role mentoring, and team development.
+</div>
 
+<!--   
   <tr>
     <td class="sponsor-logo">
       <a href="http://leankit.com"><img src="images/sponsors/LeanKitLogo.png"></a>
@@ -48,24 +47,39 @@ at the conference.
 <!-- Sponsors at $1000 -->
 
 <div class="logo-and-content">
+<a class="logo" href="http://intel.com"><img src="images/sponsors/intel.png"></a>
+<p>
+<a href="http://intel.com">Intel Corporation</a> is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the world’s computing devices.
+</div>
+
+<div class="logo-and-content">
 <a class="logo" href="http://www.pnsqc.org"><img src="images/sponsors/pnsqc.png"></a>
 <p>
-The Pacific Northwest Software Quality Conference (PNSQC) 2013 - The Many Faces of Quality
-The mission of PNSQC is to enable knowledge exchange to produce higher quality software. This year, at the World Trade Center in downtown Portland we will host the leaders of the Software Quality industry, presenters from the Software Quality trenches, poster papers and exhibitors offering current trends and networking opportunities with colleagues and friends.
+The Pacific Northwest Software Quality Conference (PNSQC) 2014 – Bridges to Quality October 20-22, 2014
 <p>
-Join us at PNSQC 2013 <a href="http://www.pnsqc.org">www.pnsqc.org</>
+At the World Trade Center in downtown Portland we will host the leaders of the software quality industry, presenters from the software quality trenches, poster papers and exhibitors offering current trends and networking opportunities with colleagues and friends.
+<p>
+The mission of PNSQC is to enable knowledge exchange to produce higher quality software. Join us at PNSQC 2014 at we discover Bridges to Quality. <a href="www.pnsqc.org">www.pnsqc.org</a>
+</div>
+
+<div class="logo-and-content">
+<a class="logo" href="http://outpace.com/"><img src="images/sponsors/outpace.png"></a>
+<p>
+<a href="http://outpace.com">Outpace</a> delivers software engines tailored to your business by a unified team of world-class business experts and technologists. 
+<p>
+Outpace is actively hiring very talented developers who thrive in a loosely structured environment where development teams self-manage projects. If you are a polymath who thrives on working on hard problems across a range of different leading technologies, you may be our type of player. We love big brains, creative problem solving, and the art of programming -- while remembering that the ultimate goal is to drive value for our customers.
+</div>
+
+<div class="logo-and-content">
+<a class="logo" href="http://www.rallydev.com"><img src="images/sponsors/rally.png"></a>
+<p>
+<a href="http://www.rallydev.com">Rally Software</a> is a leading global provider of cloud-based solutions for managing Agile software development. The Rally Agile application lifecycle management (ALM) platform transforms the way organizations manage the software development lifecycle by closely aligning software development and strategic business objectives, facilitating collaboration, increasing transparency and automating manual processes. Companies use Rally to accelerate the pace of innovation, improve productivity and more effectively adapt to rapidly-changing customer needs and competitive dynamics. Rally supports 144,000 paid users and more than 1,000 customers, including 35 of the Fortune 100 companies.
 </div>
 
 <div class="logo-and-content">
 <a class="logo" href="http://www.solutionsiq.com"><img src="images/sponsors/solutions-iq.png"></a>
 <p>
 With global reach, a large and highly experienced consulting staff, and nearly a decade of Agile success across diverse industries, SolutionsIQ provides a comprehensive solution for large-scale Agile programs. The company offers the broadest range of Agile services in the industry, including management consulting, coaching, certified training, software development, and on-site Agile practitioners. Based in Redmond, Washington, the organization has operations throughout the United States and in Bangalore India.
-</div>
-
-<div class="logo-and-content">
-<a class="logo" href="http://intel.com"><img src="images/sponsors/intel.png"></a>
-<p>
-<a href="http://intel.com">Intel Corporation</a> is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the world’s computing devices.
 </div>
 
 <div class="logo-and-content">
@@ -90,12 +104,6 @@ With global reach, a large and highly experienced consulting staff, and nearly a
   </tr>
 
  -->
-
-<div class="logo-and-content">
-<a class="logo" href="http://www.rallydev.com"><img src="images/sponsors/rally.png"></a>
-<p>
-<a href="http://www.rallydev.com">Rally Software</a> is a leading global provider of cloud-based solutions for managing Agile software development. The Rally Agile application lifecycle management (ALM) platform transforms the way organizations manage the software development lifecycle by closely aligning software development and strategic business objectives, facilitating collaboration, increasing transparency and automating manual processes. Companies use Rally to accelerate the pace of innovation, improve productivity and more effectively adapt to rapidly-changing customer needs and competitive dynamics. Rally supports 144,000 paid users and more than 1,000 customers, including 35 of the Fortune 100 companies.
-</div>
 
 <!-- Sponsors at $500 -->
 <hr/>

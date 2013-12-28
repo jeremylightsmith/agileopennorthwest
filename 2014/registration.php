@@ -8,7 +8,9 @@
 
 <p class="title">Registration</p>
 
-<p>Registration is limited to <strong><?php echo $event_limit; ?> participants</strong>. We sold out our first batch of 125 registrations in under 18 hours, so we've moved to a larger venue and added 50 more spots. We suspect these won't last long either, so <strong>register right away</strong>!</p>
+<p>Registration is limited to <strong><?php echo $event_limit; ?> participants</strong>. We sold out all our paid spots, but we're keeping a waiting list, since we almost always have a few folks who change their minds as the Opening Circle approaches.</p>
+
+<!-- <p>Registration is limited to <strong><?php echo $event_limit; ?> participants</strong>. We sold out our first batch of 125 registrations in under 18 hours, so we've moved to a larger venue and added 50 more spots. We suspect these won't last long either, so <strong>register right away</strong>!</p> -->
 
 <!-- <p>Registration is limited to <strong><?php echo $event_limit; ?> participants</strong>, so <strong>register early!</strong> Last year all available spots were sold in a few days.</p> -->
 

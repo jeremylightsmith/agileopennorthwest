@@ -64,20 +64,22 @@ If we adopt an agile mindset, what might the transition look like in my organiza
 
 <hr style="margin: 30px 0">
 
-<div id="prime-sponsors">
+<div class="prime-sponsors">
   <?php
   // dinner sponsor
   prime_sponsor("scrum-alliance");
 
   // $1500 sponsor
+  prime_sponsor("plaster-group");
 
   // $1000 sponsor
 
   prime_sponsor("intel");
+  prime_sponsor("pnsqc");
+  prime_sponsor("outpace");
+  prime_sponsor("rally");
   prime_sponsor("solutions-iq");
   prime_sponsor("version-one");
-  prime_sponsor("rally");
-  prime_sponsor("pnsqc");
 
   ?>
 
