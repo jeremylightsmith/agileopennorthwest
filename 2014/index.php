@@ -28,7 +28,7 @@ div.questions { margin: 0 2em; font-family: Times New Roman,serif;font-style: it
 
 <p class="quote">"I was able to reconnect with the agile / Local community in a way that gives me so much positive energy!"
 
-<h2><!-- <span style="text-transform:uppercase;"><?php echo $event_theme ?></span> --><br/>Agile Open Northwest <?php echo $event_year ?></h2>
+<h2><span style="text-transform:uppercase;"><?php echo $event_theme ?></span><br/>Agile Open Northwest <?php echo $event_year ?></h2>
 
 <p>Agile Open Northwest, a non-profit alliance of agile practitioners in the US Pacific Northwest region, presents our eighth annual conference! 
 
