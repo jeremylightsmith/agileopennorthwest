@@ -18,10 +18,18 @@ Become part of something bigger than you alone. <a href="http://scrumalliance.o
 
 <!-- Sponsors at $1500 -->
 
+
+
 <div class="logo-and-content">
-<a class="logo" href="http://scrumalliance.org"><img src="images/sponsors/plaster-group.png"></a>
+<a class="logo" href="http://lithespeed.com/"><img src="images/sponsors/lithe-speed.png"></a>
 <p>
-<a href="">Plaster Group</a> is a Seattle based business and technology company providing experienced consultants in business intelligence, information management, and packaged and custom software delivery.  We help our clients in the transition to Agile and have experience in agile coaching, role mentoring, and team development.
+<a href="http://lithespeed.com/">LitheSpeed</a> is cadre of leading scrum trainers, agile coaches, and consultants on a mission to transform workplaces into environments that promote self-management, continuous improvement, and high morale. We believe in pragmatism over dogma, and help individuals, teams and organizations through lean and agile training, consulting, and product development.
+</div>
+
+<div class="logo-and-content">
+<a class="logo" href="http://plastergroup.com/"><img src="images/sponsors/plaster-group.png"></a>
+<p>
+<a href="http://plastergroup.com/">Plaster Group</a> is a Seattle based business and technology company providing experienced consultants in business intelligence, information management, and packaged and custom software delivery.  We help our clients in the transition to Agile and have experience in agile coaching, role mentoring, and team development.
 </div>
 
 <!--   
@@ -85,7 +93,7 @@ With global reach, a large and highly experienced consulting staff, and nearly a
 <div class="logo-and-content">
 <a class="logo" href="http://www.versionone.com"><img src="images/sponsors/version-one.png"></a>
 <p>
-<a href="http://www.versionone.com">VersionOne</a> is recognized by agile practitioners as the leader in agile management tools. By simplifying the process of planning and tracking agile software projects, we help development teams consistently deliver software faster. Since 2002, companies such as Adobe, Boeing, bwin.party, Intuit, Lilly, Lockheed Martin, Oppenheimer, Qualcomm, Sabre and Siemens have turned to VersionOne to help provide greater value to their customers.
+<a href="http://www.versionone.com">VersionOne</a> is a recognized leader in agile application lifecycle management. Our mission is to help companies envision and deliver great software.  Our promise is to work hard to promote and serve the best interests of the agile software development community and our customers.  Today more than <a href="http://www.versionone.com/about-us/customers/">50,000 teams</a>, including over 35 of the Fortune 100, use VersionOne to scale their agile initiatives faster, easier and smarter.  Whether a small team starting out with agile or a global enterprise, VersionOne customers get the industry’s best software tools backed by the pioneers in agile project management. Agile Made Easier @<a href="http://www.versionone.com/">VersionOne.com</a>
 </div>
 
 <!--
