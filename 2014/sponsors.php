@@ -41,15 +41,6 @@ Become part of something bigger than you alone. <a href="http://scrumalliance.o
 <a href="http://leankit.com">LeanKit</a>, based on Kanban, is a simple, visual project and process management tool that allows organizations to visualize and manage the flow of their work, while easily collaborating with team members to consistently deliver results.
      </td>
   </tr>
-
-  <tr>
-    <td class="sponsor-logo">
-      <a href="http://newrelic.com"><img src="images/sponsors/NewRelic_image2.jpg"></a>
-    </td>
-    <td class="sponsor-text">
-<a href="http://newrelic.com">New Relic, Inc.</a> is the all-in-one web application performance management provider for the cloud and the data center. Its SaaS solution, which combines real user monitoring, application monitoring, and server monitoring in a single solution built from the ground up, changes the way developers and operations teams manage web application performance in real-time. More than 30,000 organizations use New Relic to optimize over 8 billion transactions in production each day. 
-    </td>
-  </tr>
 -->
 
 <!-- Sponsors at $1000 -->
@@ -96,25 +87,33 @@ With global reach, a large and highly experienced consulting staff, and nearly a
 <a href="http://www.versionone.com">VersionOne</a> is a recognized leader in agile application lifecycle management. Our mission is to help companies envision and deliver great software.  Our promise is to work hard to promote and serve the best interests of the agile software development community and our customers.  Today more than <a href="http://www.versionone.com/about-us/customers/">50,000 teams</a>, including over 35 of the Fortune 100, use VersionOne to scale their agile initiatives faster, easier and smarter.  Whether a small team starting out with agile or a global enterprise, VersionOne customers get the industry’s best software tools backed by the pioneers in agile project management. Agile Made Easier @<a href="http://www.versionone.com/">VersionOne.com</a>
 </div>
 
-<!--
-  <tr>
-    <td class="sponsor-logo">
-      <a href="http://www.agilealliance.org"><img src="images/sponsors/AgileAlliance.jpg"></a>
-    </td>
-    <td class="sponsor-text">
-    The Agile Alliance is a non-profit organization that supports individuals 
-    and organizations who use agile approaches to develop software. Driven by 
-    the simple priorities articulated in the Manifesto for Agile Software 
-    Development, agile development delivers value faster and with higher 
-    quality. For more information visit
-    <a href="http://www.agilealliance.org">www.agilealliance.org</a>.
-    </td>
-  </tr>
-
- -->
-
 <!-- Sponsors at $500 -->
+
 <hr/>
+
+<div class="logo-and-content">
+<a class="logo" href="http://www.agilealliance.org"><img src="images/sponsors/agile-alliance.png"></a>
+<p>The Agile Alliance is a non-profit organization that supports individuals 
+and organizations who use agile approaches to develop software. Driven by 
+the simple priorities articulated in the Manifesto for Agile Software 
+Development, agile development delivers value faster and with higher 
+quality. For more information visit
+<a href="http://www.agilealliance.org">www.agilealliance.org</a>.
+</div>
+
+<div class="logo-and-content">
+<a class="logo" href="http://www.apexlearning.com/"><img src="images/sponsors/apex.png"></a>
+<p>
+<a href="http://www.apexlearning.com/">Apex Learning</a> is the leading provider of blended and virtual learning
+solutions to the nation's schools. Apex Learning's standards-based digital
+curriculum ― in math, science, English, social studies, world languages,
+electives and Advanced Placement ― is widely used for original credit,
+credit recovery, remediation, intervention, acceleration and exam
+preparation. Our digital curriculum provides an active learner experience
+that engages all students in rigorous coursework to prepare them for
+college and work.
+
+</div>
 
 <div class="logo-and-content">
 <a class="logo" href="http://www.sotechadvisors.com/"><img src="images/sponsors/sotech.png"></a>
@@ -126,6 +125,12 @@ With global reach, a large and highly experienced consulting staff, and nearly a
 <a class="logo" href="http://www.netobjectives.com/"><img src="images/sponsors/net-objectives.png"></a>
 <p>
 Let <a href="www.netobjectives.com">Net Objectives</a> provide thought leaders to help you.  Please contact us if you are looking at improving how your teams work together, are interested in SAFe, ATDD, patterns, Kanban or Lean. 
+</div>
+
+<div class="logo-and-content">
+<a class="logo" href="http://newrelic.com"><img src="images/sponsors/new-relic.png"></a>
+<p>
+<a href="http://newrelic.com">New Relic, Inc.</a> is the all-in-one web application performance management provider for the cloud and the data center. Its SaaS solution, which combines real user monitoring, application monitoring, and server monitoring in a single solution built from the ground up, changes the way developers and operations teams manage web application performance in real-time. More than 30,000 organizations use New Relic to optimize over 8 billion transactions in production each day. 
 </div>
 
 <hr class="clear"/>
