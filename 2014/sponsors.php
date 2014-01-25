@@ -14,10 +14,10 @@ at the conference.
 <p>
 Become part of something bigger than you alone. <a href="http://scrumalliance.org">Scrum Alliance</a> brings you together with like-minded people who are passionate about Scrum and who dream, explore – and live – project management brilliance every day. A nonprofit professional organization, we provide advocacy, community, and education to support this movement, equip our members, and help them succeed with Scrum in software development and beyond. Come sprint with us!
 </div>
+
 <hr/>
 
 <!-- Sponsors at $1500 -->
-
 
 
 <div class="logo-and-content">
@@ -31,6 +31,14 @@ Become part of something bigger than you alone. <a href="http://scrumalliance.o
 <p>
 <a href="http://plastergroup.com/">Plaster Group</a> is a Seattle based business and technology company providing experienced consultants in business intelligence, information management, and packaged and custom software delivery.  We help our clients in the transition to Agile and have experience in agile coaching, role mentoring, and team development.
 </div>
+
+<div class="logo-and-content">
+<a class="logo" href="http://skype.com"><img src="images/sponsors/skype.png"></a>
+<a class="logo" href="http://office.microsoft.com/en-us/lync/"><img src="images/sponsors/lync.png" style="margin-top: 100px;"></a>
+<p>
+Microsoft's <a href="http://skype.com">Skype</a>-<a href="http://office.microsoft.com/en-us/lync/">Lync</a> team are the communications provider that billions of people depend on every day for sharing experiences from the living room to the boardroom.  Within this team, we implement a world leading approach to agile at scale, using Scrum at its core and Skype and Lync to enhance the experience and bridge geographic diversity.
+</div>
+
 
 <!--   
   <tr>
@@ -58,7 +66,7 @@ The Pacific Northwest Software Quality Conference (PNSQC) 2014 – Bridges to Qu
 <p>
 At the World Trade Center in downtown Portland we will host the leaders of the software quality industry, presenters from the software quality trenches, poster papers and exhibitors offering current trends and networking opportunities with colleagues and friends.
 <p>
-The mission of PNSQC is to enable knowledge exchange to produce higher quality software. Join us at PNSQC 2014 at we discover Bridges to Quality. <a href="www.pnsqc.org">www.pnsqc.org</a>
+The mission of PNSQC is to enable knowledge exchange to produce higher quality software. Join us at PNSQC 2014 at we discover Bridges to Quality. <a href="http://www.pnsqc.org">www.pnsqc.org</a>
 </div>
 
 <div class="logo-and-content">
@@ -118,13 +126,13 @@ college and work.
 <div class="logo-and-content">
 <a class="logo" href="http://www.sotechadvisors.com/"><img src="images/sponsors/sotech.png"></a>
 <p>
-<a href="http://www.sotechadvisors.com/>www.sotechadvisors.com">SoTech Advisors</a> provides management consulting, coaching, training, and advisory services with a long-term focus. Specializing in agile methods, adaptive planning, and lean program and portfolio management, we deliver project results in the present while building capabilities that pay dividends in the future. 
+<a href="http://www.sotechadvisors.com">SoTech Advisors</a> provides management consulting, coaching, training, and advisory services with a long-term focus. Specializing in agile methods, adaptive planning, and lean program and portfolio management, we deliver project results in the present while building capabilities that pay dividends in the future. 
 </div>
 
 <div class="logo-and-content">
 <a class="logo" href="http://www.netobjectives.com/"><img src="images/sponsors/net-objectives.png"></a>
 <p>
-Let <a href="www.netobjectives.com">Net Objectives</a> provide thought leaders to help you.  Please contact us if you are looking at improving how your teams work together, are interested in SAFe, ATDD, patterns, Kanban or Lean. 
+Let <a href="http://www.netobjectives.com">Net Objectives</a> provide thought leaders to help you.  Please contact us if you are looking at improving how your teams work together, are interested in SAFe, ATDD, patterns, Kanban or Lean. 
 </div>
 
 <div class="logo-and-content">

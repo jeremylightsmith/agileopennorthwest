@@ -70,8 +70,10 @@ If we adopt an agile mindset, what might the transition look like in my organiza
   prime_sponsor("scrum-alliance");
 
   // $1500 sponsor
-  prime_sponsor("lithespeed");
+  prime_sponsor("lithe-speed");
   prime_sponsor("plaster-group");
+  prime_sponsor("skype");
+  prime_sponsor("lync");
 
   // $1000 sponsor
 
