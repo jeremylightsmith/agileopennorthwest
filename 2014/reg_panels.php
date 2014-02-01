@@ -19,12 +19,17 @@
 <?php } elseif ( $event_status == 'full' ) { ?>
 
   <p class="title">We're Full!</p>
-  <p>Agile Open Northwest <?php echo $event_year; ?> has reached full capacity but you can still add your name to the wait list.</p>
+  <p>Agile Open Northwest <?php echo $event_year; ?> has reached full capacity.
+
+<!--     but you can still add your name to the wait list.</p>
   <form action="<?php echo $registration_url; ?>" method="GET">
     <div class="link-button">
       <input type=submit value="Join Waitlist!">
     </div>
   </form>
+ -->
+  <?php include ("friend_of_aonw.php"); ?>
+
    
 <?php } elseif ( $event_status == 'past' ) { ?>
 

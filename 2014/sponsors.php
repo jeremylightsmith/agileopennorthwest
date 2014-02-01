@@ -19,7 +19,6 @@ Become part of something bigger than you alone. <a href="http://scrumalliance.o
 
 <!-- Sponsors at $1500 -->
 
-
 <div class="logo-and-content">
 <a class="logo" href="http://lithespeed.com/"><img src="images/sponsors/lithe-speed.png"></a>
 <p>
@@ -37,6 +36,13 @@ Become part of something bigger than you alone. <a href="http://scrumalliance.o
 <a class="logo" href="http://office.microsoft.com/en-us/lync/"><img src="images/sponsors/lync.png" style="margin-top: 100px;"></a>
 <p>
 Microsoft's <a href="http://skype.com">Skype</a>-<a href="http://office.microsoft.com/en-us/lync/">Lync</a> team are the communications provider that billions of people depend on every day for sharing experiences from the living room to the boardroom.  Within this team, we implement a world leading approach to agile at scale, using Scrum at its core and Skype and Lync to enhance the experience and bridge geographic diversity.
+</div>
+
+<div class="logo-and-content">
+<a class="logo" href="http://dashcube.com/"><img src="images/sponsors/dashcode.png"></a>
+<p>
+<a href="http://dashcube.com/">DashCube</a> helps distributed teams stay current and collaborate in
+context, with replays, tasks and messaging and without meetings and email.
 </div>
 
 

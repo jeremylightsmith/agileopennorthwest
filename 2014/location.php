@@ -33,7 +33,7 @@ Phone:  206-441-7125<br/>
 <blockquote>
 <h3>Mediterranean Inn</h3>
 425 Queen Anne Avenue North<br/>
-<a href="http://www.mediterannean-inn.com">http://www.mediterannean-inn.com</a><br/>
+<a href="http://www.mediterranean-inn.com/">http://www.mediterranean-inn.com/</a><br/>
 Phone:  206-428-4700 or 866-525-4700<br/>
 <p>We have a conference rate of $79/night for single queens (100% non-smoking, and all with kitchenettes), net and non-commission-able (no third party bookings eligible).  Ask for the AONW conference discount if calling in or use AONW as your discount code on the web site.  NOTE:  The online discount code may not be available until late on 1/13 due to technical difficulties . . .
 <p>Parking is $10/night. Both are valid from Feb 3rd to Feb 8th, any number of nights. Upgrades to Kings or Double/Doubles will be an additional $10/night, limited only by availability (all the above is limited by availability). 
