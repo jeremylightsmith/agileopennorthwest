@@ -225,6 +225,7 @@ td.sponsor-text, td.group-text, td.host-text
   padding-left: 210px;
   margin-bottom: 10px;
   overflow: auto;
+  page-break-inside: avoid;
   /*clear: left;*/
 }
 
@@ -237,3 +238,4 @@ td.sponsor-text, td.group-text, td.host-text
 .clear {
   clear: both;
 }
+

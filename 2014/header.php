@@ -11,7 +11,26 @@
 <!--[if (lt IE 9) & (!IEMobile)]>
 <link rel="stylesheet" type="text/css" href="widescreen.css" media="all" />
 <![endif]-->
+<style type="text/css" media="print">
+#logo, #header, #nav, #navbar {
+  display: none;
+}
+#content {
+  padding: 0;
+}
+body {
+  font-size: 13px;
+}
+.logo-and-content {
+  padding-left: 160px;
+}
 
+.logo-and-content .logo img {
+  width: 150px;
+  margin-left: -160px;
+}
+
+</style>
 </head>
 
 <?php
