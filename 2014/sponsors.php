@@ -147,6 +147,12 @@ Let <a href="http://www.netobjectives.com">Net Objectives</a> provide thought le
 <a href="http://newrelic.com">New Relic, Inc.</a> is the all-in-one web application performance management provider for the cloud and the data center. Its SaaS solution, which combines real user monitoring, application monitoring, and server monitoring in a single solution built from the ground up, changes the way developers and operations teams manage web application performance in real-time. More than 30,000 organizations use New Relic to optimize over 8 billion transactions in production each day. 
 </div>
 
+<div class="logo-and-content">
+<a class="logo" href="http://www.afei.org/"><img src="images/sponsors/afei.png"></a>
+<p>
+<a href="http://www.afei.org/">AFEI</a> is a member-driven association addressing enterprise information issues between industry and government including architecture, information sharing, ISR, cybersecurity, agile/lean, and mobility.  AFEI is a part of the National Defense Industrial Association.  <a href="http://www.afei.org/">www.afei.org</a>
+</div>
+
 <hr class="clear"/>
 
 <p>
