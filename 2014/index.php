@@ -84,7 +84,6 @@ If we adopt an agile mindset, what might the transition look like in my organiza
   prime_sponsor("rally");
   prime_sponsor("solutions-iq");
   prime_sponsor("version-one");
-
   ?>
 
 <div style="margin: 1em 0; font-size: 0.8em; clear: left">

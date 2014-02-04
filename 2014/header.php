@@ -88,7 +88,7 @@ body {
       menu_item("Registration", "registration.php", $event_status == 'open');
       menu_item("Open&nbsp;Space", "openspace.php");
       menu_item("Schedule", "schedule.php");
-      menu_item("Session&nbsp;Notes", "http://aonw2013.posterous.com", $wiki_status == 'online');
+      menu_item("Session&nbsp;Notes", $session_notes_url, $wiki_status == 'online');
       menu_item("Session&nbsp;Graphics", "graphics.php", $show_session_graphics);
       menu_item("Location", "location.php");
       menu_item("Sponsors", $show_sponsors ? "sponsors.php" : "sponsorship.php");

@@ -37,10 +37,10 @@
          offline = The wiki is unavailble due to maintenance
          online  = The wiki is available
      Any other value is also treated as coming */
-  $wiki_status = 'coming';
+  $wiki_status = 'online';
   $show_session_graphics = FALSE;
   
-  $session_notes_url = "http://aonw2014.posterous.com";
+  $session_notes_url = "http://aonw2014.blogspot.com/";
   $registration_url = "https://www.eventbrite.com/e/agile-open-northwest-2014-tickets-9367507467";
 
 /****************************************************/
