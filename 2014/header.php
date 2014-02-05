@@ -12,7 +12,7 @@
 <link rel="stylesheet" type="text/css" href="widescreen.css" media="all" />
 <![endif]-->
 <style type="text/css" media="print">
-#logo, #header, #nav, #navbar {
+#logo, #header, #nav, #navbar, .no-print {
   display: none;
 }
 #content {

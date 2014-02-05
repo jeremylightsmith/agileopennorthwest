@@ -155,7 +155,7 @@ Let <a href="http://www.netobjectives.com">Net Objectives</a> provide thought le
 
 <hr class="clear"/>
 
-<p>
+<p class="no-print">
 If your company would like to become a sponsor of Agile Open Northwest,
 please review our <a href="sponsorship.php">Sponsorship Opportunities</a> page.
 </p>
