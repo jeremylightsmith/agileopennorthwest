@@ -17,7 +17,7 @@
 	   past   = the event has already taken place 
      If event is 'open', it will automatically set to 'full' 
      when the event limit has been reached. */
-  $event_status = 'open';
+  $event_status = 'past';
   
   /* when registration opens
         "on December 11, 2013 at 12:00pm PST"
