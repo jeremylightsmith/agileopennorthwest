@@ -37,6 +37,8 @@
   <p>Agile Open Northwest <?php echo $event_year; ?> was a success. You can read session notes <a href="<?php echo $session_notes_url; ?>">here</a>. We hope to see you at
    the next Agile Open Northwest event.</p>
 
+  <?php include ("friend_of_aonw.php"); ?>
+
 <?php } ?>
 
 </div>
