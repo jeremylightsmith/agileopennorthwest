@@ -11,6 +11,7 @@
 <!--[if (lt IE 9) & (!IEMobile)]>
 <link rel="stylesheet" type="text/css" href="widescreen.css" media="all" />
 <![endif]-->
+<script src="jquery-2.0.3.min.js"></script>
 <style type="text/css" media="print">
 #logo, #header, #nav, #navbar, .no-print {
   display: none;
