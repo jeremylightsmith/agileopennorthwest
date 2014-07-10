@@ -1,2 +1,5 @@
 wiki
 .DS_Store
+*~
+perch/config/config.php
+perch/resources/*
