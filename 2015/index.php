@@ -47,7 +47,11 @@ div.questions { margin: 0 2em; font-family: Times New Roman,serif;font-style: it
 
   <hr style="margin: 30px 0">
 
-  <?php perch_content('Prime Sponsors'); ?>
+  <div class="row homepage-sponsors">
+    <?php perch_content('Prime Sponsors'); ?>
+    <div class="clear"></div>
+  </div>
+
 
   <div style="margin: 1em 0; font-size: 0.8em; clear: left">
     <a href="sponsors.php">About Our Sponsors...</a>
