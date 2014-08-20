@@ -1,0 +1,215 @@
+//
+// AONW Theme
+// --------------------------------------------------
+
+// Default font family, type sizes and color variables set in variables.less.
+// Further customized features for AONW are addressed in this theme file.
+
+
+//
+// Load core variables and mixins
+// --------------------------------------------------
+
+@import "variables.less";
+@import "mixins.less";
+@import "bootstrap.less";
+
+
+//
+// AONW Theme Palette
+// --------------------------------------------------
+
+// Use tint and shade to vary these colors as needed.
+
+// EXAMPLE
+// color: tint(@brand-primary, 30%);
+
+@brand-primary: 	#4bac00; 		// kelly green  — this color was defined in variables.less, but included here for reference
+									// used in the logo, headings, buttons, default navigation color, lots of stuff!
+@brand-secondary: 	#9fc700; 		// lime green - used in the logo, highlighted navigation items, the mobile menu toggle
+@brand-gray: 		#e3e3e3; 		// light gray - tints of this grey are used for backgrounds of navigation areas and "Conference Complete"
+@brand-text: 		#333333; 		// dark gray, used for text
+
+// Examples of tints and shades from the element collage:
+// 
+// tint(@brand-primary, 25%) 		// e.g. Unselected nested navigation items, default color for h3s
+// tint(@brand-gray, 75%)			// e.g. the background of the navigation areas
+//
+
+
+
+//
+// Body Text
+// --------------------------------------------------
+
+
+body {
+	-webkit-font-smoothing: antialiased;
+	font-size: floor((@font-size-base * .875)); // 14px
+	line-height: @line-height-base;
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-base;
+	}
+}
+
+.lead {
+	font-size: floor((@font-size-base * 1.15));
+	font-weight: 300;
+	line-height: 1.4;
+
+	@media (min-width: @screen-sm-min) {
+		font-size: (@font-size-base * 1.3125);
+	}
+}
+
+
+
+//
+// Links
+// --------------------------------------------------
+
+a {
+	border-bottom: 1px solid @link-color;
+	
+	&:hover,
+	&:focus {
+		color: @link-hover-color;
+		text-decoration: none;
+		border-bottom: 1px solid @link-hover-color;
+	}
+
+	&:focus {
+		.tab-focus();
+	}
+}
+
+//
+// Headings
+// --------------------------------------------------
+
+// Color and weights for H1-H6
+
+h1 {
+	font-weight:900;
+	color:@brand-primary;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+	color: @brand-primary;
+
+	small,
+	.small {
+		font-weight: 300;
+		line-height: 1;
+		color: @headings-small-color;
+	}
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3 {
+
+	small,
+	.small {
+		font-size: 100%;
+	}
+}
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+
+	small,
+	.small {
+		font-size: 100%;
+	}
+}
+
+h1, .h1 { 
+	font-size: @font-size-h2;	
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-h1;
+	}
+}
+
+h2, .h2 { 
+	font-size: @font-size-h3;	
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-h2;
+	}
+}
+
+h3, .h3 { 
+	font-size: @font-size-h4;
+	text-transform:uppercase;
+	font-weight:900;
+	letter-spacing:1px;
+	color: tint(@brand-primary, 25%);	
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-h3;
+	}
+}
+
+h4, .h4 { 
+	font-size: @font-size-h5;	
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-h4;
+	}
+}
+
+h5, .h5 { 
+	font-size: @font-size-h6;	
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-h5;
+	}
+}
+
+
+
+//
+// Faces
+// --------------------------------------------------
+
+// Remove underlines from buttons
+
+.faces-5 {
+	.clearfix();
+	margin:30px 0;
+	@media (min-width: @screen-sm-min) {
+		margin:45px 0;	
+	}
+	
+	img.face {
+		display:block;
+		float:left;
+		width:20%;
+		height:auto;
+	}
+}
+
+
+
+//
+// Buttons
+// --------------------------------------------------
+
+// Remove underlines from buttons
+
+a.btn {
+	text-decoration:none;
+}
+
+.btn {
+	
+	font-size: floor((@font-size-base * .875)); // 14px
+
+	@media (min-width: @screen-sm-min) {
+		font-size: @font-size-base;
+	}
+}
