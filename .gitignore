@@ -1,5 +1,9 @@
 wiki
 .DS_Store
 *~
-perch/config/config.php
-perch/resources/*
+public/perch/config/config.php
+public/perch/resources/*
+node_modules
+bower_components
+public/css/aonw.min.css
+public/js/aonw.js
