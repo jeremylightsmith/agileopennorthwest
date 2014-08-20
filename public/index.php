@@ -24,7 +24,7 @@
 		
 <div class="container">
 	<div class="row">
-		<div class="col-md-3">
+		<div class="col-md-3 left-nav">
 			<img src="/images/logo.png" class="logo"></img>
 			<ul class="nav">
 				<li><a href="about_open_space">About Open Space</a></li>
@@ -63,6 +63,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="/js/bootstrap.js"></script>
+<script src="/js/aonw.js"></script>
+<script src="//localhost:35729/livereload.js"></script>
 </body>
 </html>

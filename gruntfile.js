@@ -51,8 +51,14 @@ module.exports = function(grunt) {
         }
       },
       less: {
-        files: ['./app/assets/stylesheets/*.less'],
+        files: ['./less/*.less'],
         tasks: ['less'],
+        options: {
+          livereload: true
+        }
+      },
+      php: {
+        files: ['./public/**.php'],
         options: {
           livereload: true
         }
