@@ -91,6 +91,7 @@ a {
 h1 {
 	font-weight:900;
 	color:@brand-primary;
+	margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -218,13 +219,176 @@ a.btn {
 
 .left-nav {
 	text-align: center;
-
+	background-color: @gray-lighter;
+	position: fixed;
+	// todo - fix
+	width: 250px;
 	.logo {
 		width: 60%;
-		margin: 20px 0 0;
+		margin: 20px 0 30px;
 	}
 
 	ul.nav {
-		margin: 30px 0 40px;
+		margin: 0 0 30px;
+		> li {
+			> a {
+				background-color: @brand-primary;
+				color: white;
+				margin: 3px 10px;
+				border: none;
+				&:hover {
+					background-color: @brand-secondary;
+				}
+			}
+			&.active > a {
+				background-color: @brand-secondary;
+			}
+			&.page-nav > a { // the sub nav will be highlighted, no need for this to be
+				background-color: @brand-primary;
+			}
+			> ul.nav {
+				margin-top: -3px;
+				> li {
+					> a {
+						background-color: tint(@brand-primary, 25%);
+						&:hover {
+							background-color: @brand-secondary;
+						}
+					}
+					&.active > a {
+						background-color: @brand-secondary;
+					}
+				}
+			}
+		}
 	}
 }
+
+.banner {
+	position: relative;
+	height: 300px;
+	overflow: hidden;
+	margin: 30px 0 20px;
+	img.background {
+		width: 100%;
+		position: absolute;
+		margin-top: -70px;
+	}
+	.darken {
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		background-color: black;
+		opacity: 0.65;
+	}
+	.attribution {
+		position: absolute;
+		bottom: 10px;
+		right: 15px;
+		color: @brand-secondary;
+		font-size: 0.7em;
+		opacity: 0.9;
+	}
+	.words {
+		color: white;
+		position: absolute;
+		bottom: 20px;
+		left: 20px;
+		a {
+			color: white;
+			&.btn-primary {
+				margin-right: 20px;
+			}
+			&:not(.btn-primary) {
+				border-bottom: 1px solid white;
+
+			}
+		}
+		.location {
+			font-size: 3em;
+			line-height: 1em;
+			font-weight: bold;
+			margin-top: 10px;
+		}
+		.date {
+			margin-bottom: 30px;
+		}
+		.big-message {
+			font-style: italic;
+			font-size: 1.8em;
+			line-height: 1em;
+		}
+	}
+	&.homepage-banner {
+
+	}
+	&.cta-banner {
+		height: 250px;
+		img.background {
+			margin-top: -150px;
+		}
+		.words {
+			top: 60px;
+		}
+		.btn-primary {
+			position: absolute;
+			bottom: 0;
+			width: 100%;
+			padding: 14px 0;
+		}
+	}
+}
+
+.content {
+	margin-top: 135px;
+}
+
+.organization-page {
+	h1 {
+	}
+}
+
+.attention {
+	color: @brand-secondary;
+}
+
+.event-page {
+	.map {
+		height: 250px;
+		position:relative;
+		.overlay {
+			background:transparent; 
+			position:absolute; 
+			width:100%;
+			height:100%;
+			top:0;
+			z-index:100;
+		}
+	}
+}
+
+.logo-and-content {
+  padding-top: 10px;
+  padding-left: 210px;
+  margin-bottom: 10px;
+  overflow: auto;
+  page-break-inside: avoid;
+  /*clear: left;*/
+  .logo img {
+	  width: 200px;
+	  float: left;
+	  margin-left: -210px;
+	}
+	h3 {
+		margin: 0 0 6px;
+	}
+}
+
+.q-and-a {
+  border-bottom: solid 1px silver;
+  margin-bottom: 10px;
+	.question {
+	  font-weight: bold;
+	}
+}
+

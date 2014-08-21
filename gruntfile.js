@@ -11,7 +11,7 @@ module.exports = function(grunt) {
       },
       js: {
         src: [
-          './bower_components/jquery/jquery.js',
+          './bower_components/jquery/dist/jquery.js',
           './bower_components/bootstrap/dist/js/bootstrap.js',
           './js/aonw.js'
         ],
@@ -41,7 +41,7 @@ module.exports = function(grunt) {
     watch: {
       js: {
         files: [
-          './bower_components/jquery/jquery.js',
+          './bower_components/jquery/dist/jquery.js',
           './bower_components/bootstrap/dist/js/bootstrap.js',
           './js/*.js'
           ],   

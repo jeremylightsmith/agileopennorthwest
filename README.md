@@ -8,8 +8,9 @@ Install grunt, then
 
 ## Deploy
 
-hopefully soon something like
+something like
 
+    sftp 
     rsync...
 
 ## Grab participant list from eventbrite
