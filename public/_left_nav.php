@@ -29,6 +29,9 @@
           <li><a class="slow" href="#sponsors">Sponsors</a></li>
           <li><a class="slow" href="#hosts">Hosts</a></li>
           <li><a class="slow" href="#attendees">Attendees</a></li>
+          <?php if ($notes_url) { ?>
+            <li><a href="<?php print $notes_url ?>">Session Notes</a></li>
+          <?php } ?>
         </ul>
       </li>
     <? } else { ?>

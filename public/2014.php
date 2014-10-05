@@ -1,5 +1,6 @@
 <?php $class = "event-page" ?>
 <?php $page = "2014" ?>
+<?php $notes_url = "http://aonw2014.blogspot.com/" ?>
 <?php include('_header.php');?>
     
 <div class="attention">JOIN US FOR</div>
@@ -49,15 +50,14 @@
 
 
 <hr class="section"/>
-<h2 id="sponsors">Sponsors</h2>
 
-<?php perch_content("Sponsors") ?>
+<?php include('_sponsors.php'); ?>
 
 
-<hr class="section"/>
 <h2 id="hosts">Hosts</h2>
 
 <?php perch_content("Hosts") ?>
+<?php perch_content("Event Hosts") ?>
 
 
 <hr class="section"/>

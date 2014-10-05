@@ -25,7 +25,7 @@ Hosts:
 
 <?php
 
-  $file = fopen("participants.csv", "r");
+  $file = fopen("attendees.csv", "r");
   if($file && !feof($file)) {
     $hdr = fgets($file);
     while(!feof($file)){

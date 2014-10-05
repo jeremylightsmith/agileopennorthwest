@@ -5,7 +5,7 @@
 <div class="attention">JOIN US FOR</div>
 
 <h1>Agile Open Northwest</h1>
-<div class="lead">Portland, OR - February 5-7, 2015</div>
+<div class="lead"><?php perch_content("City and Date") ?></div>
 
 <div id="overview" class="banner cta-banner">
   <img src="images/circle.jpg" class="background"/>
@@ -49,15 +49,14 @@
 
 
 <hr class="section"/>
-<h2 id="sponsors">Sponsors</h2>
 
-<?php perch_content("Sponsors") ?>
+<?php include('_sponsors.php'); ?>
 
 
-<hr class="section"/>
 <h2 id="hosts">Hosts</h2>
 
 <?php perch_content("Hosts") ?>
+<?php perch_content("Event Hosts") ?>
 
 
 <hr class="section"/>
