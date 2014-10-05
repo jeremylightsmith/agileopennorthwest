@@ -229,16 +229,17 @@ a.btn {
 	width: 250px;
 	.logo {
 		width: 60%;
-		margin: 20px 0 30px;
+		margin: 15px 0 20px;
 	}
 
 	ul.nav {
-		margin: 0 0 30px;
+		margin: 0 0 20px;
 		> li {
 			> a {
 				background-color: @brand-primary;
 				color: white;
-				margin: 3px 10px;
+				margin: 2px 10px;
+				padding: 7px 15px;
 				border: none;
 				&:hover {
 					background-color: @brand-secondary;
@@ -251,7 +252,7 @@ a.btn {
 				background-color: @brand-primary;
 			}
 			> ul.nav {
-				margin-top: -3px;
+				margin-top: -2px;
 				> li {
 					> a {
 						background-color: tint(@brand-primary, 25%);
@@ -401,3 +402,10 @@ a.btn {
 	}
 }
 
+footer {
+	margin: 400px 0 50px;
+	.footer-content {
+		text-align: right;
+		color: #aaa;
+	}
+}
