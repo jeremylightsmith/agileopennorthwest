@@ -24,7 +24,7 @@
 <?php perch_content("Overview") ?>
 
 
-<hr/>
+<hr class="section"/>
 <h2 id="schedule">Conference Schedule</h2>
 
 <h3><?php perch_content("Day 1") ?></h3>
@@ -40,7 +40,7 @@
 <?php perch_content("Day 3 Schedule") ?>
 
 
-<hr/>
+<hr class="section"/>
 <h2 id="location">Location &amp; Map</h2>
 
 <?php perch_content("Location") ?>
@@ -48,19 +48,19 @@
 <?php perch_content("Map") ?>
 
 
-<hr/>
+<hr class="section"/>
 <h2 id="sponsors">Sponsors</h2>
 
 <?php perch_content("Sponsors") ?>
 
 
-<hr/>
+<hr class="section"/>
 <h2 id="hosts">Hosts</h2>
 
 <?php perch_content("Hosts") ?>
 
 
-<hr/>
+<hr class="section"/>
 <h2 id="attendees">Attendees</h2>
 
 <?php include("_attendees.php") ?>

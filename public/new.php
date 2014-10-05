@@ -32,19 +32,19 @@
 </div>
 
 
-<hr/>
+<hr class="section"/>
 <h2 id="about_open_space">About Open Space</h2>
 
 <?php perch_content("About Open Space") ?>
 
 
-<hr/>
+<hr class="section"/>
 <h2 id="faq">FAQ</h2>
 
 <?php perch_content("Questions") ?>
 
 
-<hr/>
+<hr class="section"/>
 <h2 id="contact_us">Contact Us</h2>
 
 <?php perch_content("Contact Us") ?>
