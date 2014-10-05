@@ -4,10 +4,10 @@
   <?php if ($page == "/") { ?>
     <div class="page-nav">
       <ul class="nav">
-        <li><a href="#about_us">About Us</a></li>
-        <li><a href="#about_open_space">About Open Space</a></li>
-        <li><a href="#faq">FAQ</a></li>
-        <li><a href="#contact_us">Contact Us</a></li>
+        <li><a class="slow" href="#about_us">About Us</a></li>
+        <li><a class="slow" href="#about_open_space">About Open Space</a></li>
+        <li><a class="slow" href="#faq">FAQ</a></li>
+        <li><a class="slow" href="#contact_us">Contact Us</a></li>
       </ul>
     </div>
   <?php } else { ?>
@@ -25,12 +25,12 @@
         <li class="page-nav">
           <a href="<?php print $year ?>.php"><?php print $year ?> Conference</a>
           <ul class="nav">
-            <li><a href="#overview">Overview</a></li>
-            <li><a href="#schedule">Schedule</a></li>
-            <li><a href="#location">Location</a></li>
-            <li><a href="#sponsors">Sponsors</a></li>
-            <li><a href="#hosts">Hosts</a></li>
-            <li><a href="#attendees">Attendees</a></li>
+            <li><a class="slow" href="#overview">Overview</a></li>
+            <li><a class="slow" href="#schedule">Schedule</a></li>
+            <li><a class="slow" href="#location">Location</a></li>
+            <li><a class="slow" href="#sponsors">Sponsors</a></li>
+            <li><a class="slow" href="#hosts">Hosts</a></li>
+            <li><a class="slow" href="#attendees">Attendees</a></li>
           </ul>
         </li>
       <? } else { ?>
