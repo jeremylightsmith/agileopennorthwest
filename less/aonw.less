@@ -222,11 +222,10 @@ a.btn {
 // ==================================================
 
 .left-nav {
+	display:none;
 	text-align: center;
 	background-color: @gray-lighter;
 	position: fixed;
-	// todo - fix
-	width: 250px;
 	.logo {
 		width: 60%;
 		margin: 15px 0 20px;
@@ -264,6 +263,23 @@ a.btn {
 						background-color: @brand-secondary;
 					}
 				}
+			}
+		}
+	}
+}
+
+.navbar {
+	.navbar-brand {
+		border: none;
+		img {
+			height: 35px;
+			margin-top: -5px;
+		}
+	}
+	ul.nav {
+		> li {
+			> a {
+				border: none;
 			}
 		}
 	}
@@ -345,7 +361,6 @@ a.btn {
 }
 
 .content {
-	margin-top: 135px;
 }
 
 .organization-page {
@@ -374,15 +389,15 @@ a.btn {
 
 .logo-and-content {
   padding-top: 10px;
-  padding-left: 210px;
+  padding-left: 110px;
   margin-bottom: 10px;
   overflow: auto;
   page-break-inside: avoid;
   /*clear: left;*/
   .logo img {
-	  width: 200px;
+	  width: 100px;
 	  float: left;
-	  margin-left: -210px;
+	  margin-left: -110px;
 	}
 	h3 {
 		margin: 0 0 6px;
@@ -409,3 +424,45 @@ footer {
 		color: #aaa;
 	}
 }
+
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) { 
+	.left-nav {
+		display:none;
+	}
+	.logo-and-content {
+		padding-left: 210px;
+	  .logo img {
+		  width: 200px;
+		  margin-left: -210px;
+		}
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) {
+	.left-nav {
+		width: 213px;
+		display:block;
+	}
+	.content {
+		margin-top: 135px;
+	}
+	.navbar {
+		display:none;
+	}
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {
+	.left-nav {
+		width: 263px;
+	}
+}
+
+@grid-float-breakpoint: @screen-md-min;
+
