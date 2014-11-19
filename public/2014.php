@@ -6,19 +6,19 @@
 <div class="attention">JOIN US FOR</div>
 
 <h1>Agile Open Northwest</h1>
-<div class="lead">Portland, OR - February 5-7, 2014</div>
+<div class="lead"><?php perch_content("City and Date") ?></div>
 
 <div id="overview" class="banner cta-banner">
   <img src="images/circle.jpg" class="background"/>
   <div class="darken"></div>
   <div class="words">
     <div class="attention">AGILE OPEN NORTHWEST 2014</div>
-    <div class="big-message">From nothing...fabulousness</div>
+    <div class="big-message"><?php perch_content("Theme") ?></div>
   </div>
-  <a href="#" class="btn">Register Today!</a>
+  <?php perch_content("Registration Button") ?>
 </div>
 
-<p class="lead">Agile Open Northwest, a non-profit alliance of agile practitioners in the US Pacific Northwest region, presents our eighth annual <a href="/">Open Space</a> conference about agile practices and techniques!</p>
+<p class="lead"><?php perch_content("Lead") ?></p>
 
 <h2>Overview</h2>
 

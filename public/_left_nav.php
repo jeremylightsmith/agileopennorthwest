@@ -10,10 +10,10 @@
   </div>
 <?php } else { ?>
   <ul class="nav">
-    <li><a href="/new.php#about_us">About Us</a></li>
-    <li><a href="/new.php#about_open_space">About Open Space</a></li>
-    <li><a href="/new.php#faq">FAQ</a></li>
-    <li><a href="/new.php#contact_us">Contact Us</a></li>
+    <li><a href="/#about_us">About Us</a></li>
+    <li><a href="/#about_open_space">About Open Space</a></li>
+    <li><a href="/#faq">FAQ</a></li>
+    <li><a href="/#contact_us">Contact Us</a></li>
   </ul>
 <?php } ?>
 

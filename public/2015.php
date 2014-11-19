@@ -12,12 +12,12 @@
   <div class="darken"></div>
   <div class="words">
     <div class="attention">AGILE OPEN NORTHWEST 2015</div>
-    <div class="big-message">From nothing...fabulousness</div>
+    <div class="big-message"><?php perch_content("Theme") ?></div>
   </div>
-  <a href="eventbrite.com" class="btn btn-primary">Register Today!</a>
+  <?php perch_content("Registration Button") ?>
 </div>
 
-<p class="lead">Agile Open Northwest, a non-profit alliance of agile practitioners in the US Pacific Northwest region, presents our eighth annual <a href="/">Open Space</a> conference about agile practices and techniques!</p>
+<p class="lead"><?php perch_content("Lead") ?></p>
 
 <h2>Overview</h2>
 
